@@ -1,0 +1,7 @@
+set,N,Tpex_only_n,Tpex_only_%,Tex_only_n,Tex_only_%,Shared_n,Shared_%
+Background (genome),30049320,3901709,13.0,6570929,21.9,19576682,65.1
+"Effector core (Hu 2026, top-100)",995,103,10.4,340,34.2,552,55.5
+"Effector-like (Giles 2022, top-100)",1267,123,9.7,324,25.6,820,64.7
+Effector (vs memory) (Kaech 2002),4087,455,11.1,1143,28.0,2489,60.9
+"Progenitor core (Hu 2026, top-100)",1032,128,12.4,255,24.7,649,62.9
+"Stem/metabolic (Hu 2026, top-100)",915,119,13.0,179,19.6,617,67.4

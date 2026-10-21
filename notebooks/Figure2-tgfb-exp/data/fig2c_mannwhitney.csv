@@ -1,0 +1,13 @@
+pathway,row,lfc,contact,n_contact,n_other,p
+Extracellular matrix (Reactome),0,YRT_vs_YRC_lfc,young_contact,75,114,0.0012848941451745757
+Extracellular matrix (Reactome),1,ORT_vs_ORC_lfc,young_contact,75,114,0.8693911334615095
+Extracellular matrix (Reactome),2,ORT_vs_ORC_lfc,old_contact,59,130,0.16972527513307323
+TGF-beta signaling (KEGG+Reactome),0,YRT_vs_YRC_lfc,young_contact,48,74,0.0005164770470277835
+TGF-beta signaling (KEGG+Reactome),1,ORT_vs_ORC_lfc,young_contact,48,74,0.3687562790322597
+TGF-beta signaling (KEGG+Reactome),2,ORT_vs_ORC_lfc,old_contact,33,89,0.620133771160043
+Senescence inhibitors (CellAge),0,YRT_vs_YRC_lfc,young_contact,55,76,0.00023580844416360336
+Senescence inhibitors (CellAge),1,ORT_vs_ORC_lfc,young_contact,55,76,0.6095909703202761
+Senescence inhibitors (CellAge),2,ORT_vs_ORC_lfc,old_contact,32,99,0.7908823229406242
+MYC targets v1 (H),0,YRT_vs_YRC_lfc,young_contact,60,124,0.0006522920004843954
+MYC targets v1 (H),1,ORT_vs_ORC_lfc,young_contact,60,124,0.155966380449853
+MYC targets v1 (H),2,ORT_vs_ORC_lfc,old_contact,52,132,0.998773617297977

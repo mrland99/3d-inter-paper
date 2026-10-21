@@ -1,0 +1,3 @@
+dataset,k,n_genes,n_chromosomes,pairs_T_EX_EFF,pairs_T_PEX,pairs_Shared
+cd8-hu,6,35,11,171,24,137
+li-2025,6,40,11,186,21,213

@@ -1,0 +1,15 @@
+Term,NES,NOM p-val,FDR q-val
+Cardiomyocytes (PanglaoDB),3.0422739316533645,0.0,0.0
+Cardiac muscle contraction (GO:0060048),2.4448327706264825,0.0,0.0
+Sarcomere organization (GO:0045214),2.3853523537440195,0.0,0.0
+Cardiomyocyte heart human (CellMarker),2.3793482303700766,0.0,0.0
+Striated muscle contraction (WP383),2.3592085601580344,0.0,0.0
+Myofibril (GO:0030016),2.3104271387745943,0.0,0.0
+Muscle Contraction (Reactome),2.3078415088928144,0.0,0.0
+Striated Muscle Contraction (Reactome),2.2792601042292246,0.0,0.0
+Dilated cardiomyopathy (KEGG),2.164056127872945,0.0,0.0
+Hypertrophic cardiomyopathy (KEGG),2.155260394707139,0.0,0.0
+Adrenergic signaling in cardiomyocytes (KEGG),2.1408846960114785,0.0,0.0
+Cardiac muscle contraction (KEGG),2.0807679705594597,0.0,0.0
+Cardiac Conduction (Reactome),1.9468371467116117,0.0,0.00013868938530883155
+Arrhythmogenic right ventricular cardiomyopathy (KEGG),1.6811920886046432,0.003472222222222222,0.00334835801674179

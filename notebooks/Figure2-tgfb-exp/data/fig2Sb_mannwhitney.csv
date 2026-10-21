@@ -1,0 +1,13 @@
+pathway,value,n_young_contact,n_other_contact,p
+Extracellular matrix (Reactome),genes_in_locus,75,64,5.066122253367618e-07
+Extracellular matrix (Reactome),YRT_vs_YRC_lfc,75,64,0.10152888489180269
+Extracellular matrix (Reactome),ORT_vs_ORC_lfc,75,64,0.2654977271674541
+TGF-beta signaling (KEGG+Reactome),genes_in_locus,48,36,0.003795083526301858
+TGF-beta signaling (KEGG+Reactome),YRT_vs_YRC_lfc,48,36,0.018096479957316596
+TGF-beta signaling (KEGG+Reactome),ORT_vs_ORC_lfc,48,36,0.6415758658671014
+Senescence inhibitors (CellAge),genes_in_locus,55,41,0.0655992434347553
+Senescence inhibitors (CellAge),YRT_vs_YRC_lfc,55,41,0.05230857856335106
+Senescence inhibitors (CellAge),ORT_vs_ORC_lfc,55,41,0.8997985354510284
+MYC targets v1 (H),genes_in_locus,60,69,0.059636617875176115
+MYC targets v1 (H),YRT_vs_YRC_lfc,60,69,0.01241030606772165
+MYC targets v1 (H),ORT_vs_ORC_lfc,60,69,0.37089179043262077

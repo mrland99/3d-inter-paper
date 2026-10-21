@@ -1,0 +1,17 @@
+pathway,contact,condition,n_genes,n_accessible
+Extracellular matrix (Reactome),Young-specific,Control,75,65
+Extracellular matrix (Reactome),Young-specific,TGF-β,75,69
+Extracellular matrix (Reactome),Other,Control,114,91
+Extracellular matrix (Reactome),Other,TGF-β,114,96
+TGF-beta signaling (KEGG+Reactome),Young-specific,Control,48,45
+TGF-beta signaling (KEGG+Reactome),Young-specific,TGF-β,48,46
+TGF-beta signaling (KEGG+Reactome),Other,Control,74,65
+TGF-beta signaling (KEGG+Reactome),Other,TGF-β,74,65
+Senescence inhibitors (CellAge),Young-specific,Control,55,54
+Senescence inhibitors (CellAge),Young-specific,TGF-β,55,54
+Senescence inhibitors (CellAge),Other,Control,76,70
+Senescence inhibitors (CellAge),Other,TGF-β,76,71
+MYC targets v1 (H),Young-specific,Control,60,57
+MYC targets v1 (H),Young-specific,TGF-β,60,57
+MYC targets v1 (H),Other,Control,124,117
+MYC targets v1 (H),Other,TGF-β,124,119

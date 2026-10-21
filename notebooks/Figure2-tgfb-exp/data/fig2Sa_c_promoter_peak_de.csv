@@ -1,0 +1,1151 @@
+pathway,age,gene,contact,mean_log2fc,min_padj
+Extracellular matrix (Reactome),young,ACAN,Other,-0.390560366030793,0.297287281213619
+Extracellular matrix (Reactome),young,ACTN1,Young-specific,0.22973815095991076,0.0368422917708438
+Extracellular matrix (Reactome),young,ADAM10,Other,-0.119903305851253,0.61054953279484
+Extracellular matrix (Reactome),young,ADAM12,Other,-0.0565580645239949,0.893422341315965
+Extracellular matrix (Reactome),young,ADAM15,Young-specific,-0.274477204434843,0.294149653084904
+Extracellular matrix (Reactome),young,ADAM17,Other,0.0138475508079939,0.970544816225467
+Extracellular matrix (Reactome),young,ADAM19,Other,0.532343983000092,0.0054508457010502
+Extracellular matrix (Reactome),young,ADAM9,Other,0.166210900554265,0.467172189766566
+Extracellular matrix (Reactome),young,ADAMTS1,Young-specific,-0.11871282869656699,0.661609671677162
+Extracellular matrix (Reactome),young,ADAMTS14,Young-specific,-0.49486118821878655,0.106018967440345
+Extracellular matrix (Reactome),young,ADAMTS2,Other,-0.257894519260363,0.450060204770757
+Extracellular matrix (Reactome),young,ADAMTS3,Other,0.033005330566798004,0.6317501758891
+Extracellular matrix (Reactome),young,ADAMTS4,Other,0.358011816024606,0.115291105091593
+Extracellular matrix (Reactome),young,ADAMTS5,Young-specific,0.578260739181236,0.006638632539856
+Extracellular matrix (Reactome),young,AGRN,Young-specific,-0.10803209579802285,0.551666672464984
+Extracellular matrix (Reactome),young,APP,Other,-0.0055502360108924,0.989902891786489
+Extracellular matrix (Reactome),young,ASPN,Other,0.177827440221201,0.719654836106827
+Extracellular matrix (Reactome),young,BMP1,Other,0.15628614025723,0.584349427513227
+Extracellular matrix (Reactome),young,BMP2,Other,-0.665846090407877,0.0690595892384357
+Extracellular matrix (Reactome),young,BSG,Other,-0.181728661986068,0.545389235969144
+Extracellular matrix (Reactome),young,CAPN1,Young-specific,-0.0561349560525466,0.905220578416302
+Extracellular matrix (Reactome),young,CAPN10,Other,-0.101949851555115,0.706999770139671
+Extracellular matrix (Reactome),young,CAPN15,Young-specific,-0.3856984355113265,0.0289946167834382
+Extracellular matrix (Reactome),young,CAPN2,Other,0.13249174292682,0.625558528896282
+Extracellular matrix (Reactome),young,CAPN5,Young-specific,0.0103604743328322,0.976515257804794
+Extracellular matrix (Reactome),young,CAPN7,Young-specific,-0.07418478971063575,0.814670203005097
+Extracellular matrix (Reactome),young,CAPNS1,Young-specific,0.0497113673303095,0.884310915211684
+Extracellular matrix (Reactome),young,CASP3,Other,-0.131215419653389,0.596945736155253
+Extracellular matrix (Reactome),young,CD151,Young-specific,-0.2640718765884005,0.39800565630457
+Extracellular matrix (Reactome),young,CD44,Other,-0.010827594255802,0.975958411341407
+Extracellular matrix (Reactome),young,CD47,Other,-0.277856958436344,0.25013050351663
+Extracellular matrix (Reactome),young,COL10A1,Other,0.888492023031102,0.173565526160676
+Extracellular matrix (Reactome),young,COL12A1,Other,0.489354779000312,0.0074497156826508
+Extracellular matrix (Reactome),young,COL13A1,Young-specific,0.0494185510715823,0.897100713978276
+Extracellular matrix (Reactome),young,COL15A1,Other,-0.21866512757986,0.661814718286751
+Extracellular matrix (Reactome),young,COL16A1,Other,0.715158784136944,0.0002614822856536
+Extracellular matrix (Reactome),young,COL18A1,Young-specific,-0.901644073219826,0.0038370224225388
+Extracellular matrix (Reactome),young,COL1A1,Young-specific,-0.0500784053736848,0.870105627959229
+Extracellular matrix (Reactome),young,COL1A2,Other,0.127410132190811,0.599074479463824
+Extracellular matrix (Reactome),young,COL23A1,Other,-0.411139891182596,0.220066245141861
+Extracellular matrix (Reactome),young,COL24A1,Other,0.295704896523737,0.566040966262943
+Extracellular matrix (Reactome),young,COL27A1,Other,0.005559481178493995,0.701997883788846
+Extracellular matrix (Reactome),young,COL3A1,Other,-0.19277243055007,0.726355105856018
+Extracellular matrix (Reactome),young,COL4A1,Other,-0.21524777098967302,0.511948409256724
+Extracellular matrix (Reactome),young,COL4A2,Other,-0.241663090350541,0.701997883788846
+Extracellular matrix (Reactome),young,COL5A1,Other,-0.2543458898618446,0.0094277396180687
+Extracellular matrix (Reactome),young,COL5A3,Young-specific,-0.204402326086831,0.542541207718665
+Extracellular matrix (Reactome),young,COL6A1,Young-specific,-0.053841780443508604,0.658754580109125
+Extracellular matrix (Reactome),young,COL6A2,Young-specific,-0.346822992293085,0.0743392688163747
+Extracellular matrix (Reactome),young,COL6A3,Other,0.284765795187536,0.188328322441183
+Extracellular matrix (Reactome),young,COL6A6,Other,0.36965434183106877,0.134282612892966
+Extracellular matrix (Reactome),young,COL7A1,Young-specific,0.432479173974324,0.0126428148567199
+Extracellular matrix (Reactome),young,COL8A1,Other,0.407270281902365,0.127314199270096
+Extracellular matrix (Reactome),young,COL8A2,Young-specific,-0.610791448257089,0.235457693189361
+Extracellular matrix (Reactome),young,COL9A3,Young-specific,-0.3792709545555635,0.346301731097192
+Extracellular matrix (Reactome),young,COLGALT1,Young-specific,-0.12841488246472268,0.552589671505069
+Extracellular matrix (Reactome),young,COLGALT2,Other,-0.247035949562601,0.496557390071747
+Extracellular matrix (Reactome),young,COMP,Young-specific,-0.23068314847025562,0.551003594126676
+Extracellular matrix (Reactome),young,CRTAP,Other,-0.0730871898147613,0.817262909485542
+Extracellular matrix (Reactome),young,CTSB,Other,-0.103707970832998,0.910764933945145
+Extracellular matrix (Reactome),young,CTSD,Young-specific,-0.107336682786363,0.809397095381294
+Extracellular matrix (Reactome),young,CTSK,Young-specific,-0.5024079826157123,0.0017057756853417
+Extracellular matrix (Reactome),young,DAG1,Young-specific,-0.0801749104027777,0.756796831388306
+Extracellular matrix (Reactome),young,DDR2,Other,0.4695265859265055,0.0082521404313316
+Extracellular matrix (Reactome),young,DST,Other,0.1238717865833005,0.622944101910828
+Extracellular matrix (Reactome),young,EFEMP1,Other,-0.253285074751444,0.600799420812802
+Extracellular matrix (Reactome),young,EFEMP2,Young-specific,-0.12684183266013,0.665342997749149
+Extracellular matrix (Reactome),young,ELN,Other,0.156387783375363,0.695377117240341
+Extracellular matrix (Reactome),young,EMILIN1,Young-specific,-0.202428471031394,0.425730972505297
+Extracellular matrix (Reactome),young,EMILIN2,Other,-0.4627558888594684,0.019782182146346
+Extracellular matrix (Reactome),young,FBLN2,Young-specific,-0.5495305319476965,0.0303943801788424
+Extracellular matrix (Reactome),young,FBLN5,Other,0.147549775907078,0.586280539271962
+Extracellular matrix (Reactome),young,FBN1,Other,0.108259635384111,0.7024427102341
+Extracellular matrix (Reactome),young,FGF2,Other,-0.314340956562773,0.320567267117889
+Extracellular matrix (Reactome),young,FMOD,Young-specific,0.0539759095622806,0.94193405908386
+Extracellular matrix (Reactome),young,FN1,Other,0.254667197868443,0.248147640016182
+Extracellular matrix (Reactome),young,GDF5,Young-specific,0.0185962066550181,0.958102679921296
+Extracellular matrix (Reactome),young,HAPLN1,Other,-0.0847321429219819,0.839790367792031
+Extracellular matrix (Reactome),young,HSPG2,Young-specific,-0.388719053172226,0.22921684837176
+Extracellular matrix (Reactome),young,ICAM1,Young-specific,0.0080330099364464,0.988709930417992
+Extracellular matrix (Reactome),young,ICAM5,Young-specific,-0.290503410570767,0.463196903503494
+Extracellular matrix (Reactome),young,ITGA1,Other,0.114155329029873,0.711752437211465
+Extracellular matrix (Reactome),young,ITGA10,Other,-0.23502109081380082,0.209308664885696
+Extracellular matrix (Reactome),young,ITGA11,Young-specific,-0.474462505838152,0.0304778834990466
+Extracellular matrix (Reactome),young,ITGA2,Other,0.071125749083376,0.86016719891224
+Extracellular matrix (Reactome),young,ITGA3,Young-specific,-0.0330575771542185,0.938579409307934
+Extracellular matrix (Reactome),young,ITGA4,Other,-0.236415026981272,0.398611621406447
+Extracellular matrix (Reactome),young,ITGA5,Young-specific,-0.120072539348168,0.755723358236345
+Extracellular matrix (Reactome),young,ITGA6,Other,-0.177255049775908,0.657498906261774
+Extracellular matrix (Reactome),young,ITGA8,Other,-0.144501467476714,0.725270616393531
+Extracellular matrix (Reactome),young,ITGAV,Other,0.124711738099326,0.653651433414836
+Extracellular matrix (Reactome),young,ITGB1,Other,0.361318143475757,0.0529858619072571
+Extracellular matrix (Reactome),young,ITGB2,Young-specific,-0.18308213948434,0.774227941919531
+Extracellular matrix (Reactome),young,ITGB3,Young-specific,0.0139672010466509,0.979194542728939
+Extracellular matrix (Reactome),young,ITGB5,Young-specific,-0.0763049145137773,0.922889610648795
+Extracellular matrix (Reactome),young,ITGB8,Other,0.1894704782393802,0.725851599286217
+Extracellular matrix (Reactome),young,JAM3,Other,-0.109250356539757,0.723156387116443
+Extracellular matrix (Reactome),young,LAMA1,Other,-0.427500050176397,0.664283019807645
+Extracellular matrix (Reactome),young,LAMA2,Other,0.0224100928853913,0.954420715533996
+Extracellular matrix (Reactome),young,LAMA4,Other,0.0829332305739843,0.856447690037814
+Extracellular matrix (Reactome),young,LAMB1,Other,0.0408704499266668,0.913589622614169
+Extracellular matrix (Reactome),young,LAMB2,Young-specific,-0.0164749391790446,0.968058416009197
+Extracellular matrix (Reactome),young,LAMB3,Other,-0.054198854960599,0.920441783611494
+Extracellular matrix (Reactome),young,LAMC1,Other,0.13578563876870237,0.49869014924876
+Extracellular matrix (Reactome),young,LOX,Other,0.541899253284526,0.0071903938781076
+Extracellular matrix (Reactome),young,LOXL1,Young-specific,-0.0863611088810328,0.77362024787058
+Extracellular matrix (Reactome),young,LOXL3,Other,0.153807835064876,0.593072294492752
+Extracellular matrix (Reactome),young,LOXL4,Other,-0.3303218232927695,0.0880870863905677
+Extracellular matrix (Reactome),young,LTBP1,Other,0.0251441978599872,0.964059881088976
+Extracellular matrix (Reactome),young,LTBP2,Young-specific,0.32653131923622,0.164335080639213
+Extracellular matrix (Reactome),young,LTBP3,Young-specific,0.38913010473988285,0.0062772815185479
+Extracellular matrix (Reactome),young,LUM,Other,-0.0230982271093956,0.955587092223342
+Extracellular matrix (Reactome),young,MATN3,Other,0.158184536313398,0.768787694044722
+Extracellular matrix (Reactome),young,MFAP2,Young-specific,0.566975289854893,0.0035661860423757
+Extracellular matrix (Reactome),young,MFAP3,Other,0.373838732706685,0.151942917248165
+Extracellular matrix (Reactome),young,MFAP4,Young-specific,0.2707240879062485,0.0732812817038975
+Extracellular matrix (Reactome),young,MFAP5,Other,0.560549473383639,0.0979793574433249
+Extracellular matrix (Reactome),young,MMP1,Other,0.0604417069430108,0.89195631222604
+Extracellular matrix (Reactome),young,MMP11,Young-specific,-0.249837688295929,0.389650057287184
+Extracellular matrix (Reactome),young,MMP14,Other,-0.184564947537261,0.518066087430162
+Extracellular matrix (Reactome),young,MMP16,Other,0.0172186003529922,0.961008370940692
+Extracellular matrix (Reactome),young,MMP17,Other,-0.747614994230484,0.156852319342657
+Extracellular matrix (Reactome),young,MMP19,Other,0.220761607935039,0.520708920077328
+Extracellular matrix (Reactome),young,MMP3,Other,0.893676899193715,0.0072728116987285
+Extracellular matrix (Reactome),young,NCAM1,Other,-0.25372532925777,0.570222992388323
+Extracellular matrix (Reactome),young,NCSTN,Other,-0.0348565602332654,0.92706179836794
+Extracellular matrix (Reactome),young,NID1,Other,-0.178591156461702,0.496576504849016
+Extracellular matrix (Reactome),young,NID2,Other,0.0395625389846866,0.903432156447685
+Extracellular matrix (Reactome),young,NTN4,Other,-0.1773972730874705,0.593328692426698
+Extracellular matrix (Reactome),young,P3H1,Young-specific,0.035780988082743354,0.748198024743987
+Extracellular matrix (Reactome),young,P3H3,Other,-0.0907793775055648,0.557707349586103
+Extracellular matrix (Reactome),young,P4HA1,Young-specific,-0.028861024723044,0.929862381488017
+Extracellular matrix (Reactome),young,P4HA2,Other,-0.0748033276460294,0.781178300999806
+Extracellular matrix (Reactome),young,P4HA3,Young-specific,-0.207778548685666,0.707359049237239
+Extracellular matrix (Reactome),young,P4HB,Young-specific,-0.053105223294769,0.84183124563289
+Extracellular matrix (Reactome),young,PCOLCE,Young-specific,0.2609193430931087,0.294037316429152
+Extracellular matrix (Reactome),young,PCOLCE2,Other,0.183746691344405,0.664041477133676
+Extracellular matrix (Reactome),young,PDGFA,Young-specific,-0.516030631358564,0.362466666629597
+Extracellular matrix (Reactome),young,PHYKPL,Other,-0.0688126192912374,0.860924135923106
+Extracellular matrix (Reactome),young,PLEC,Young-specific,-0.0855331899017635,0.796698676345206
+Extracellular matrix (Reactome),young,PLOD1,Young-specific,0.101033040498468,0.748088379111473
+Extracellular matrix (Reactome),young,PLOD2,Other,0.817282921143503,0.010757468896861
+Extracellular matrix (Reactome),young,PLOD3,Young-specific,-0.143880880728554,0.590429425200635
+Extracellular matrix (Reactome),young,PPIB,Young-specific,-0.0586503576672153,0.832854092567227
+Extracellular matrix (Reactome),young,PRKCA,Young-specific,-0.3214332272558108,0.0758388169105519
+Extracellular matrix (Reactome),young,PSEN1,Young-specific,-0.0429682121069126,0.91218972344068
+Extracellular matrix (Reactome),young,PTPRS,Other,-0.0077764866445031,0.98702811899304
+Extracellular matrix (Reactome),young,PXDN,Other,-0.158202043682163,0.664079218419659
+Extracellular matrix (Reactome),young,SCUBE3,Young-specific,-0.415240663102658,0.271998014573236
+Extracellular matrix (Reactome),young,SDC1,Other,0.235830191338294,0.484024152141701
+Extracellular matrix (Reactome),young,SDC2,Young-specific,-0.03427487063568065,0.786540463632674
+Extracellular matrix (Reactome),young,SDC4,Other,-0.0612905510762585,0.879264067784521
+Extracellular matrix (Reactome),young,SERPINE1,Young-specific,0.406495756783126,0.0158864952753482
+Extracellular matrix (Reactome),young,SERPINH1,Young-specific,-0.0657986604487648,0.852542972626003
+Extracellular matrix (Reactome),young,SH3PXD2A,Young-specific,-0.354113436458781,0.327274283575936
+Extracellular matrix (Reactome),young,SPARC,Other,-0.024470681539514,0.936575400097661
+Extracellular matrix (Reactome),young,TGFB1,Young-specific,-0.144196179128099,0.595108962691493
+Extracellular matrix (Reactome),young,THBS1,Young-specific,-0.0740745807354918,0.847482495085483
+Extracellular matrix (Reactome),young,TIMP2,Young-specific,-0.116561339111884,0.735311253983854
+Extracellular matrix (Reactome),young,TNC,Other,0.0208099258901668,0.955711359195487
+Extracellular matrix (Reactome),young,TNXB,Young-specific,-0.383244752365473,0.0320312200058945
+Extracellular matrix (Reactome),young,TRAPPC4,Young-specific,-0.0222145961020167,0.94989776320521
+Extracellular matrix (Reactome),young,VCAN,Other,0.444986572188397,0.0581119468498254
+Extracellular matrix (Reactome),old,ACAN,Other,-0.449533951410036,0.0810500816488476
+Extracellular matrix (Reactome),old,ACTN1,Young-specific,0.282461799078265,0.0615206280342167
+Extracellular matrix (Reactome),old,ADAM10,Other,0.202508883792507,0.40340690066096
+Extracellular matrix (Reactome),old,ADAM12,Other,0.32931419873391,0.201196959266834
+Extracellular matrix (Reactome),old,ADAM15,Young-specific,-0.149619315742731,0.565687678327428
+Extracellular matrix (Reactome),old,ADAM17,Other,0.20409339440612,0.393874811850051
+Extracellular matrix (Reactome),old,ADAM19,Other,0.553385821678233,0.0033758839120633
+Extracellular matrix (Reactome),old,ADAM9,Other,0.0158451777409693,0.962102513192108
+Extracellular matrix (Reactome),old,ADAMTS1,Young-specific,0.09877578774222534,0.628431694676487
+Extracellular matrix (Reactome),old,ADAMTS14,Young-specific,-0.40509830815840653,0.0586746042771118
+Extracellular matrix (Reactome),old,ADAMTS2,Other,-0.0528802793499743,0.885574423574325
+Extracellular matrix (Reactome),old,ADAMTS3,Other,-0.03031933021372565,0.915006318000729
+Extracellular matrix (Reactome),old,ADAMTS4,Other,0.416861000536233,0.0891539353175658
+Extracellular matrix (Reactome),old,ADAMTS5,Young-specific,0.296858706225985,0.173470614303614
+Extracellular matrix (Reactome),old,AGRN,Young-specific,0.16073645844916556,0.397976496631447
+Extracellular matrix (Reactome),old,APP,Other,0.122469148977056,0.67059996534978
+Extracellular matrix (Reactome),old,ASPN,Other,0.34621644441135,0.343793836720426
+Extracellular matrix (Reactome),old,BMP1,Other,0.280239547018551,0.187986117152763
+Extracellular matrix (Reactome),old,BMP2,Other,-0.3030826203749445,0.360740224767258
+Extracellular matrix (Reactome),old,BSG,Other,-0.0931571377228729,0.757380955336413
+Extracellular matrix (Reactome),old,CAPN1,Young-specific,0.377847158858466,0.200538234582256
+Extracellular matrix (Reactome),old,CAPN10,Other,0.0096403519883722,0.9765040491894
+Extracellular matrix (Reactome),old,CAPN15,Young-specific,-0.02590731198386835,0.888938051184681
+Extracellular matrix (Reactome),old,CAPN2,Other,0.15343750690036,0.564414470628186
+Extracellular matrix (Reactome),old,CAPN5,Young-specific,0.111380783585563,0.674757472605898
+Extracellular matrix (Reactome),old,CAPN7,Young-specific,0.03544179624661495,0.846685914796642
+Extracellular matrix (Reactome),old,CAPNS1,Young-specific,0.223132257076006,0.318763941084027
+Extracellular matrix (Reactome),old,CASP3,Other,0.129946071861173,0.614966352433127
+Extracellular matrix (Reactome),old,CD151,Young-specific,0.1148448482260645,0.197326268730184
+Extracellular matrix (Reactome),old,CD44,Other,-0.134957857596231,0.588074429692754
+Extracellular matrix (Reactome),old,CD47,Other,0.0660163192468903,0.839688163617375
+Extracellular matrix (Reactome),old,COL10A1,Other,0.730990785075628,0.10306522665518
+Extracellular matrix (Reactome),old,COL12A1,Other,0.270491406866574,0.233965795649248
+Extracellular matrix (Reactome),old,COL13A1,Young-specific,0.151587930075502,0.572211510154335
+Extracellular matrix (Reactome),old,COL15A1,Other,-0.355739114724391,0.285510985857274
+Extracellular matrix (Reactome),old,COL16A1,Other,0.623670161692193,0.0010565487666801
+Extracellular matrix (Reactome),old,COL18A1,Young-specific,-0.257972061357189,0.485449106640925
+Extracellular matrix (Reactome),old,COL1A1,Young-specific,0.178683093826796,0.445220151019393
+Extracellular matrix (Reactome),old,COL1A2,Other,0.215421645015291,0.326231794343507
+Extracellular matrix (Reactome),old,COL23A1,Other,-0.3662791373151505,0.170986176504173
+Extracellular matrix (Reactome),old,COL24A1,Other,0.283100605333562,0.446697857430687
+Extracellular matrix (Reactome),old,COL27A1,Other,0.3203147581712295,0.0615206280342167
+Extracellular matrix (Reactome),old,COL3A1,Other,-0.318958730211013,0.535888696457013
+Extracellular matrix (Reactome),old,COL4A1,Other,-0.206359317705787,0.42638347921132
+Extracellular matrix (Reactome),old,COL4A2,Other,-0.214011599675935,0.766544286447494
+Extracellular matrix (Reactome),old,COL5A1,Other,-0.051874995862213016,0.255996635678746
+Extracellular matrix (Reactome),old,COL5A3,Young-specific,0.250829559509779,0.411790581442282
+Extracellular matrix (Reactome),old,COL6A1,Young-specific,0.05095581597766975,0.673066971859958
+Extracellular matrix (Reactome),old,COL6A2,Young-specific,-0.0980545939919453,0.428830246447249
+Extracellular matrix (Reactome),old,COL6A3,Other,0.391595262466106,0.0584941474773042
+Extracellular matrix (Reactome),old,COL6A6,Other,0.2146195660888255,0.470721520137972
+Extracellular matrix (Reactome),old,COL7A1,Young-specific,0.825524974593438,7.02901685734611e-05
+Extracellular matrix (Reactome),old,COL8A1,Other,-0.0256763139538508,0.945294258760809
+Extracellular matrix (Reactome),old,COL8A2,Young-specific,0.643183478645487,0.076476347122673
+Extracellular matrix (Reactome),old,COL9A3,Young-specific,-0.23649133604788303,0.477910312501776
+Extracellular matrix (Reactome),old,COLGALT1,Young-specific,0.023601449260930496,0.513648157175906
+Extracellular matrix (Reactome),old,COLGALT2,Other,-0.0020441433785764,0.996418073642634
+Extracellular matrix (Reactome),old,COMP,Young-specific,0.4981183916087455,0.0001433702968703
+Extracellular matrix (Reactome),old,CRTAP,Other,0.166857894298054,0.545025948541756
+Extracellular matrix (Reactome),old,CTSB,Other,-0.0194986892767861,0.980842621617459
+Extracellular matrix (Reactome),old,CTSD,Young-specific,-0.226107500742156,0.457460038745174
+Extracellular matrix (Reactome),old,CTSK,Young-specific,-0.10984482639258702,0.003531129489967
+Extracellular matrix (Reactome),old,DAG1,Young-specific,0.208808703680445,0.392104698541329
+Extracellular matrix (Reactome),old,DDR2,Other,0.025757208813276748,0.71004130727368
+Extracellular matrix (Reactome),old,DST,Other,-0.06156756163743425,0.524567770725838
+Extracellular matrix (Reactome),old,EFEMP1,Other,-0.635611839366119,0.0824311368769642
+Extracellular matrix (Reactome),old,EFEMP2,Young-specific,0.018883940070831,0.95609250211917
+Extracellular matrix (Reactome),old,ELN,Other,0.405812358903635,0.140583165910051
+Extracellular matrix (Reactome),old,EMILIN1,Young-specific,0.386332873527687,0.049476544622895
+Extracellular matrix (Reactome),old,EMILIN2,Other,-0.03470955462275151,0.360590543328649
+Extracellular matrix (Reactome),old,FBLN2,Young-specific,0.2452412422239525,0.264262254997968
+Extracellular matrix (Reactome),old,FBLN5,Other,0.0547350170236711,0.85579145198961
+Extracellular matrix (Reactome),old,FBN1,Other,0.191709505100417,0.402500135876446
+Extracellular matrix (Reactome),old,FGF2,Other,0.1587815550868331,0.144721127954949
+Extracellular matrix (Reactome),old,FMOD,Young-specific,0.273724283743974,0.503646211986332
+Extracellular matrix (Reactome),old,FN1,Other,0.228999168737434,0.26544179815925
+Extracellular matrix (Reactome),old,GDF5,Young-specific,0.326565806000305,0.116501304786357
+Extracellular matrix (Reactome),old,HAPLN1,Other,-0.0351100240604234,0.931666354259349
+Extracellular matrix (Reactome),old,HSPG2,Young-specific,0.176347934366199,0.618191327680794
+Extracellular matrix (Reactome),old,ICAM1,Young-specific,-0.0290505416583068,0.942674366568494
+Extracellular matrix (Reactome),old,ICAM5,Young-specific,-0.246075299695355,0.568192820523694
+Extracellular matrix (Reactome),old,ITGA1,Other,0.204861077522201,0.390647012514105
+Extracellular matrix (Reactome),old,ITGA10,Other,0.04053307647280934,0.78019682776569
+Extracellular matrix (Reactome),old,ITGA11,Young-specific,-0.233021544954744,0.318786077300578
+Extracellular matrix (Reactome),old,ITGA2,Other,0.0560783974944731,0.868560040958762
+Extracellular matrix (Reactome),old,ITGA3,Young-specific,0.0821901743447713,0.793954667426157
+Extracellular matrix (Reactome),old,ITGA4,Other,-0.0393883050822458,0.901253959032042
+Extracellular matrix (Reactome),old,ITGA5,Young-specific,0.0297466010549466,0.938041542699408
+Extracellular matrix (Reactome),old,ITGA6,Other,-0.192223968693986,0.546211692530245
+Extracellular matrix (Reactome),old,ITGA8,Other,-0.0771725399773694,0.846233364295854
+Extracellular matrix (Reactome),old,ITGAV,Other,0.234007132423469,0.322746989217925
+Extracellular matrix (Reactome),old,ITGB1,Other,0.450419984731629,0.0264752226000677
+Extracellular matrix (Reactome),old,ITGB2,Young-specific,-0.229509820100529,0.613805356017749
+Extracellular matrix (Reactome),old,ITGB3,Young-specific,0.136754339096366,0.696879831236455
+Extracellular matrix (Reactome),old,ITGB5,Young-specific,-0.29175331729173,0.597510011653229
+Extracellular matrix (Reactome),old,ITGB8,Other,0.1619646756560038,0.729584234389172
+Extracellular matrix (Reactome),old,JAM3,Other,0.121118624695152,0.658409737638907
+Extracellular matrix (Reactome),old,LAMA1,Other,-0.215620922959378,0.793464011842424
+Extracellular matrix (Reactome),old,LAMA2,Other,0.183607034812158,0.442995169162531
+Extracellular matrix (Reactome),old,LAMA4,Other,0.0789037239485502,0.821184384664746
+Extracellular matrix (Reactome),old,LAMB1,Other,0.298824089251014,0.179307560054377
+Extracellular matrix (Reactome),old,LAMB2,Young-specific,0.190326707328055,0.404186687366914
+Extracellular matrix (Reactome),old,LAMB3,Other,0.247069859855693,0.517374101324106
+Extracellular matrix (Reactome),old,LAMC1,Other,0.05224952748843356,0.667429076460598
+Extracellular matrix (Reactome),old,LOX,Other,0.539458653834733,0.0032375261481287
+Extracellular matrix (Reactome),old,LOXL1,Young-specific,0.0167923003857713,0.960034886766964
+Extracellular matrix (Reactome),old,LOXL3,Other,0.358920857628493,0.0535779171310341
+Extracellular matrix (Reactome),old,LOXL4,Other,-0.0750308601780866,0.634157157073762
+Extracellular matrix (Reactome),old,LTBP1,Other,0.0763742738344566,0.848116685464525
+Extracellular matrix (Reactome),old,LTBP2,Young-specific,0.300997456859046,0.204136384678784
+Extracellular matrix (Reactome),old,LTBP3,Young-specific,0.842359875592385,4.706499267038181e-09
+Extracellular matrix (Reactome),old,LUM,Other,-0.575882645406205,0.0073288291865314
+Extracellular matrix (Reactome),old,MATN3,Other,0.172178456302333,0.685938717507212
+Extracellular matrix (Reactome),old,MFAP2,Young-specific,0.698143839185326,0.0005319051957566
+Extracellular matrix (Reactome),old,MFAP3,Other,0.307724716413517,0.179058472187251
+Extracellular matrix (Reactome),old,MFAP4,Young-specific,0.6455166948383475,0.0001001603594919
+Extracellular matrix (Reactome),old,MFAP5,Other,0.18877973148708,0.56947184119102
+Extracellular matrix (Reactome),old,MMP1,Other,0.0489092816119312,0.923241729961466
+Extracellular matrix (Reactome),old,MMP11,Young-specific,0.226246120645896,0.37975981850579
+Extracellular matrix (Reactome),old,MMP14,Other,0.229769070691133,0.356491756034048
+Extracellular matrix (Reactome),old,MMP16,Other,0.235468350981611,0.308279078884652
+Extracellular matrix (Reactome),old,MMP17,Other,-0.366071116048277,0.419335005394438
+Extracellular matrix (Reactome),old,MMP19,Other,0.0982279543691785,0.754090037743251
+Extracellular matrix (Reactome),old,MMP3,Other,0.217848515124205,0.574455559896577
+Extracellular matrix (Reactome),old,NCAM1,Other,-0.182941111338282,0.645346703332
+Extracellular matrix (Reactome),old,NCSTN,Other,0.205448172694903,0.400863075486271
+Extracellular matrix (Reactome),old,NID1,Other,-0.131806052067366,0.603096401352972
+Extracellular matrix (Reactome),old,NID2,Other,0.170582966671842,0.474660530645204
+Extracellular matrix (Reactome),old,NTN4,Other,-0.258929643631089,0.579132724873202
+Extracellular matrix (Reactome),old,P3H1,Young-specific,0.0737313859653852,0.801650333426443
+Extracellular matrix (Reactome),old,P3H3,Other,0.2443049212116722,0.0414685238790413
+Extracellular matrix (Reactome),old,P4HA1,Young-specific,0.112855161137531,0.69659631580713
+Extracellular matrix (Reactome),old,P4HA2,Other,0.20522720141729,0.367288665219864
+Extracellular matrix (Reactome),old,P4HA3,Young-specific,0.263213640701989,0.451295746580812
+Extracellular matrix (Reactome),old,P4HB,Young-specific,-0.051117024998606,0.880457271473161
+Extracellular matrix (Reactome),old,PCOLCE,Young-specific,0.5678041134464205,0.0028310626764096
+Extracellular matrix (Reactome),old,PCOLCE2,Other,0.259282192720674,0.342097563334029
+Extracellular matrix (Reactome),old,PDGFA,Young-specific,-0.374087337329509,0.342286109192116
+Extracellular matrix (Reactome),old,PHYKPL,Other,0.0036712772456263,0.992395504057153
+Extracellular matrix (Reactome),old,PLEC,Young-specific,0.12439680927198,0.664616775733212
+Extracellular matrix (Reactome),old,PLOD1,Young-specific,0.147220098983005,0.603270315433663
+Extracellular matrix (Reactome),old,PLOD2,Other,-0.0463718206907903,0.931381481225315
+Extracellular matrix (Reactome),old,PLOD3,Young-specific,-0.0322260027435374,0.922518120589401
+Extracellular matrix (Reactome),old,PPIB,Young-specific,0.134982831176914,0.595884317134768
+Extracellular matrix (Reactome),old,PRKCA,Young-specific,0.1376942503572005,0.132563780139581
+Extracellular matrix (Reactome),old,PSEN1,Young-specific,0.0420837745868887,0.900396591370459
+Extracellular matrix (Reactome),old,PTPRS,Other,0.234449494795212,0.379762262947381
+Extracellular matrix (Reactome),old,PXDN,Other,0.0737482756336844,0.830966911033282
+Extracellular matrix (Reactome),old,SCUBE3,Young-specific,-0.158213163202562,0.705966921125892
+Extracellular matrix (Reactome),old,SDC1,Other,0.242280115863483,0.395385412640869
+Extracellular matrix (Reactome),old,SDC2,Young-specific,-0.027859622012509494,0.236744450102969
+Extracellular matrix (Reactome),old,SDC4,Other,0.0376941081543212,0.91778633825613
+Extracellular matrix (Reactome),old,SERPINE1,Young-specific,0.54083263410684,0.0043863501474631
+Extracellular matrix (Reactome),old,SERPINH1,Young-specific,0.259573053189028,0.226120519253192
+Extracellular matrix (Reactome),old,SH3PXD2A,Young-specific,0.285948910029859,0.384928874437817
+Extracellular matrix (Reactome),old,SPARC,Other,0.468532853348858,0.0106478908551494
+Extracellular matrix (Reactome),old,TGFB1,Young-specific,0.104401164403412,0.692186425425901
+Extracellular matrix (Reactome),old,THBS1,Young-specific,-0.0905561570938884,0.725710345869827
+Extracellular matrix (Reactome),old,TIMP2,Young-specific,-0.102736692005851,0.73655010155156
+Extracellular matrix (Reactome),old,TNC,Other,-0.0981539249055913,0.765683899790624
+Extracellular matrix (Reactome),old,TNXB,Young-specific,-0.0942136573010377,0.770120508075243
+Extracellular matrix (Reactome),old,TRAPPC4,Young-specific,0.244349744842628,0.257795039192028
+Extracellular matrix (Reactome),old,VCAN,Other,0.302845282946187,0.290974581271484
+TGF-beta signaling (KEGG+Reactome),young,ACVR1,Other,-0.10726036835876,0.693701765804637
+TGF-beta signaling (KEGG+Reactome),young,ACVR2A,Other,-0.17566734447201607,0.666919190626087
+TGF-beta signaling (KEGG+Reactome),young,ACVR2B,Other,-0.4829063253548705,0.367637180330051
+TGF-beta signaling (KEGG+Reactome),young,ACVRL1,Young-specific,-0.613112214722439,0.0036252092528175
+TGF-beta signaling (KEGG+Reactome),young,BMP2,Other,-0.665846090407877,0.0690595892384357
+TGF-beta signaling (KEGG+Reactome),young,BMPR1A,Other,0.0712948465668778,0.850575455286398
+TGF-beta signaling (KEGG+Reactome),young,BMPR1B,Other,0.17990306804197853,0.25737978652075
+TGF-beta signaling (KEGG+Reactome),young,BMPR2,Other,0.259418617802984,0.172292829515817
+TGF-beta signaling (KEGG+Reactome),young,CBL,Young-specific,-0.109694423996409,0.711540662081052
+TGF-beta signaling (KEGG+Reactome),young,CCNC,Other,0.190702586057403,0.444102472320033
+TGF-beta signaling (KEGG+Reactome),young,CCNT1,Other,0.189783545147167,0.361131776638595
+TGF-beta signaling (KEGG+Reactome),young,CCNT2,Other,-0.0221494123438492,0.945808601295655
+TGF-beta signaling (KEGG+Reactome),young,CDK8,Other,0.0142870096461579,0.968923917574484
+TGF-beta signaling (KEGG+Reactome),young,CDK9,Other,-0.16127707480099746,0.463325199564232
+TGF-beta signaling (KEGG+Reactome),young,CDKN2B,Other,-0.052531866680142,0.867257348543656
+TGF-beta signaling (KEGG+Reactome),young,COL1A2,Other,0.127410132190811,0.599074479463824
+TGF-beta signaling (KEGG+Reactome),young,COMP,Young-specific,-0.23068314847025562,0.551003594126676
+TGF-beta signaling (KEGG+Reactome),young,CREBBP,Young-specific,0.0069871340602116,0.990017518014752
+TGF-beta signaling (KEGG+Reactome),young,CUL1,Other,-0.6024303769629464,0.0015857422671615
+TGF-beta signaling (KEGG+Reactome),young,E2F4,Young-specific,-0.114852510014689,0.726317478538425
+TGF-beta signaling (KEGG+Reactome),young,EP300,Young-specific,-0.148312765929945,0.481908838046175
+TGF-beta signaling (KEGG+Reactome),young,FBN1,Other,0.108259635384111,0.7024427102341
+TGF-beta signaling (KEGG+Reactome),young,FKBP1A,Young-specific,-0.0927418336755367,0.769670506327212
+TGF-beta signaling (KEGG+Reactome),young,FST,Other,-0.43535991393811,0.0193617124756023
+TGF-beta signaling (KEGG+Reactome),young,GDF5,Young-specific,0.0185962066550181,0.958102679921296
+TGF-beta signaling (KEGG+Reactome),young,HDAC1,Other,0.26567200725505,0.240505637814768
+TGF-beta signaling (KEGG+Reactome),young,ID1,Other,0.142999763438768,0.561085452876825
+TGF-beta signaling (KEGG+Reactome),young,ID2,Other,-0.020204974165792998,0.566750375059796
+TGF-beta signaling (KEGG+Reactome),young,ID3,Young-specific,0.0818761069254319,0.761021623043348
+TGF-beta signaling (KEGG+Reactome),young,ID4,Other,-0.055219097011324,0.850974735724876
+TGF-beta signaling (KEGG+Reactome),young,INHBA,Other,0.144603648575429,0.654851263761209
+TGF-beta signaling (KEGG+Reactome),young,INHBB,Other,-1.22071086771662,0.013478663870314
+TGF-beta signaling (KEGG+Reactome),young,ITGA8,Other,-0.144501467476714,0.725270616393531
+TGF-beta signaling (KEGG+Reactome),young,ITGAV,Other,0.124711738099326,0.653651433414836
+TGF-beta signaling (KEGG+Reactome),young,ITGB1,Other,0.361318143475757,0.0529858619072571
+TGF-beta signaling (KEGG+Reactome),young,ITGB3,Young-specific,0.0139672010466509,0.979194542728939
+TGF-beta signaling (KEGG+Reactome),young,ITGB5,Young-specific,-0.0763049145137773,0.922889610648795
+TGF-beta signaling (KEGG+Reactome),young,ITGB8,Other,0.1894704782393802,0.725851599286217
+TGF-beta signaling (KEGG+Reactome),young,JUNB,Young-specific,-0.0672027868184457,0.833316572184323
+TGF-beta signaling (KEGG+Reactome),young,LTBP1,Other,0.0251441978599872,0.964059881088976
+TGF-beta signaling (KEGG+Reactome),young,LTBP2,Young-specific,0.32653131923622,0.164335080639213
+TGF-beta signaling (KEGG+Reactome),young,LTBP3,Young-specific,0.38913010473988285,0.0062772815185479
+TGF-beta signaling (KEGG+Reactome),young,MAPK1,Young-specific,-0.109454202183485,0.724033727060182
+TGF-beta signaling (KEGG+Reactome),young,MAPK3,Young-specific,-0.284322329117425,0.304039255819944
+TGF-beta signaling (KEGG+Reactome),young,MEN1,Young-specific,0.0543980701193295,0.869575964135878
+TGF-beta signaling (KEGG+Reactome),young,MTMR4,Other,-0.188561208065383,0.362645529641767
+TGF-beta signaling (KEGG+Reactome),young,MYC,Other,-0.13628445530634634,0.423715359792845
+TGF-beta signaling (KEGG+Reactome),young,NCOR1,Young-specific,-0.125816863420164,0.743088858695648
+TGF-beta signaling (KEGG+Reactome),young,NCOR2,Young-specific,-0.07333038378855505,0.84055135172767
+TGF-beta signaling (KEGG+Reactome),young,NEDD4L,Other,0.0663731087227944,0.637178411430416
+TGF-beta signaling (KEGG+Reactome),young,NEDD8,Other,-0.0413949362664669,0.901203786840024
+TGF-beta signaling (KEGG+Reactome),young,PARD3,Other,-0.147213306709125,0.191363290250976
+TGF-beta signaling (KEGG+Reactome),young,PARP1,Other,-0.142552786441799,0.650095425996978
+TGF-beta signaling (KEGG+Reactome),young,PMEPA1,Other,0.177605602569401,0.490406822720265
+TGF-beta signaling (KEGG+Reactome),young,PPP1CA,Young-specific,-0.0359014166900674,0.928920918997764
+TGF-beta signaling (KEGG+Reactome),young,PPP1CB,Young-specific,-0.111721172482429,0.7024427102341
+TGF-beta signaling (KEGG+Reactome),young,PPP1CC,Young-specific,-0.1152333161058325,0.617337724512147
+TGF-beta signaling (KEGG+Reactome),young,PPP1R15A,Young-specific,0.107376244024285,0.679547997099488
+TGF-beta signaling (KEGG+Reactome),young,PPP2CA,Other,0.120848713245289,0.640666879499547
+TGF-beta signaling (KEGG+Reactome),young,PPP2R1A,Other,-0.300934295385736,0.356227568286686
+TGF-beta signaling (KEGG+Reactome),young,PPP2R1B,Other,0.116586899765936,0.71968045781911
+TGF-beta signaling (KEGG+Reactome),young,RBL1,Young-specific,0.110744204502211,0.754544582865621
+TGF-beta signaling (KEGG+Reactome),young,RBL2,Other,0.192234003024674,0.49388474115006
+TGF-beta signaling (KEGG+Reactome),young,RBX1,Young-specific,0.132636722797414,0.602477116254959
+TGF-beta signaling (KEGG+Reactome),young,RHOA,Young-specific,-0.0476568884151062,0.873430076355506
+TGF-beta signaling (KEGG+Reactome),young,RNF111,Other,0.050963880159442,0.943732830890835
+TGF-beta signaling (KEGG+Reactome),young,ROCK1,Other,0.113373678909996,0.655434390941606
+TGF-beta signaling (KEGG+Reactome),young,RPS27A,Other,0.19750010103751,0.404179538040072
+TGF-beta signaling (KEGG+Reactome),young,RPS6KB1,Young-specific,-0.234441664777216,0.411634784953884
+TGF-beta signaling (KEGG+Reactome),young,RPS6KB2,Young-specific,-0.163531275050977,0.579496413381469
+TGF-beta signaling (KEGG+Reactome),young,SERPINE1,Young-specific,0.406495756783126,0.0158864952753482
+TGF-beta signaling (KEGG+Reactome),young,SKI,Young-specific,-0.253243316239498,0.267325702146745
+TGF-beta signaling (KEGG+Reactome),young,SKIL,Other,-0.0056397751189919965,0.53713908091582
+TGF-beta signaling (KEGG+Reactome),young,SKP1,Other,0.0598935821694672,0.852545339508774
+TGF-beta signaling (KEGG+Reactome),young,SMAD1,Other,-0.173148618726925,0.534650297347149
+TGF-beta signaling (KEGG+Reactome),young,SMAD2,Young-specific,-0.17923312367933844,0.490665999433843
+TGF-beta signaling (KEGG+Reactome),young,SMAD5,Other,0.0978877715115114,0.733489739597663
+TGF-beta signaling (KEGG+Reactome),young,SMAD6,Young-specific,-0.22453206208254,0.310002705509747
+TGF-beta signaling (KEGG+Reactome),young,SMAD7,Young-specific,0.203719034954467,0.510126206649224
+TGF-beta signaling (KEGG+Reactome),young,SMAD9,Other,-1.13565323644366,0.126258373188412
+TGF-beta signaling (KEGG+Reactome),young,SMURF1,Young-specific,-0.2584444300064082,0.163510514089207
+TGF-beta signaling (KEGG+Reactome),young,SMURF2,Young-specific,-0.0329114871622343,0.94304575688702
+TGF-beta signaling (KEGG+Reactome),young,SNW1,Other,0.0928752209572414,0.774319711958679
+TGF-beta signaling (KEGG+Reactome),young,SP1,Young-specific,-0.14000552270373565,0.667345300387333
+TGF-beta signaling (KEGG+Reactome),young,STAT1,Other,0.19394299886642,0.430328968370715
+TGF-beta signaling (KEGG+Reactome),young,STRAP,Other,0.059140469828673,0.85318168869788
+TGF-beta signaling (KEGG+Reactome),young,STUB1,Young-specific,-0.16777808726327,0.539024985009419
+TGF-beta signaling (KEGG+Reactome),young,TFDP1,Young-specific,-0.260405241400721,0.364599246562219
+TGF-beta signaling (KEGG+Reactome),young,TFDP2,Other,-0.0872425932470902,0.796410181273547
+TGF-beta signaling (KEGG+Reactome),young,TGFB1,Young-specific,-0.144196179128099,0.595108962691493
+TGF-beta signaling (KEGG+Reactome),young,TGFBR1,Other,-0.0950926113116994,0.749184136840533
+TGF-beta signaling (KEGG+Reactome),young,TGFBR2,Other,0.0180366982060912,0.959796049887205
+TGF-beta signaling (KEGG+Reactome),young,TGIF1,Other,-1.2212677912305,0.10430002551831
+TGF-beta signaling (KEGG+Reactome),young,TGIF2,Young-specific,0.187538965337054,0.685221755299232
+TGF-beta signaling (KEGG+Reactome),young,THBS1,Young-specific,-0.0740745807354918,0.847482495085483
+TGF-beta signaling (KEGG+Reactome),young,THBS2,Other,-0.167991386011754,0.63384713438388
+TGF-beta signaling (KEGG+Reactome),young,THBS3,Young-specific,-0.172361083243943,0.44921657676741
+TGF-beta signaling (KEGG+Reactome),young,TRIM33,Other,0.0166236503525781,0.932485313297129
+TGF-beta signaling (KEGG+Reactome),young,UBA52,Young-specific,0.122763667946928,0.63619745862137
+TGF-beta signaling (KEGG+Reactome),young,UBB,Young-specific,0.154312098961567,0.586391242800723
+TGF-beta signaling (KEGG+Reactome),young,UBC,Young-specific,0.167307788276927,0.462747738862799
+TGF-beta signaling (KEGG+Reactome),young,UBE2D1,Other,-0.164407059457884,0.621927452356123
+TGF-beta signaling (KEGG+Reactome),young,UBE2D3,Other,-0.0051476517538657,0.988954174940352
+TGF-beta signaling (KEGG+Reactome),young,UBE2M,Other,0.0115322612608126,0.971873787455502
+TGF-beta signaling (KEGG+Reactome),young,UCHL5,Other,0.198592367229671,0.353839914115041
+TGF-beta signaling (KEGG+Reactome),young,USP15,Other,-0.0150411701302906,0.964599157070588
+TGF-beta signaling (KEGG+Reactome),young,WWTR1,Other,-0.318011415736896,0.836604065945652
+TGF-beta signaling (KEGG+Reactome),young,XPO1,Other,-0.192272399182351,0.351400602826575
+TGF-beta signaling (KEGG+Reactome),young,YBX1,Young-specific,0.22378886823842,0.272906645672848
+TGF-beta signaling (KEGG+Reactome),young,ZFYVE16,Other,0.124316209960888,0.634781984480069
+TGF-beta signaling (KEGG+Reactome),young,ZFYVE9,Other,0.0092624484103233,0.984041809156552
+TGF-beta signaling (KEGG+Reactome),old,ACVR1,Other,0.170718264598826,0.367009172407072
+TGF-beta signaling (KEGG+Reactome),old,ACVR2A,Other,0.04004176006337563,0.818882757679709
+TGF-beta signaling (KEGG+Reactome),old,ACVR2B,Other,-0.4206223413835835,0.262251420018364
+TGF-beta signaling (KEGG+Reactome),old,ACVRL1,Young-specific,-0.261908673638645,0.269146863506934
+TGF-beta signaling (KEGG+Reactome),old,BMP2,Other,-0.3030826203749445,0.360740224767258
+TGF-beta signaling (KEGG+Reactome),old,BMPR1A,Other,-0.1795757703197815,0.2193056102089
+TGF-beta signaling (KEGG+Reactome),old,BMPR1B,Other,0.01078252116462465,0.926200669145548
+TGF-beta signaling (KEGG+Reactome),old,BMPR2,Other,0.479335286063681,0.0098621227738874
+TGF-beta signaling (KEGG+Reactome),old,CBL,Young-specific,0.306742348961737,0.134286575866397
+TGF-beta signaling (KEGG+Reactome),old,CCNC,Other,-0.0013989858479126,0.996843411428878
+TGF-beta signaling (KEGG+Reactome),old,CCNT1,Other,0.25097920756681,0.305147206810479
+TGF-beta signaling (KEGG+Reactome),old,CCNT2,Other,0.155739621344741,0.513920272943489
+TGF-beta signaling (KEGG+Reactome),old,CDK8,Other,0.0850905894661675,0.767683929584246
+TGF-beta signaling (KEGG+Reactome),old,CDK9,Other,0.05410202596718715,0.865562282390264
+TGF-beta signaling (KEGG+Reactome),old,CDKN2B,Other,0.0252757333187952,0.93633551252237
+TGF-beta signaling (KEGG+Reactome),old,COL1A2,Other,0.215421645015291,0.326231794343507
+TGF-beta signaling (KEGG+Reactome),old,COMP,Young-specific,0.4981183916087455,0.0001433702968703
+TGF-beta signaling (KEGG+Reactome),old,CREBBP,Young-specific,-0.234496346283934,0.399595814161114
+TGF-beta signaling (KEGG+Reactome),old,CUL1,Other,-0.49683234208108523,0.0037240572820162
+TGF-beta signaling (KEGG+Reactome),old,E2F4,Young-specific,-0.243642221362834,0.306972115638903
+TGF-beta signaling (KEGG+Reactome),old,EP300,Young-specific,-0.031692601984211,0.65408163996266
+TGF-beta signaling (KEGG+Reactome),old,FBN1,Other,0.191709505100417,0.402500135876446
+TGF-beta signaling (KEGG+Reactome),old,FKBP1A,Young-specific,0.0506757543006718,0.873470238093283
+TGF-beta signaling (KEGG+Reactome),old,FST,Other,-0.36375567971301104,0.345719976847848
+TGF-beta signaling (KEGG+Reactome),old,GDF5,Young-specific,0.326565806000305,0.116501304786357
+TGF-beta signaling (KEGG+Reactome),old,HDAC1,Other,0.165348593406017,0.549433488476367
+TGF-beta signaling (KEGG+Reactome),old,ID1,Other,0.25275050597265,0.387176377298702
+TGF-beta signaling (KEGG+Reactome),old,ID2,Other,0.43219837401857053,0.0511303226218627
+TGF-beta signaling (KEGG+Reactome),old,ID3,Young-specific,0.186857899527277,0.471246771244034
+TGF-beta signaling (KEGG+Reactome),old,ID4,Other,0.0510494515906664,0.870069626317303
+TGF-beta signaling (KEGG+Reactome),old,INHBA,Other,0.0375439402986871,0.914386017926394
+TGF-beta signaling (KEGG+Reactome),old,INHBB,Other,-0.581196561757962,0.259296580779527
+TGF-beta signaling (KEGG+Reactome),old,ITGA8,Other,-0.0771725399773694,0.846233364295854
+TGF-beta signaling (KEGG+Reactome),old,ITGAV,Other,0.234007132423469,0.322746989217925
+TGF-beta signaling (KEGG+Reactome),old,ITGB1,Other,0.450419984731629,0.0264752226000677
+TGF-beta signaling (KEGG+Reactome),old,ITGB3,Young-specific,0.136754339096366,0.696879831236455
+TGF-beta signaling (KEGG+Reactome),old,ITGB5,Young-specific,-0.29175331729173,0.597510011653229
+TGF-beta signaling (KEGG+Reactome),old,ITGB8,Other,0.1619646756560038,0.729584234389172
+TGF-beta signaling (KEGG+Reactome),old,JUNB,Young-specific,-0.0210390933118692,0.948307733159494
+TGF-beta signaling (KEGG+Reactome),old,LTBP1,Other,0.0763742738344566,0.848116685464525
+TGF-beta signaling (KEGG+Reactome),old,LTBP2,Young-specific,0.300997456859046,0.204136384678784
+TGF-beta signaling (KEGG+Reactome),old,LTBP3,Young-specific,0.842359875592385,4.706499267038181e-09
+TGF-beta signaling (KEGG+Reactome),old,MAPK1,Young-specific,0.0582463273197942,0.851687231067701
+TGF-beta signaling (KEGG+Reactome),old,MAPK3,Young-specific,0.14467363455877885,0.366451970113624
+TGF-beta signaling (KEGG+Reactome),old,MEN1,Young-specific,0.0819240673450393,0.79069724179074
+TGF-beta signaling (KEGG+Reactome),old,MTMR4,Other,0.0674357822214186,0.818811058810815
+TGF-beta signaling (KEGG+Reactome),old,MYC,Other,-0.17361255315257051,0.391909294764795
+TGF-beta signaling (KEGG+Reactome),old,NCOR1,Young-specific,-0.0332644968153928,0.93486126625502
+TGF-beta signaling (KEGG+Reactome),old,NCOR2,Young-specific,0.032726745328980206,0.733786428507761
+TGF-beta signaling (KEGG+Reactome),old,NEDD4L,Other,-0.2390297426139118,0.504778678850045
+TGF-beta signaling (KEGG+Reactome),old,NEDD8,Other,0.0423024473237719,0.89793443977391
+TGF-beta signaling (KEGG+Reactome),old,PARD3,Other,-0.0933322716917206,0.693389369012236
+TGF-beta signaling (KEGG+Reactome),old,PARP1,Other,0.140544590712237,0.625026727016112
+TGF-beta signaling (KEGG+Reactome),old,PMEPA1,Other,0.372586528091987,0.0554908463734408
+TGF-beta signaling (KEGG+Reactome),old,PPP1CA,Young-specific,0.243641282810655,0.369513604644308
+TGF-beta signaling (KEGG+Reactome),old,PPP1CB,Young-specific,0.0139018737590703,0.966263717199941
+TGF-beta signaling (KEGG+Reactome),old,PPP1CC,Young-specific,-0.07771401144169279,0.8474150810819
+TGF-beta signaling (KEGG+Reactome),old,PPP1R15A,Young-specific,-0.0566262746820921,0.843545357243819
+TGF-beta signaling (KEGG+Reactome),old,PPP2CA,Other,0.108625422599743,0.705016444685443
+TGF-beta signaling (KEGG+Reactome),old,PPP2R1A,Other,0.0627981625229821,0.902753727231946
+TGF-beta signaling (KEGG+Reactome),old,PPP2R1B,Other,0.0097826684094865,0.978639986350366
+TGF-beta signaling (KEGG+Reactome),old,RBL1,Young-specific,0.294830479837479,0.250870929079076
+TGF-beta signaling (KEGG+Reactome),old,RBL2,Other,0.19626257407382,0.43320042614649
+TGF-beta signaling (KEGG+Reactome),old,RBX1,Young-specific,0.290499606348679,0.134824095327104
+TGF-beta signaling (KEGG+Reactome),old,RHOA,Young-specific,-0.0373819481056315,0.908848396868464
+TGF-beta signaling (KEGG+Reactome),old,RNF111,Other,0.247708974859756,0.549763970820144
+TGF-beta signaling (KEGG+Reactome),old,ROCK1,Other,0.0913647906082216,0.755226115886078
+TGF-beta signaling (KEGG+Reactome),old,RPS27A,Other,0.554353463517831,0.0013623936769188
+TGF-beta signaling (KEGG+Reactome),old,RPS6KB1,Young-specific,-0.134012059858632,0.581548831559945
+TGF-beta signaling (KEGG+Reactome),old,RPS6KB2,Young-specific,0.057179473032234,0.85939125823882
+TGF-beta signaling (KEGG+Reactome),old,SERPINE1,Young-specific,0.54083263410684,0.0043863501474631
+TGF-beta signaling (KEGG+Reactome),old,SKI,Young-specific,-0.10770374310236,0.705633665356141
+TGF-beta signaling (KEGG+Reactome),old,SKIL,Other,0.2998138494547155,0.0963247699296692
+TGF-beta signaling (KEGG+Reactome),old,SKP1,Other,0.26906445735282,0.218010598482285
+TGF-beta signaling (KEGG+Reactome),old,SMAD1,Other,-0.0255616659208949,0.939093801260363
+TGF-beta signaling (KEGG+Reactome),old,SMAD2,Young-specific,0.2514979035081075,0.330599998292444
+TGF-beta signaling (KEGG+Reactome),old,SMAD5,Other,0.0761716746497079,0.79826918332617
+TGF-beta signaling (KEGG+Reactome),old,SMAD6,Young-specific,0.288378705070676,0.135407841310559
+TGF-beta signaling (KEGG+Reactome),old,SMAD7,Young-specific,0.288186802090349,0.313985105494772
+TGF-beta signaling (KEGG+Reactome),old,SMAD9,Other,-0.27860150948969,0.745765096346506
+TGF-beta signaling (KEGG+Reactome),old,SMURF1,Young-specific,0.21300356991751024,0.0609975448991355
+TGF-beta signaling (KEGG+Reactome),old,SMURF2,Young-specific,0.249534123914491,0.372511225354877
+TGF-beta signaling (KEGG+Reactome),old,SNW1,Other,0.179894222546256,0.475665208739119
+TGF-beta signaling (KEGG+Reactome),old,SP1,Young-specific,0.2687829140268595,0.235573007791423
+TGF-beta signaling (KEGG+Reactome),old,STAT1,Other,0.10393581674778,0.696955595840696
+TGF-beta signaling (KEGG+Reactome),old,STRAP,Other,0.29623574002454,0.161905541499362
+TGF-beta signaling (KEGG+Reactome),old,STUB1,Young-specific,0.13334304290947,0.608954793121217
+TGF-beta signaling (KEGG+Reactome),old,TFDP1,Young-specific,-0.0226416877905779,0.956437559940328
+TGF-beta signaling (KEGG+Reactome),old,TFDP2,Other,-0.0412925809523519,0.905114551080724
+TGF-beta signaling (KEGG+Reactome),old,TGFB1,Young-specific,0.104401164403412,0.692186425425901
+TGF-beta signaling (KEGG+Reactome),old,TGFBR1,Other,0.200918798023051,0.366017377680487
+TGF-beta signaling (KEGG+Reactome),old,TGFBR2,Other,0.187659122885063,0.413419136701394
+TGF-beta signaling (KEGG+Reactome),old,TGIF1,Other,-0.0733504368909069,0.939423939658735
+TGF-beta signaling (KEGG+Reactome),old,TGIF2,Young-specific,0.239334892829974,0.411377359289997
+TGF-beta signaling (KEGG+Reactome),old,THBS1,Young-specific,-0.0905561570938884,0.725710345869827
+TGF-beta signaling (KEGG+Reactome),old,THBS2,Other,-0.174373269095783,0.491637558340923
+TGF-beta signaling (KEGG+Reactome),old,THBS3,Young-specific,0.0735746028694918,0.811831212531885
+TGF-beta signaling (KEGG+Reactome),old,TRIM33,Other,-0.02417698135257635,0.922592412114411
+TGF-beta signaling (KEGG+Reactome),old,UBA52,Young-specific,0.0266536762784044,0.938710836913542
+TGF-beta signaling (KEGG+Reactome),old,UBB,Young-specific,0.308967522904555,0.307506989917995
+TGF-beta signaling (KEGG+Reactome),old,UBC,Young-specific,0.0935045093478766,0.75303203785259
+TGF-beta signaling (KEGG+Reactome),old,UBE2D1,Other,-0.0999234225036901,0.757088820734972
+TGF-beta signaling (KEGG+Reactome),old,UBE2D3,Other,0.154011823194812,0.569960496239808
+TGF-beta signaling (KEGG+Reactome),old,UBE2M,Other,0.086964276744213,0.76762465424932
+TGF-beta signaling (KEGG+Reactome),old,UCHL5,Other,0.249881784004406,0.305412361072515
+TGF-beta signaling (KEGG+Reactome),old,USP15,Other,0.116089548846535,0.667404428474866
+TGF-beta signaling (KEGG+Reactome),old,WWTR1,Other,-0.352852038085368,0.721015532740264
+TGF-beta signaling (KEGG+Reactome),old,XPO1,Other,0.129238301236087,0.625292806347487
+TGF-beta signaling (KEGG+Reactome),old,YBX1,Young-specific,-0.0120311162341672,0.973542599651247
+TGF-beta signaling (KEGG+Reactome),old,ZFYVE16,Other,0.166177853674092,0.495759973273566
+TGF-beta signaling (KEGG+Reactome),old,ZFYVE9,Other,-0.0687421962266135,0.827928499147029
+Senescence inhibitors (CellAge),young,ACLY,Young-specific,0.0366936305299493,0.911250375579612
+Senescence inhibitors (CellAge),young,AKTIP,Other,0.0295189324355647,0.920920868912171
+Senescence inhibitors (CellAge),young,ANAPC1,Other,0.246090242207093,0.386176362152787
+Senescence inhibitors (CellAge),young,ANXA5,Other,-0.122881376366329,0.614530621204073
+Senescence inhibitors (CellAge),young,APEX1,Other,-0.0324715268681627,0.914738096220932
+Senescence inhibitors (CellAge),young,ARID3A,Other,0.0145711226962635,0.975789797968313
+Senescence inhibitors (CellAge),young,ATF7IP,Other,0.152445722096551,0.575874287214919
+Senescence inhibitors (CellAge),young,ATG12,Other,0.140765784242146,0.571581750909775
+Senescence inhibitors (CellAge),young,ATG5,Other,0.038075458641868,0.904484740834623
+Senescence inhibitors (CellAge),young,ATG7,Young-specific,-0.0845396282231125,0.798210767650095
+Senescence inhibitors (CellAge),young,ATM,Other,-0.0542114548892656,0.84438456524798
+Senescence inhibitors (CellAge),young,ATP6V0A2,Young-specific,-0.0446840193080051,0.892902418336519
+Senescence inhibitors (CellAge),young,AURKB,Young-specific,-0.0046789638145292,0.991894059865672
+Senescence inhibitors (CellAge),young,BCL3,Young-specific,-0.180903885439073,0.463878735583824
+Senescence inhibitors (CellAge),young,BMI1,Other,-0.342011239276635,0.375156087604884
+Senescence inhibitors (CellAge),young,BRIP1,Young-specific,0.107587033924627,0.726483396216481
+Senescence inhibitors (CellAge),young,BTG3,Other,-0.155773373799679,0.56180414662511
+Senescence inhibitors (CellAge),young,BUB1,Other,-0.024079157174968,0.957400519394688
+Senescence inhibitors (CellAge),young,CARM1,Young-specific,-0.172410194886658,0.451081199503088
+Senescence inhibitors (CellAge),young,CBX7,Young-specific,-0.334853377453984,0.207674837931155
+Senescence inhibitors (CellAge),young,CDC25A,Young-specific,0.0940673431504887,0.721282891153465
+Senescence inhibitors (CellAge),young,CDCA2,Other,-0.0398280026031416,0.884171783240868
+Senescence inhibitors (CellAge),young,CDCA4,Young-specific,-0.19840951217034,0.506395956969869
+Senescence inhibitors (CellAge),young,CDK2,Other,-0.102160232735388,0.813815123523833
+Senescence inhibitors (CellAge),young,CDK6,Other,0.0204446819901553,0.978611502604183
+Senescence inhibitors (CellAge),young,CKAP2,Other,-0.0494222842852998,0.889955809078312
+Senescence inhibitors (CellAge),young,CLSPN,Young-specific,-0.106018969497976,0.687070816409153
+Senescence inhibitors (CellAge),young,CRISPLD2,Young-specific,0.158791366976976,0.609253014690069
+Senescence inhibitors (CellAge),young,CSNK2A1,Young-specific,0.0334542505044337,0.920403869202176
+Senescence inhibitors (CellAge),young,CTSB,Other,-0.103707970832998,0.910764933945145
+Senescence inhibitors (CellAge),young,CUX1,Young-specific,-0.14051291084030648,0.723840446880768
+Senescence inhibitors (CellAge),young,CYB5R3,Young-specific,-0.5666264106070305,0.0538839436127006
+Senescence inhibitors (CellAge),young,DDIT4,Young-specific,0.32843113878991,0.0561706645092918
+Senescence inhibitors (CellAge),young,DGCR8,Young-specific,-0.08977045479947231,0.66269947929238
+Senescence inhibitors (CellAge),young,DHX9,Other,-0.0179931324048363,0.961794718670153
+Senescence inhibitors (CellAge),young,DICER1,Other,-0.2428847418856895,0.439609005613079
+Senescence inhibitors (CellAge),young,DIDO1,Young-specific,0.058819312498150506,0.765713810369661
+Senescence inhibitors (CellAge),young,DOT1L,Other,-0.0935940064334733,0.784683988727671
+Senescence inhibitors (CellAge),young,DPY30,Other,-0.0663636983230114,0.842320063769084
+Senescence inhibitors (CellAge),young,EIF4EBP1,Other,0.411815570814425,0.0363185917277377
+Senescence inhibitors (CellAge),young,ELAVL1,Other,-0.0963164201671526,0.794972275617288
+Senescence inhibitors (CellAge),young,ELOA,Young-specific,-0.202739810044219,0.505385755278734
+Senescence inhibitors (CellAge),young,ENO1,Young-specific,0.15851602024770425,0.314299976499396
+Senescence inhibitors (CellAge),young,FOXO3,Other,-0.221297659395417,0.289238652121216
+Senescence inhibitors (CellAge),young,GMNN,Other,0.0178433530218182,0.963698260472598
+Senescence inhibitors (CellAge),young,GRSF1,Other,-0.0377986888462062,0.912176852523601
+Senescence inhibitors (CellAge),young,HDAC4,Other,-0.106799447427511,0.668326690992433
+Senescence inhibitors (CellAge),young,HELLS,Other,0.181481464296316,0.507646930573957
+Senescence inhibitors (CellAge),young,HIVEP1,Other,0.0313778143029405,0.942767808255066
+Senescence inhibitors (CellAge),young,HJURP,Other,0.0985904568920236,0.743162040384234
+Senescence inhibitors (CellAge),young,HMGB2,Young-specific,-0.0512949928074688,0.865215463978445
+Senescence inhibitors (CellAge),young,HNRNPA3,Young-specific,-0.145381802321632,0.536418670086649
+Senescence inhibitors (CellAge),young,HNRNPAB,Other,-0.04256371064210715,0.734463272501322
+Senescence inhibitors (CellAge),young,HOXA9,Other,-0.6015325921764146,0.17581674075468
+Senescence inhibitors (CellAge),young,HSP90AA1,Young-specific,0.0572530392369472,0.858801513334576
+Senescence inhibitors (CellAge),young,HSP90AB1,Other,0.0191736940755883,0.957303201264369
+Senescence inhibitors (CellAge),young,ILF3,Young-specific,-0.103920218679511,0.740406208605058
+Senescence inhibitors (CellAge),young,IMMT,Other,0.0078509360343807,0.98201977817059
+Senescence inhibitors (CellAge),young,KDM2B,Young-specific,-0.0657363737696943,0.863139579925361
+Senescence inhibitors (CellAge),young,KIF2C,Young-specific,0.0814853911418833,0.783627721640053
+Senescence inhibitors (CellAge),young,KIFC1,Young-specific,-0.0500217296885701,0.859335522413654
+Senescence inhibitors (CellAge),young,LIMA1,Young-specific,0.0884003274739617,0.791698319904432
+Senescence inhibitors (CellAge),young,LIN54,Other,-0.3314725568175625,0.386735022825839
+Senescence inhibitors (CellAge),young,LIN9,Other,-0.0534024883337965,0.888735359842906
+Senescence inhibitors (CellAge),young,LMNB1,Other,-0.0389978764482588,0.91544501869585
+Senescence inhibitors (CellAge),young,MAD2L1,Other,0.0792559187599736,0.765408400814678
+Senescence inhibitors (CellAge),young,MAGOHB,Other,-0.0767117542233815,0.819559667291689
+Senescence inhibitors (CellAge),young,MCM3AP,Young-specific,0.0151220379911322,0.967149334496183
+Senescence inhibitors (CellAge),young,MCM7,Young-specific,0.185534157246115,0.402014833300657
+Senescence inhibitors (CellAge),young,MDC1,Young-specific,0.0950302344851923,0.693982932416419
+Senescence inhibitors (CellAge),young,MDH1,Other,0.0177068008890717,0.958766001975308
+Senescence inhibitors (CellAge),young,MDK,Young-specific,-0.54449365653633,0.142950105156686
+Senescence inhibitors (CellAge),young,MORF4L1,Young-specific,-0.228770760546547,0.405277126856179
+Senescence inhibitors (CellAge),young,MTOR,Young-specific,0.143328846852366,0.549043622709875
+Senescence inhibitors (CellAge),young,MYBL2,Other,0.113379073731312,0.852940250117973
+Senescence inhibitors (CellAge),young,NBR1,Young-specific,-0.0593990425394867,0.84155454828351
+Senescence inhibitors (CellAge),young,NEDD4,Other,0.252907594565543,0.255403995488057
+Senescence inhibitors (CellAge),young,NEK2,Other,-0.10915626220767,0.764578877911298
+Senescence inhibitors (CellAge),young,NFE2L2,Young-specific,0.0567221618373189,0.888275413736378
+Senescence inhibitors (CellAge),young,NFKB2,Young-specific,0.0900755585010293,0.758781798713292
+Senescence inhibitors (CellAge),young,NIPA2,Other,-0.073892264713065,0.803876214010123
+Senescence inhibitors (CellAge),young,NUDT5,Other,0.162489939297283,0.537379769699045
+Senescence inhibitors (CellAge),young,NUTF2,Young-specific,-0.220165430595026,0.310136757035648
+Senescence inhibitors (CellAge),young,OGG1,Young-specific,-0.0572464748913723,0.836505732658672
+Senescence inhibitors (CellAge),young,OXTR,Young-specific,0.0581966640389911,0.863798168189994
+Senescence inhibitors (CellAge),young,P3H1,Young-specific,0.035780988082743354,0.748198024743987
+Senescence inhibitors (CellAge),young,PLD2,Young-specific,-0.165446509804665,0.620774242869273
+Senescence inhibitors (CellAge),young,PLK1,Other,-0.0990490911263401,0.807727761205452
+Senescence inhibitors (CellAge),young,POT1,Other,-0.204239157793269,0.370799324888746
+Senescence inhibitors (CellAge),young,PPM1B,Other,-0.0925991265392484,0.701525793246433
+Senescence inhibitors (CellAge),young,PRPF19,Other,0.101927032937247,0.717546483069492
+Senescence inhibitors (CellAge),young,RAD23B,Other,-0.00532702362705445,0.837720829201358
+Senescence inhibitors (CellAge),young,RAN,Other,-0.136465162800162,0.566182340182467
+Senescence inhibitors (CellAge),young,RBBP4,Other,0.0479330226134726,0.870083820797518
+Senescence inhibitors (CellAge),young,RBM39,Young-specific,-0.0767526918923284,0.766560198174511
+Senescence inhibitors (CellAge),young,RCC1,Other,0.398718309487517,0.0478852247248002
+Senescence inhibitors (CellAge),young,RRM2B,Young-specific,-0.0094549299226266,0.975789797968313
+Senescence inhibitors (CellAge),young,SAT2,Young-specific,-0.215638617432961,0.419185745880596
+Senescence inhibitors (CellAge),young,SENP1,Other,-0.143455038868555,0.620113385564358
+Senescence inhibitors (CellAge),young,SENP7,Other,-0.0816855122372608,0.846745694701937
+Senescence inhibitors (CellAge),young,SIRT1,Other,0.0382624346406039,0.89942886809427
+Senescence inhibitors (CellAge),young,SIRT2,Young-specific,0.152284726905181,0.484202386851678
+Senescence inhibitors (CellAge),young,SIRT3,Young-specific,-0.0039168355916302,0.991772868116463
+Senescence inhibitors (CellAge),young,SIX1,Other,-0.236600528805409,0.591354343731253
+Senescence inhibitors (CellAge),young,SMARCD1,Young-specific,0.0765404449226256,0.825335993939982
+Senescence inhibitors (CellAge),young,SOD1,Other,-0.102426355164035,0.714785229814813
+Senescence inhibitors (CellAge),young,SRSF3,Young-specific,-0.0401785242783147,0.903960771978163
+Senescence inhibitors (CellAge),young,STN1,Young-specific,-0.0408869899518783,0.894769537223998
+Senescence inhibitors (CellAge),young,SUZ12,Young-specific,0.131824344000721,0.686380881531516
+Senescence inhibitors (CellAge),young,TBX3,Young-specific,-0.0029189472904798,0.993274724946641
+Senescence inhibitors (CellAge),young,TFDP1,Young-specific,-0.260405241400721,0.364599246562219
+Senescence inhibitors (CellAge),young,TIMELESS,Other,0.118823116722678,0.662158618044152
+Senescence inhibitors (CellAge),young,TOPBP1,Other,-0.196983660716917,0.7051931278849
+Senescence inhibitors (CellAge),young,TPP1,Other,-0.0641816958952497,0.831900577857259
+Senescence inhibitors (CellAge),young,TRDMT1,Other,0.123178382631727,0.634223410137731
+Senescence inhibitors (CellAge),young,TXN,Other,0.030702285157439,0.925726523504673
+Senescence inhibitors (CellAge),young,USP1,Other,0.126056696023546,0.573472043709573
+Senescence inhibitors (CellAge),young,WIPI1,Other,-0.0982530799869096,0.691329302551053
+Senescence inhibitors (CellAge),young,WNT2,Other,-0.122172311782741,0.60880173219178
+Senescence inhibitors (CellAge),young,WRN,Other,0.115093230169803,0.684802742347759
+Senescence inhibitors (CellAge),young,WSB1,Other,-0.123196833487412,0.66846118845291
+Senescence inhibitors (CellAge),young,WWP1,Other,-0.129047623932063,0.678239408090855
+Senescence inhibitors (CellAge),young,YAP1,Other,-0.03748535618774859,0.66753352978326
+Senescence inhibitors (CellAge),young,ZMAT3,Other,-0.0771375876746907,0.826082881780661
+Senescence inhibitors (CellAge),young,ZNF207,Young-specific,0.0935178420966693,0.751208259617294
+Senescence inhibitors (CellAge),old,ACLY,Young-specific,0.171198565880431,0.508665306382967
+Senescence inhibitors (CellAge),old,AKTIP,Other,0.0276123002332276,0.93222724677478
+Senescence inhibitors (CellAge),old,ANAPC1,Other,0.246665213131791,0.352736305453408
+Senescence inhibitors (CellAge),old,ANXA5,Other,0.0781054514284409,0.8011101177816
+Senescence inhibitors (CellAge),old,APEX1,Other,0.231597678694672,0.305019692519351
+Senescence inhibitors (CellAge),old,ARID3A,Other,0.236986135058923,0.408864365978658
+Senescence inhibitors (CellAge),old,ATF7IP,Other,0.0716523836526754,0.851229630661179
+Senescence inhibitors (CellAge),old,ATG12,Other,0.0387407300758199,0.90970644859226
+Senescence inhibitors (CellAge),old,ATG5,Other,0.148074726505633,0.561931253887609
+Senescence inhibitors (CellAge),old,ATG7,Young-specific,0.0914732712913091,0.746063434309305
+Senescence inhibitors (CellAge),old,ATM,Other,0.036469686391057,0.915744797842652
+Senescence inhibitors (CellAge),old,ATP6V0A2,Young-specific,0.186681069007615,0.464013665554236
+Senescence inhibitors (CellAge),old,AURKB,Young-specific,0.0089960448214802,0.980462936851351
+Senescence inhibitors (CellAge),old,BCL3,Young-specific,0.245757512836093,0.303276418862347
+Senescence inhibitors (CellAge),old,BMI1,Other,0.0029474945572462,0.994960776638349
+Senescence inhibitors (CellAge),old,BRIP1,Young-specific,0.0068647321477583,0.985498035204989
+Senescence inhibitors (CellAge),old,BTG3,Other,-0.11885070865103,0.655131527805891
+Senescence inhibitors (CellAge),old,BUB1,Other,-0.0768447208941808,0.806995213511431
+Senescence inhibitors (CellAge),old,CARM1,Young-specific,0.0958933245518517,0.734975825809375
+Senescence inhibitors (CellAge),old,CBX7,Young-specific,-0.251654538588013,0.299887030249666
+Senescence inhibitors (CellAge),old,CDC25A,Young-specific,0.196362098010154,0.415066436735143
+Senescence inhibitors (CellAge),old,CDCA2,Other,0.0027045253113912,0.993781598758762
+Senescence inhibitors (CellAge),old,CDCA4,Young-specific,-0.06156393873928865,0.731562818955688
+Senescence inhibitors (CellAge),old,CDK2,Other,0.292932906512774,0.255239992310717
+Senescence inhibitors (CellAge),old,CDK6,Other,-0.0037477305139704,0.995028947026539
+Senescence inhibitors (CellAge),old,CKAP2,Other,0.0354354289979072,0.916497708773954
+Senescence inhibitors (CellAge),old,CLSPN,Young-specific,0.209197071462212,0.386857503733102
+Senescence inhibitors (CellAge),old,CRISPLD2,Young-specific,-0.0863929976671555,0.80201473878974
+Senescence inhibitors (CellAge),old,CSNK2A1,Young-specific,0.163381955748668,0.584993198047397
+Senescence inhibitors (CellAge),old,CTSB,Other,-0.0194986892767861,0.980842621617459
+Senescence inhibitors (CellAge),old,CUX1,Young-specific,-0.26594121527854603,0.17054739026996
+Senescence inhibitors (CellAge),old,CYB5R3,Young-specific,-0.3918036820514635,0.360110879566104
+Senescence inhibitors (CellAge),old,DDIT4,Young-specific,0.403454871431284,0.071852265424147
+Senescence inhibitors (CellAge),old,DGCR8,Young-specific,0.02864273457921655,0.672090111138266
+Senescence inhibitors (CellAge),old,DHX9,Other,0.278434846873482,0.236644535336409
+Senescence inhibitors (CellAge),old,DICER1,Other,-0.3817853727556355,0.0679767647646047
+Senescence inhibitors (CellAge),old,DIDO1,Young-specific,-0.01932773031912235,0.945993609643612
+Senescence inhibitors (CellAge),old,DOT1L,Other,0.0647353421692291,0.832146347100343
+Senescence inhibitors (CellAge),old,DPY30,Other,0.0621346412451032,0.85141442969043
+Senescence inhibitors (CellAge),old,EIF4EBP1,Other,0.410912937121097,0.0878883967379597
+Senescence inhibitors (CellAge),old,ELAVL1,Other,0.0061315192878291,0.98781630088779
+Senescence inhibitors (CellAge),old,ELOA,Young-specific,-0.0529932477964885,0.872586720847836
+Senescence inhibitors (CellAge),old,ENO1,Young-specific,0.24501435409154648,0.277696247220855
+Senescence inhibitors (CellAge),old,FOXO3,Other,-0.07210619173001401,0.503733103651399
+Senescence inhibitors (CellAge),old,GMNN,Other,0.0693929313597084,0.831024611568791
+Senescence inhibitors (CellAge),old,GRSF1,Other,0.239848210806036,0.334225478046582
+Senescence inhibitors (CellAge),old,HDAC4,Other,-0.0341700357237631,0.912980530832075
+Senescence inhibitors (CellAge),old,HELLS,Other,0.193035352306209,0.456791949747575
+Senescence inhibitors (CellAge),old,HIVEP1,Other,0.56067817699653,0.0075764907889146
+Senescence inhibitors (CellAge),old,HJURP,Other,0.118199220036865,0.70055060576174
+Senescence inhibitors (CellAge),old,HMGB2,Young-specific,-0.0218798233284695,0.946949868693956
+Senescence inhibitors (CellAge),old,HNRNPA3,Young-specific,0.0694979592957047,0.798263234720873
+Senescence inhibitors (CellAge),old,HNRNPAB,Other,-0.0246623795850415,0.676046608887729
+Senescence inhibitors (CellAge),old,HOXA9,Other,-0.3461316910170444,0.228159369883696
+Senescence inhibitors (CellAge),old,HSP90AA1,Young-specific,0.186104691747706,0.433770538778621
+Senescence inhibitors (CellAge),old,HSP90AB1,Other,0.11433559195713,0.664485601757532
+Senescence inhibitors (CellAge),old,ILF3,Young-specific,0.0361542763739025,0.910030673230462
+Senescence inhibitors (CellAge),old,IMMT,Other,0.102402442924478,0.716167783753407
+Senescence inhibitors (CellAge),old,KDM2B,Young-specific,-0.212502649056423,0.456372882425457
+Senescence inhibitors (CellAge),old,KIF2C,Young-specific,-0.0717211942979372,0.801557609375948
+Senescence inhibitors (CellAge),old,KIFC1,Young-specific,0.0664963895475847,0.823190894901238
+Senescence inhibitors (CellAge),old,LIMA1,Young-specific,0.167872144935404,0.523390019556195
+Senescence inhibitors (CellAge),old,LIN54,Other,0.148115526688834,0.545811153554982
+Senescence inhibitors (CellAge),old,LIN9,Other,-0.0301008778583214,0.935769320092668
+Senescence inhibitors (CellAge),old,LMNB1,Other,0.107965352730376,0.720643801129561
+Senescence inhibitors (CellAge),old,MAD2L1,Other,-0.0005912621601678,0.998555197858806
+Senescence inhibitors (CellAge),old,MAGOHB,Other,0.131891346403328,0.644964483114139
+Senescence inhibitors (CellAge),old,MCM3AP,Young-specific,0.212914246283886,0.390139577257777
+Senescence inhibitors (CellAge),old,MCM7,Young-specific,0.20259999779231,0.407050668600558
+Senescence inhibitors (CellAge),old,MDC1,Young-specific,0.129629568802384,0.642979995072997
+Senescence inhibitors (CellAge),old,MDH1,Other,0.139092050641163,0.611438361156946
+Senescence inhibitors (CellAge),old,MDK,Young-specific,-0.00087154013858,0.998645054788544
+Senescence inhibitors (CellAge),old,MORF4L1,Young-specific,-0.176587206223698,0.518196396557957
+Senescence inhibitors (CellAge),old,MTOR,Young-specific,-0.0185543234256499,0.957983928563112
+Senescence inhibitors (CellAge),old,MYBL2,Other,-0.0521778511755398,0.923861654761059
+Senescence inhibitors (CellAge),old,NBR1,Young-specific,0.0773999627214948,0.788726320622518
+Senescence inhibitors (CellAge),old,NEDD4,Other,0.273423426013045,0.195411909317755
+Senescence inhibitors (CellAge),old,NEK2,Other,-0.0118805696982465,0.975329657941553
+Senescence inhibitors (CellAge),old,NFE2L2,Young-specific,0.196134080339935,0.483065956165325
+Senescence inhibitors (CellAge),old,NFKB2,Young-specific,-0.0013017117048362,0.997379881421377
+Senescence inhibitors (CellAge),old,NIPA2,Other,0.0026836265459131,0.994028430098771
+Senescence inhibitors (CellAge),old,NUDT5,Other,0.123213432287956,0.665155890869875
+Senescence inhibitors (CellAge),old,NUTF2,Young-specific,0.16887558281961,0.483970956782633
+Senescence inhibitors (CellAge),old,OGG1,Young-specific,0.146270615035346,0.572860179730148
+Senescence inhibitors (CellAge),old,OXTR,Young-specific,0.0203850316075237,0.952412805436239
+Senescence inhibitors (CellAge),old,P3H1,Young-specific,0.0737313859653852,0.801650333426443
+Senescence inhibitors (CellAge),old,PLD2,Young-specific,-0.165428630367373,0.567443185577937
+Senescence inhibitors (CellAge),old,PLK1,Other,-0.0560311321923458,0.887066904141474
+Senescence inhibitors (CellAge),old,POT1,Other,0.0260959711196646,0.941413298991174
+Senescence inhibitors (CellAge),old,PPM1B,Other,0.147627335530937,0.569821483039599
+Senescence inhibitors (CellAge),old,PRPF19,Other,-0.0297073926865118,0.93281889293042
+Senescence inhibitors (CellAge),old,RAD23B,Other,-0.053370109766475646,0.726995262776671
+Senescence inhibitors (CellAge),old,RAN,Other,0.0782150926807827,0.800065940699925
+Senescence inhibitors (CellAge),old,RBBP4,Other,0.268441928799413,0.198414507349463
+Senescence inhibitors (CellAge),old,RBM39,Young-specific,0.0712703408352856,0.802399418993017
+Senescence inhibitors (CellAge),old,RCC1,Other,-0.0299350227157464,0.928476536554274
+Senescence inhibitors (CellAge),old,RRM2B,Young-specific,0.0712313072192153,0.813480593769824
+Senescence inhibitors (CellAge),old,SAT2,Young-specific,-0.0160526126533309,0.962744758406029
+Senescence inhibitors (CellAge),old,SENP1,Other,0.127190067820583,0.650445216498158
+Senescence inhibitors (CellAge),old,SENP7,Other,0.171165468627925,0.546863641992231
+Senescence inhibitors (CellAge),old,SIRT1,Other,0.153113905520566,0.526105322800465
+Senescence inhibitors (CellAge),old,SIRT2,Young-specific,0.0253834764096411,0.940292653210706
+Senescence inhibitors (CellAge),old,SIRT3,Young-specific,0.103527519582229,0.733282279238051
+Senescence inhibitors (CellAge),old,SIX1,Other,-0.287414016875757,0.321591904513161
+Senescence inhibitors (CellAge),old,SMARCD1,Young-specific,0.117802336070709,0.687753719464821
+Senescence inhibitors (CellAge),old,SOD1,Other,0.0164002312720355,0.959930204687529
+Senescence inhibitors (CellAge),old,SRSF3,Young-specific,0.45038098133376,0.0146565563093779
+Senescence inhibitors (CellAge),old,STN1,Young-specific,0.142218783858259,0.586574707386048
+Senescence inhibitors (CellAge),old,SUZ12,Young-specific,0.467836911514763,0.0301797201883979
+Senescence inhibitors (CellAge),old,TBX3,Young-specific,0.176067401298504,0.444412994655473
+Senescence inhibitors (CellAge),old,TFDP1,Young-specific,-0.0226416877905779,0.956437559940328
+Senescence inhibitors (CellAge),old,TIMELESS,Other,0.0863528745091187,0.765876533161976
+Senescence inhibitors (CellAge),old,TOPBP1,Other,0.0404438473164428,0.929562220584303
+Senescence inhibitors (CellAge),old,TPP1,Other,-0.0089754607628626,0.978541093115143
+Senescence inhibitors (CellAge),old,TRDMT1,Other,0.187210657579691,0.478106697443631
+Senescence inhibitors (CellAge),old,TXN,Other,0.207546623849042,0.383394172943982
+Senescence inhibitors (CellAge),old,USP1,Other,0.296706849515521,0.150889801429314
+Senescence inhibitors (CellAge),old,WIPI1,Other,-0.079378493557973,0.78703200473671
+Senescence inhibitors (CellAge),old,WNT2,Other,0.31999047601451197,0.0918926574327162
+Senescence inhibitors (CellAge),old,WRN,Other,0.113055108941114,0.680121344623882
+Senescence inhibitors (CellAge),old,WSB1,Other,0.208470541596496,0.35135719434621
+Senescence inhibitors (CellAge),old,WWP1,Other,0.119312414831403,0.653886951508047
+Senescence inhibitors (CellAge),old,YAP1,Other,0.32442046881927483,0.0808307427187447
+Senescence inhibitors (CellAge),old,ZMAT3,Other,-0.216034661255998,0.388092540856474
+Senescence inhibitors (CellAge),old,ZNF207,Young-specific,0.185483986851798,0.455157531688231
+MYC targets v1 (H),young,ABCE1,Other,0.131819286755342,0.619150245832737
+MYC targets v1 (H),young,ACP1,Other,-0.0342709049365996,0.932784578261025
+MYC targets v1 (H),young,AIMP2,Other,0.0045587248663694,0.98994720808605
+MYC targets v1 (H),young,AP3S1,Other,0.140765784242146,0.571581750909775
+MYC targets v1 (H),young,APEX1,Other,-0.0324715268681627,0.914738096220932
+MYC targets v1 (H),young,BUB3,Other,0.079294319371983,0.765652914658059
+MYC targets v1 (H),young,CAD,Young-specific,0.18078525073209,0.547537114668262
+MYC targets v1 (H),young,CANX,Other,0.0938005312284599,0.747799478220947
+MYC targets v1 (H),young,CBX3,Other,-0.025246598063087,0.944399300265271
+MYC targets v1 (H),young,CCNA2,Other,-0.0236600465853836,0.954634772533112
+MYC targets v1 (H),young,CCT2,Other,0.0581711686905126,0.854890679851776
+MYC targets v1 (H),young,CCT4,Other,0.0085043583289486,0.982864307292588
+MYC targets v1 (H),young,CCT5,Other,0.182887285715984,0.460887911299603
+MYC targets v1 (H),young,CCT7,Other,-0.085919217099248,0.727143660435219
+MYC targets v1 (H),young,CDC20,Young-specific,-0.024374178706219,0.94348576390669
+MYC targets v1 (H),young,CDC45,Young-specific,0.0686397143091691,0.801020315698512
+MYC targets v1 (H),young,CDK2,Other,-0.102160232735388,0.813815123523833
+MYC targets v1 (H),young,CLNS1A,Young-specific,0.468144943629906,0.0408339136920727
+MYC targets v1 (H),young,CNBP,Young-specific,0.0159876791450113,0.961969889310696
+MYC targets v1 (H),young,COX5A,Young-specific,-0.0456135806671565,0.884812655677372
+MYC targets v1 (H),young,CTPS1,Young-specific,0.0571431337902494,0.861985998621288
+MYC targets v1 (H),young,CUL1,Other,-0.6024303769629464,0.0015857422671615
+MYC targets v1 (H),young,CYC1,Young-specific,-0.13417429357575844,0.763410681061417
+MYC targets v1 (H),young,DDX18,Other,0.171166069857398,0.450952233967757
+MYC targets v1 (H),young,DDX21,Young-specific,0.114334504826921,0.679076458884313
+MYC targets v1 (H),young,DEK,Other,-0.304698469690841,0.218787692884005
+MYC targets v1 (H),young,DHX15,Other,0.0273941818383172,0.938245666114418
+MYC targets v1 (H),young,DUT,Other,0.182026195573386,0.464547132546059
+MYC targets v1 (H),young,EEF1B2,Other,0.223562930565989,0.347377304355648
+MYC targets v1 (H),young,EIF2S1,Other,0.0821412986999859,0.754309049881529
+MYC targets v1 (H),young,EIF2S2,Young-specific,0.0900692839274737,0.753069051084925
+MYC targets v1 (H),young,EIF3B,Young-specific,0.0508796141510248,0.8797084267594
+MYC targets v1 (H),young,EIF3D,Other,0.0540111522856543,0.860491574366495
+MYC targets v1 (H),young,EIF3J,Other,-0.0959993806996938,0.694768422815672
+MYC targets v1 (H),young,EIF4E,Other,0.2952851660273,0.13209702635592
+MYC targets v1 (H),young,EIF4G2,Other,0.0862261139410478,0.757292705490218
+MYC targets v1 (H),young,EIF4H,Other,-0.191729558001696,0.423736006481399
+MYC targets v1 (H),young,EPRS1,Other,0.0401652429309029,0.901134769635725
+MYC targets v1 (H),young,ERH,Other,0.143411780532685,0.553496177144712
+MYC targets v1 (H),young,ETF1,Young-specific,-0.01562491235814,0.961607680114342
+MYC targets v1 (H),young,EXOSC7,Young-specific,-0.0820918484135713,0.806000564591148
+MYC targets v1 (H),young,FAM120A,Other,-0.049788508524920005,0.388612673648636
+MYC targets v1 (H),young,FBL,Other,-0.196424805793858,0.510105987808189
+MYC targets v1 (H),young,G3BP1,Other,0.120017528994007,0.593485747423828
+MYC targets v1 (H),young,GLO1,Other,-0.0099538574585817,0.977432374852535
+MYC targets v1 (H),young,GNL3,Other,0.595697906784688,0.016268724892029
+MYC targets v1 (H),young,GOT2,Other,-0.0349184648064755,0.926116747221025
+MYC targets v1 (H),young,GSPT1,Other,0.0819517057160057,0.76543150180016
+MYC targets v1 (H),young,H2AZ1,Other,0.11896080236351819,0.640282990306881
+MYC targets v1 (H),young,HDDC2,Other,-0.0684687147145326,0.862017534456245
+MYC targets v1 (H),young,HDGF,Young-specific,0.0310131956278916,0.91697424632929
+MYC targets v1 (H),young,HNRNPA1,Other,0.0865251966271896,0.719692839714998
+MYC targets v1 (H),young,HNRNPA2B1,Other,-0.025246598063087,0.944399300265271
+MYC targets v1 (H),young,HNRNPA3,Other,-0.145381802321632,0.536418670086649
+MYC targets v1 (H),young,HNRNPC,Other,-0.128817966714126,0.581005732576155
+MYC targets v1 (H),young,HNRNPD,Other,0.0212425911459614,0.946318734061049
+MYC targets v1 (H),young,HNRNPR,Young-specific,0.3344386752377482,0.0363026607824364
+MYC targets v1 (H),young,HNRNPU,Other,-0.128853843546466,0.648759324486005
+MYC targets v1 (H),young,HSP90AB1,Young-specific,0.0191736940755883,0.957303201264369
+MYC targets v1 (H),young,HSPD1,Other,0.125456013562775,0.619448193641205
+MYC targets v1 (H),young,HSPE1,Other,-0.105617905068553,0.690281140731471
+MYC targets v1 (H),young,IARS1,Other,0.388213375575936,0.0394557050667785
+MYC targets v1 (H),young,IFRD1,Other,-0.341883367198232,0.192712828977093
+MYC targets v1 (H),young,ILF2,Young-specific,0.187183296496723,0.355445579219026
+MYC targets v1 (H),young,KARS1,Other,0.107466964116931,0.698355449543227
+MYC targets v1 (H),young,KPNA2,Other,0.0347170893152716,0.915634102140271
+MYC targets v1 (H),young,KPNB1,Young-specific,-0.10470362636020335,0.315601687294093
+MYC targets v1 (H),young,LDHA,Other,0.33994171442148,0.0742359710325545
+MYC targets v1 (H),young,LSM2,Young-specific,-0.0226851660441137,0.947607011253951
+MYC targets v1 (H),young,LSM7,Other,0.0874926207759994,0.79345790485449
+MYC targets v1 (H),young,MAD2L1,Other,0.0792559187599736,0.765408400814678
+MYC targets v1 (H),young,MCM2,Young-specific,0.0059456035666704,0.988927169258962
+MYC targets v1 (H),young,MCM4,Other,0.0235816297491256,0.945351925098819
+MYC targets v1 (H),young,MCM5,Other,-0.0299485018352086,0.935946446057322
+MYC targets v1 (H),young,MCM6,Other,0.0151332253237212,0.966355433005024
+MYC targets v1 (H),young,MCM7,Young-specific,0.185534157246115,0.402014833300657
+MYC targets v1 (H),young,MRPL9,Young-specific,-0.0973063365540391,0.789431363158948
+MYC targets v1 (H),young,MRPS18B,Young-specific,0.102845962904155,0.669034059379229
+MYC targets v1 (H),young,MYC,Other,-0.13628445530634634,0.423715359792845
+MYC targets v1 (H),young,NAP1L1,Other,0.03553840683343,0.905587049197882
+MYC targets v1 (H),young,NCBP1,Other,-0.14813606359306,0.500366478589055
+MYC targets v1 (H),young,NCBP2,Young-specific,-0.0768196871990533,0.793128556080284
+MYC targets v1 (H),young,NDUFAB1,Other,-0.0572132952080188,0.876732751277953
+MYC targets v1 (H),young,NHP2,Other,-0.11214693570177,0.657210902132452
+MYC targets v1 (H),young,NME1,Young-specific,0.0678442108773723,0.81660573826817
+MYC targets v1 (H),young,NOLC1,Young-specific,0.149352499168051,0.52478919447172
+MYC targets v1 (H),young,NOP16,Other,-0.0860063896836919,0.74205032593728
+MYC targets v1 (H),young,NOP56,Other,-0.0561042238756557,0.881371104417413
+MYC targets v1 (H),young,NPM1,Other,-0.108532852507649,0.688853749157327
+MYC targets v1 (H),young,ODC1,Other,-0.15673237387158,0.50225970346392
+MYC targets v1 (H),young,ORC2,Young-specific,0.226745819721518,0.389685659414767
+MYC targets v1 (H),young,PA2G4,Other,-0.0915432487721737,0.724856044026961
+MYC targets v1 (H),young,PABPC1,Young-specific,-0.169423145615528,0.45054899202222
+MYC targets v1 (H),young,PABPC4,Young-specific,0.114058939270286,0.722515060907022
+MYC targets v1 (H),young,PCNA,Other,-0.203965922008189,0.339079782815973
+MYC targets v1 (H),young,PHB1,Young-specific,0.222005835545992,0.382281684141877
+MYC targets v1 (H),young,PHB2,Other,-0.0079925261385217,0.982339215895073
+MYC targets v1 (H),young,POLD2,Other,-0.0324723102630266,0.919790657157895
+MYC targets v1 (H),young,POLE3,Other,-0.0220711858276543,0.946318734061049
+MYC targets v1 (H),young,PPIA,Other,-0.18841524524296,0.408608154384396
+MYC targets v1 (H),young,PPM1G,Young-specific,-0.254272963951473,0.254853873608141
+MYC targets v1 (H),young,PRDX3,Other,0.176957016423772,0.492667817546927
+MYC targets v1 (H),young,PRPF31,Other,0.107862929245567,0.674595700515777
+MYC targets v1 (H),young,PSMA1,Other,-0.226430037905729,0.601453274761383
+MYC targets v1 (H),young,PSMA4,Young-specific,0.0470033240827521,0.896096286056832
+MYC targets v1 (H),young,PSMA7,Young-specific,-0.32036936428529467,0.155190333718301
+MYC targets v1 (H),young,PSMB2,Other,0.0416432703623359,0.91093705910315
+MYC targets v1 (H),young,PSMB3,Young-specific,0.1092491999072,0.65927245746347
+MYC targets v1 (H),young,PSMC4,Other,-0.0226511792608441,0.9416245221521
+MYC targets v1 (H),young,PSMC6,Other,-0.0630030155608903,0.851886672292394
+MYC targets v1 (H),young,PSMD1,Other,0.162074545743009,0.506459052384967
+MYC targets v1 (H),young,PSMD14,Other,0.35403800885083,0.0973139733086705
+MYC targets v1 (H),young,PSMD3,Young-specific,-0.0880477263609144,0.72924575495193
+MYC targets v1 (H),young,PSMD7,Other,0.0374623726360014,0.919411766122386
+MYC targets v1 (H),young,PSMD8,Other,-0.162803698596539,0.487807666426062
+MYC targets v1 (H),young,PTGES3,Other,-0.129812855318784,0.628740416103198
+MYC targets v1 (H),young,PWP1,Other,0.194879423043777,0.471402519322418
+MYC targets v1 (H),young,RAD23B,Other,-0.00532702362705445,0.837720829201358
+MYC targets v1 (H),young,RAN,Other,-0.136465162800162,0.566182340182467
+MYC targets v1 (H),young,RANBP1,Young-specific,-0.0645334909394131,0.82193389772914
+MYC targets v1 (H),young,RFC4,Other,0.0731958932665848,0.894734730487966
+MYC targets v1 (H),young,RNPS1,Young-specific,-0.0790456162502087,0.794650389909207
+MYC targets v1 (H),young,RPL14,Other,0.225473843061306,0.353065338669452
+MYC targets v1 (H),young,RPL18,Young-specific,-0.0139171483766664,0.965084064447167
+MYC targets v1 (H),young,RPL22,Other,-0.210603693708628,0.670371084130022
+MYC targets v1 (H),young,RPL34,Other,0.111649258939794,0.7024427102341
+MYC targets v1 (H),young,RPL6,Young-specific,0.102407174109341,0.722210480031183
+MYC targets v1 (H),young,RPLP0,Young-specific,0.315699282850603,0.0865436119435008
+MYC targets v1 (H),young,RPS2,Young-specific,-0.0138558688648448,0.970707017040076
+MYC targets v1 (H),young,RPS3,Young-specific,-0.525076180889111,0.007949992518107
+MYC targets v1 (H),young,RPS5,Other,-0.0302476246167324,0.926121821912396
+MYC targets v1 (H),young,RPS6,Other,-0.111140166387063,0.666553964897569
+MYC targets v1 (H),young,RRM1,Other,-0.165364908302915,0.515091798878859
+MYC targets v1 (H),young,RRP9,Other,-0.0842894626268114,0.742671061545455
+MYC targets v1 (H),young,RSL1D1,Other,0.23161353741099,0.326737214351985
+MYC targets v1 (H),young,RUVBL2,Young-specific,-0.0877368266195412,0.608982044181763
+MYC targets v1 (H),young,SERBP1,Other,0.0738804385360062,0.807312242720765
+MYC targets v1 (H),young,SET,Other,-0.199952361101023,0.529246579483711
+MYC targets v1 (H),young,SF3A1,Other,0.0801869591405457,0.788318615987479
+MYC targets v1 (H),young,SF3B3,Young-specific,0.334930192269918,0.124549450322001
+MYC targets v1 (H),young,SLC25A3,Other,-0.153016427137671,0.506373981471178
+MYC targets v1 (H),young,SMARCC1,Young-specific,0.319969066004121,0.086899994190793
+MYC targets v1 (H),young,SNRPA,Young-specific,-0.0830227570647934,0.749240469195159
+MYC targets v1 (H),young,SNRPA1,Other,-0.001560196558095,0.997007004956746
+MYC targets v1 (H),young,SNRPB2,Other,0.107331321277272,0.746619296623649
+MYC targets v1 (H),young,SNRPD1,Other,-0.0914181362640887,0.755723358236345
+MYC targets v1 (H),young,SNRPD2,Young-specific,0.1596214910387011,0.714020662870014
+MYC targets v1 (H),young,SNRPD3,Other,-0.091901234559049,0.727124863016713
+MYC targets v1 (H),young,SNRPG,Young-specific,0.114322436194488,0.653934098204366
+MYC targets v1 (H),young,SRM,Young-specific,-0.260801509226125,0.179905716124271
+MYC targets v1 (H),young,SRPK1,Young-specific,0.1578889619823815,0.456676455933812
+MYC targets v1 (H),young,SRSF1,Other,-0.0133159480871961,0.971382127295506
+MYC targets v1 (H),young,SRSF2,Young-specific,-0.0745565267253609,0.788082491722279
+MYC targets v1 (H),young,SRSF3,Young-specific,-0.0401785242783147,0.903960771978163
+MYC targets v1 (H),young,SRSF7,Other,-0.100562695985713,0.703243007110909
+MYC targets v1 (H),young,SSBP1,Other,-0.0039518614086643,0.991442488253114
+MYC targets v1 (H),young,STARD7,Other,0.0578399581437807,0.842583137990096
+MYC targets v1 (H),young,SYNCRIP,Other,-0.141339848232398,0.512967930500754
+MYC targets v1 (H),young,TARDBP,Young-specific,0.085867822611133,0.753028647393047
+MYC targets v1 (H),young,TCP1,Other,0.0174557867221144,0.958128123547122
+MYC targets v1 (H),young,TFDP1,Young-specific,-0.260405241400721,0.364599246562219
+MYC targets v1 (H),young,TOMM70,Other,0.132225989378743,0.610109982143788
+MYC targets v1 (H),young,TRA2B,Other,-0.0040352356195072,0.991657041656227
+MYC targets v1 (H),young,TRIM28,Other,-0.0399468736255588,0.891915577512125
+MYC targets v1 (H),young,TUFM,Young-specific,-0.0472519132937817,0.871468408239984
+MYC targets v1 (H),young,TXNL4A,Other,-0.229249870010973,0.257959286245512
+MYC targets v1 (H),young,UBA2,Other,-0.0866095950381003,0.808179816188378
+MYC targets v1 (H),young,UBE2E1,Other,-0.1209514344291231,0.722209422990784
+MYC targets v1 (H),young,USP1,Other,0.126056696023546,0.573472043709573
+MYC targets v1 (H),young,VDAC1,Other,-0.117384003796558,0.684121349601833
+MYC targets v1 (H),young,VDAC3,Other,-0.0120371431163503,0.97354619756498
+MYC targets v1 (H),young,XPO1,Other,-0.192272399182351,0.351400602826575
+MYC targets v1 (H),young,XPOT,Other,0.311982352518224,0.0905451329277026
+MYC targets v1 (H),young,XRCC6,Young-specific,0.0157672276925326,0.962216987812746
+MYC targets v1 (H),young,YWHAE,Young-specific,0.22556282052178842,0.320191044038247
+MYC targets v1 (H),young,YWHAQ,Other,-0.26734036907872605,0.159480593585189
+MYC targets v1 (H),old,ABCE1,Other,0.168268008998022,0.559712359939317
+MYC targets v1 (H),old,ACP1,Other,0.0023055439438621,0.995034061372035
+MYC targets v1 (H),old,AIMP2,Other,0.0366888849693898,0.908775256474698
+MYC targets v1 (H),old,AP3S1,Other,0.0387407300758199,0.90970644859226
+MYC targets v1 (H),old,APEX1,Other,0.231597678694672,0.305019692519351
+MYC targets v1 (H),old,BUB3,Other,-0.0430894153112846,0.894569710604588
+MYC targets v1 (H),old,CAD,Young-specific,0.280715673935377,0.273558928743583
+MYC targets v1 (H),old,CANX,Other,0.285602837852931,0.163974648633141
+MYC targets v1 (H),old,CBX3,Other,0.0967713101769343,0.723732132846794
+MYC targets v1 (H),old,CCNA2,Other,0.0849098422294872,0.769744639845392
+MYC targets v1 (H),old,CCT2,Other,0.0844410506813671,0.781382972285697
+MYC targets v1 (H),old,CCT4,Other,0.185236799431537,0.472432998142765
+MYC targets v1 (H),old,CCT5,Other,0.339093420177009,0.14112958833742
+MYC targets v1 (H),old,CCT7,Other,0.0086620681208573,0.97963431070966
+MYC targets v1 (H),old,CDC20,Young-specific,0.160910948561664,0.510887121553623
+MYC targets v1 (H),old,CDC45,Young-specific,0.0381536545931484,0.906802629730781
+MYC targets v1 (H),old,CDK2,Other,0.292932906512774,0.255239992310717
+MYC targets v1 (H),old,CLNS1A,Young-specific,0.117475439948707,0.693380255132461
+MYC targets v1 (H),old,CNBP,Young-specific,-0.072097607593175,0.819309097990283
+MYC targets v1 (H),old,COX5A,Young-specific,0.0918880833723178,0.73789285888911
+MYC targets v1 (H),old,CTPS1,Young-specific,0.212084383423686,0.424048979179844
+MYC targets v1 (H),old,CUL1,Other,-0.49683234208108523,0.0037240572820162
+MYC targets v1 (H),old,CYC1,Young-specific,0.0825783081107434,0.644657820400293
+MYC targets v1 (H),old,DDX18,Other,0.0817255825729809,0.797153231396719
+MYC targets v1 (H),old,DDX21,Young-specific,0.210379124300828,0.380916624660845
+MYC targets v1 (H),old,DEK,Other,-0.0844609433954834,0.771063997612374
+MYC targets v1 (H),old,DHX15,Other,-0.013542906517135,0.968019990439422
+MYC targets v1 (H),old,DUT,Other,0.385807638307712,0.0617849023772212
+MYC targets v1 (H),old,EEF1B2,Other,0.0852639479426347,0.751338776285407
+MYC targets v1 (H),old,EIF2S1,Other,0.215333101472269,0.362880508636307
+MYC targets v1 (H),old,EIF2S2,Young-specific,0.130564812335798,0.635663348320443
+MYC targets v1 (H),old,EIF3B,Young-specific,0.167610676718316,0.580586862049738
+MYC targets v1 (H),old,EIF3D,Other,0.0947719320215967,0.740938659880168
+MYC targets v1 (H),old,EIF3J,Other,0.128570563581391,0.612673651634947
+MYC targets v1 (H),old,EIF4E,Other,0.197807985891025,0.38724747218814
+MYC targets v1 (H),old,EIF4G2,Other,0.188968698988002,0.405710648778679
+MYC targets v1 (H),old,EIF4H,Other,0.046056278861323,0.887613941021039
+MYC targets v1 (H),old,EPRS1,Other,0.0540512398618916,0.870949173769454
+MYC targets v1 (H),old,ERH,Other,0.33652810059107,0.092142416428337
+MYC targets v1 (H),old,ETF1,Young-specific,0.154951595127458,0.516754854018062
+MYC targets v1 (H),old,EXOSC7,Young-specific,0.093333587221624,0.759736008878766
+MYC targets v1 (H),old,FAM120A,Other,-0.08874085688922531,0.781296221473117
+MYC targets v1 (H),old,FBL,Other,0.136361808785684,0.615392268824996
+MYC targets v1 (H),old,G3BP1,Other,0.0091016755132549,0.979536375210672
+MYC targets v1 (H),old,GLO1,Other,-0.0135224777803815,0.966680948577908
+MYC targets v1 (H),old,GNL3,Other,0.337451827790025,0.209793933058396
+MYC targets v1 (H),old,GOT2,Other,0.127955628910985,0.656817096496107
+MYC targets v1 (H),old,GSPT1,Other,0.21643914327734,0.3255771891017
+MYC targets v1 (H),old,H2AZ1,Other,0.188684113751086,0.457588853098562
+MYC targets v1 (H),old,HDDC2,Other,-0.0596698876331337,0.864249010481262
+MYC targets v1 (H),old,HDGF,Young-specific,-0.0743221472772763,0.797613026879706
+MYC targets v1 (H),old,HNRNPA1,Other,0.0575450022597766,0.853052884799492
+MYC targets v1 (H),old,HNRNPA2B1,Other,0.0967713101769343,0.723732132846794
+MYC targets v1 (H),old,HNRNPA3,Other,0.0694979592957047,0.798263234720873
+MYC targets v1 (H),old,HNRNPC,Other,0.0388319717112681,0.914570751094771
+MYC targets v1 (H),old,HNRNPD,Other,0.133729042375007,0.639044620564956
+MYC targets v1 (H),old,HNRNPR,Young-specific,0.38882447723673247,0.0228074863676493
+MYC targets v1 (H),old,HNRNPU,Other,0.16894357727658,0.478791981822178
+MYC targets v1 (H),old,HSP90AB1,Young-specific,0.11433559195713,0.664485601757532
+MYC targets v1 (H),old,HSPD1,Other,0.196781711038195,0.388805627490624
+MYC targets v1 (H),old,HSPE1,Other,0.132039240796519,0.637073763518506
+MYC targets v1 (H),old,IARS1,Other,0.1888824511783,0.48327408478044
+MYC targets v1 (H),old,IFRD1,Other,-0.282095199551418,0.267789750533159
+MYC targets v1 (H),old,ILF2,Young-specific,0.136214889403662,0.608631300326238
+MYC targets v1 (H),old,KARS1,Other,0.195505556025494,0.405721869761972
+MYC targets v1 (H),old,KPNA2,Other,0.183615361166802,0.429233755009008
+MYC targets v1 (H),old,KPNB1,Young-specific,0.09707646177158816,0.731857536028807
+MYC targets v1 (H),old,LDHA,Other,0.399758304063678,0.058740703601896
+MYC targets v1 (H),old,LSM2,Young-specific,-0.03305876367807,0.927262548249095
+MYC targets v1 (H),old,LSM7,Other,0.26487972300056,0.239610989678081
+MYC targets v1 (H),old,MAD2L1,Other,-0.0005912621601678,0.998555197858806
+MYC targets v1 (H),old,MCM2,Young-specific,0.0733578710834333,0.824371300350261
+MYC targets v1 (H),old,MCM4,Other,0.162830682956361,0.49816901272447
+MYC targets v1 (H),old,MCM5,Other,0.0622305360521053,0.844047930115369
+MYC targets v1 (H),old,MCM6,Other,0.206381074515022,0.394251645069416
+MYC targets v1 (H),old,MCM7,Young-specific,0.20259999779231,0.407050668600558
+MYC targets v1 (H),old,MRPL9,Young-specific,0.0021915890893322,0.995599318490727
+MYC targets v1 (H),old,MRPS18B,Young-specific,0.0694404680661237,0.821669790801874
+MYC targets v1 (H),old,MYC,Other,-0.17361255315257051,0.391909294764795
+MYC targets v1 (H),old,NAP1L1,Other,0.272939982164807,0.179997154582644
+MYC targets v1 (H),old,NCBP1,Other,0.158410093817479,0.550992885765426
+MYC targets v1 (H),old,NCBP2,Young-specific,0.0694354543025557,0.813609460416752
+MYC targets v1 (H),old,NDUFAB1,Other,0.238427017047068,0.31789778907622
+MYC targets v1 (H),old,NHP2,Other,-0.0652038565855264,0.839688163617375
+MYC targets v1 (H),old,NME1,Young-specific,0.281394807678062,0.152545143416179
+MYC targets v1 (H),old,NOLC1,Young-specific,0.235008798778078,0.376443110607343
+MYC targets v1 (H),old,NOP16,Other,0.279967023252208,0.203664690145729
+MYC targets v1 (H),old,NOP56,Other,0.198588888072035,0.420966516379307
+MYC targets v1 (H),old,NPM1,Other,0.386416707504253,0.0398389339132318
+MYC targets v1 (H),old,ODC1,Other,0.197173885534207,0.438536488971501
+MYC targets v1 (H),old,ORC2,Young-specific,0.355359659378019,0.106385709742549
+MYC targets v1 (H),old,PA2G4,Other,0.138526806659369,0.58358434603382
+MYC targets v1 (H),old,PABPC1,Young-specific,0.215096657836937,0.310478156744806
+MYC targets v1 (H),old,PABPC4,Young-specific,0.189504782112609,0.431622262639485
+MYC targets v1 (H),old,PCNA,Other,0.0101310843400743,0.977503335540302
+MYC targets v1 (H),old,PHB1,Young-specific,0.174876357324373,0.510905147107564
+MYC targets v1 (H),old,PHB2,Other,-0.0278895723947191,0.928313329488721
+MYC targets v1 (H),old,POLD2,Other,0.144302486885864,0.573759117993503
+MYC targets v1 (H),old,POLE3,Other,0.236459898838158,0.334135808640457
+MYC targets v1 (H),old,PPIA,Other,0.0889429921494622,0.750265593044717
+MYC targets v1 (H),old,PPM1G,Young-specific,0.101732606700259,0.709512377722819
+MYC targets v1 (H),old,PRDX3,Other,0.37636934472251,0.0682447397023847
+MYC targets v1 (H),old,PRPF31,Other,0.326248197499277,0.0884349811725802
+MYC targets v1 (H),old,PSMA1,Other,-0.438843575206241,0.151084287466595
+MYC targets v1 (H),old,PSMA4,Young-specific,0.392838054074992,0.0632853983679721
+MYC targets v1 (H),old,PSMA7,Young-specific,-0.18527417015551773,0.618469736873864
+MYC targets v1 (H),old,PSMB2,Other,0.285370788553016,0.218432835986351
+MYC targets v1 (H),old,PSMB3,Young-specific,0.300801829525977,0.149269899460276
+MYC targets v1 (H),old,PSMC4,Other,0.0132333430328388,0.97057765883231
+MYC targets v1 (H),old,PSMC6,Other,0.230393103034085,0.336328210937677
+MYC targets v1 (H),old,PSMD1,Other,0.245439374769506,0.285662546948811
+MYC targets v1 (H),old,PSMD14,Other,0.116071296427445,0.676305640712235
+MYC targets v1 (H),old,PSMD3,Young-specific,0.100724191926502,0.708679130895781
+MYC targets v1 (H),old,PSMD7,Other,0.0807193306739155,0.785162329812225
+MYC targets v1 (H),old,PSMD8,Other,0.175503131718229,0.452680792661246
+MYC targets v1 (H),old,PTGES3,Other,0.116099713556431,0.697531864651238
+MYC targets v1 (H),old,PWP1,Other,0.271044000169032,0.244962429825712
+MYC targets v1 (H),old,RAD23B,Other,-0.053370109766475646,0.726995262776671
+MYC targets v1 (H),old,RAN,Other,0.0782150926807827,0.800065940699925
+MYC targets v1 (H),old,RANBP1,Young-specific,0.16813472451566,0.52129652081812
+MYC targets v1 (H),old,RFC4,Other,0.0255878331411451,0.956260406514593
+MYC targets v1 (H),old,RNPS1,Young-specific,0.263378712082503,0.205458706998649
+MYC targets v1 (H),old,RPL14,Other,0.117510381208149,0.687389896671447
+MYC targets v1 (H),old,RPL18,Young-specific,0.0600615061377359,0.848906727664827
+MYC targets v1 (H),old,RPL22,Other,-0.117077055237238,0.778858208813654
+MYC targets v1 (H),old,RPL34,Other,0.123559121079304,0.642544445936177
+MYC targets v1 (H),old,RPL6,Young-specific,0.232759639272432,0.305665093722502
+MYC targets v1 (H),old,RPLP0,Young-specific,0.103309543649956,0.698885795318677
+MYC targets v1 (H),old,RPS2,Young-specific,-0.0151642783186524,0.96727928233702
+MYC targets v1 (H),old,RPS3,Young-specific,0.362176738589919,0.125733838764403
+MYC targets v1 (H),old,RPS5,Other,0.0024777133213804,0.994260879002363
+MYC targets v1 (H),old,RPS6,Other,0.179432602114163,0.437870413763112
+MYC targets v1 (H),old,RRM1,Other,0.0341167604598267,0.916274442562869
+MYC targets v1 (H),old,RRP9,Other,0.0094706378696755,0.977132021546158
+MYC targets v1 (H),old,RSL1D1,Other,0.272382656159181,0.257484482749984
+MYC targets v1 (H),old,RUVBL2,Young-specific,-0.05911324116297499,0.291927813218776
+MYC targets v1 (H),old,SERBP1,Other,0.0721672153771049,0.827907422744663
+MYC targets v1 (H),old,SET,Other,0.433353566779588,0.061258549203479
+MYC targets v1 (H),old,SF3A1,Other,0.246764915301206,0.254147840934188
+MYC targets v1 (H),old,SF3B3,Young-specific,0.17317591393797,0.487768967613037
+MYC targets v1 (H),old,SLC25A3,Other,-0.0667129836059449,0.811623533482087
+MYC targets v1 (H),old,SMARCC1,Young-specific,0.283308443633441,0.20975805737175
+MYC targets v1 (H),old,SNRPA,Young-specific,-0.0035807037166177,0.99174649572052
+MYC targets v1 (H),old,SNRPA1,Other,0.176681303985662,0.480280736097191
+MYC targets v1 (H),old,SNRPB2,Other,0.155396246285024,0.58051511642702
+MYC targets v1 (H),old,SNRPD1,Other,0.378099983410688,0.0534766377227887
+MYC targets v1 (H),old,SNRPD2,Young-specific,0.0983422293423018,0.791322221661515
+MYC targets v1 (H),old,SNRPD3,Other,0.285308834528957,0.193242968634449
+MYC targets v1 (H),old,SNRPG,Young-specific,0.207255414190708,0.37442077173254
+MYC targets v1 (H),old,SRM,Young-specific,-0.0270659758421133,0.874086797919964
+MYC targets v1 (H),old,SRPK1,Young-specific,0.19035448378549102,0.550241478922542
+MYC targets v1 (H),old,SRSF1,Other,-0.0365364393937261,0.904844514410115
+MYC targets v1 (H),old,SRSF2,Young-specific,0.158337646002802,0.490151389674863
+MYC targets v1 (H),old,SRSF3,Young-specific,0.45038098133376,0.0146565563093779
+MYC targets v1 (H),old,SRSF7,Other,0.012476100904888,0.968420266887788
+MYC targets v1 (H),old,SSBP1,Other,0.032659120129794,0.921859709539121
+MYC targets v1 (H),old,STARD7,Other,0.129271880123259,0.646737216998328
+MYC targets v1 (H),old,SYNCRIP,Other,0.0912409115535905,0.729000320799815
+MYC targets v1 (H),old,TARDBP,Young-specific,0.470622208345869,0.0110309325169773
+MYC targets v1 (H),old,TCP1,Other,0.150377972213486,0.586604406858159
+MYC targets v1 (H),old,TFDP1,Young-specific,-0.0226416877905779,0.956437559940328
+MYC targets v1 (H),old,TOMM70,Other,0.172680571328644,0.521119063787462
+MYC targets v1 (H),old,TRA2B,Other,0.184889127710785,0.4314745907422
+MYC targets v1 (H),old,TRIM28,Other,-0.0957755387987983,0.725635748052086
+MYC targets v1 (H),old,TUFM,Young-specific,0.150305202832002,0.559232310023489
+MYC targets v1 (H),old,TXNL4A,Other,0.292095882940604,0.17877296181389
+MYC targets v1 (H),old,UBA2,Other,0.0782504452883413,0.816963166606373
+MYC targets v1 (H),old,UBE2E1,Other,-0.26443415967635997,0.103089259019958
+MYC targets v1 (H),old,USP1,Other,0.296706849515521,0.150889801429314
+MYC targets v1 (H),old,VDAC1,Other,0.258522147949718,0.20132233834712
+MYC targets v1 (H),old,VDAC3,Other,0.198029667168036,0.448678189590821
+MYC targets v1 (H),old,XPO1,Other,0.129238301236087,0.625292806347487
+MYC targets v1 (H),old,XPOT,Other,0.365545222236807,0.107129968475467
+MYC targets v1 (H),old,XRCC6,Young-specific,0.256241885904942,0.243136460411317
+MYC targets v1 (H),old,YWHAE,Young-specific,0.051210303960183404,0.631863904115826
+MYC targets v1 (H),old,YWHAQ,Other,-0.10437353872952221,0.726980975473339

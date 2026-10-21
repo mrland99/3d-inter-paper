@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="191.8752pt" height="225.072pt" viewBox="0 0 191.8752 225.072" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-21T01:18:08.778162</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 225.072 
+L 191.8752 225.072 
+L 191.8752 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 95.9376 81.2544 
+C 102.032604 81.2544 107.878792 78.832829 112.188611 74.523011 
+C 116.498429 70.213192 118.92 64.367004 118.92 58.272 
+C 118.92 52.176996 116.498429 46.330808 112.188611 42.020989 
+C 107.878792 37.711171 102.032604 35.2896 95.9376 35.2896 
+C 89.842596 35.2896 83.996408 37.711171 79.686589 42.020989 
+C 75.376771 46.330808 72.9552 52.176996 72.9552 58.272 
+C 72.9552 64.367004 75.376771 70.213192 79.686589 74.523011 
+C 83.996408 78.832829 89.842596 81.2544 95.9376 81.2544 
+z
+" clip-path="url(#p5798f70b8c)" style="fill: #c9d7ec; stroke: #222222; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 95.9376 68.8056 
+C 98.731143 68.8056 101.410647 67.695713 103.38598 65.72038 
+C 105.361313 63.745047 106.4712 61.065543 106.4712 58.272 
+C 106.4712 55.478457 105.361313 52.798953 103.38598 50.82362 
+C 101.410647 48.848287 98.731143 47.7384 95.9376 47.7384 
+C 93.144057 47.7384 90.464553 48.848287 88.48922 50.82362 
+C 86.513887 52.798953 85.404 55.478457 85.404 58.272 
+C 85.404 61.065543 86.513887 63.745047 88.48922 65.72038 
+C 90.464553 67.695713 93.144057 68.8056 95.9376 68.8056 
+z
+" clip-path="url(#p5798f70b8c)" style="fill: #4c72b0; opacity: 0.85"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 95.9376 90.594312 
+Q 95.9376 109.342696 95.9376 126.302225 
+" clip-path="url(#p5798f70b8c)" style="fill: none; stroke: #222222; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 99.1376 119.902225 
+L 95.9376 126.302225 
+L 92.7376 119.902225 
+z
+" clip-path="url(#p5798f70b8c)" style="fill: #222222; stroke: #222222; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 62.4216 207.3384 
+L 129.4536 207.3384 
+Q 142.2216 207.3384 142.2216 194.5704 
+L 142.2216 189.7824 
+Q 142.2216 177.0144 129.4536 177.0144 
+L 62.4216 177.0144 
+Q 49.6536 177.0144 49.6536 189.7824 
+L 49.6536 194.5704 
+Q 49.6536 207.3384 62.4216 207.3384 
+z
+" clip-path="url(#p5798f70b8c)" style="fill: #edc9ca; stroke: #222222; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 95.9376 200.4756 
+C 98.138574 200.4756 100.249697 199.601144 101.806021 198.044821 
+C 103.362344 196.488497 104.2368 194.377374 104.2368 192.1764 
+C 104.2368 189.975426 103.362344 187.864303 101.806021 186.307979 
+C 100.249697 184.751656 98.138574 183.8772 95.9376 183.8772 
+C 93.736626 183.8772 91.625503 184.751656 90.069179 186.307979 
+C 88.512856 187.864303 87.6384 189.975426 87.6384 192.1764 
+C 87.6384 194.377374 88.512856 196.488497 90.069179 198.044821 
+C 91.625503 199.601144 93.736626 200.4756 95.9376 200.4756 
+z
+" clip-path="url(#p5798f70b8c)" style="fill: #c44e52; opacity: 0.85"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 10.5px; font-family: 'Arial', sans-serif; text-anchor: middle" x="95.9376" y="24.281183" transform="rotate(-0 95.9376 24.281183)">Human ES cell, day 0</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9px; font-family: 'Arial', sans-serif; text-anchor: end" x="86.3616" y="111.673014" transform="rotate(-0 86.3616 111.673014)">(Zhang et al., 2019)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9.5px; font-family: 'Arial', sans-serif" transform="translate(118.632506 106.632696)">cardiac</text>
+    <text style="font-size: 9.5px; font-family: 'Arial', sans-serif" transform="translate(105.5136 116.972296)">differentiation</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10.5px; font-family: 'Arial', sans-serif" transform="translate(35.832483 152.631091)">Ventricular cardiomyocyte</text>
+    <text style="font-size: 10.5px; font-family: 'Arial', sans-serif" transform="translate(80.176116 164.059274)">day 80</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5798f70b8c">
+   <rect x="7.2" y="7.2" width="177.4752" height="210.672"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,3 @@
+core,gene_set,k,n_genes,n_chromosomes,pairs_day80,pairs_day00,pairs_Shared
+sarcomere,Sarcomere organization (GO:0045214),5,10,7,29,0,7
+cardiomyocyte,Cardiomyocytes (PanglaoDB),17,43,19,474,8,200

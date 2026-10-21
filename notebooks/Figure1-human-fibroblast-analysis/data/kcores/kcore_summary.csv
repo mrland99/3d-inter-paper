@@ -1,0 +1,4 @@
+core,pathway,state,k,n_genes_in_graph,n_core_genes,n_chromosomes,pairs_young_only,pairs_old_only,pairs_shared
+ifng_old_3core,Interferon gamma response (H),Old,3,125,18,7,0,43,30
+seninh_young_core,Senescence inhibitors (CellAge),Young,4,104,22,11,51,0,52
+ecm_young_core,Extracellular matrix (Reactome),Young,6,214,37,11,153,15,133

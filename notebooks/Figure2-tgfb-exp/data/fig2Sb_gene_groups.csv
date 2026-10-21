@@ -1,0 +1,627 @@
+pathway,gene_id,gene_name,young_contact,old_contact,YRT_vs_YRC_lfc,ORT_vs_ORC_lfc,bin,in_graph,genes_in_locus,group
+Extracellular matrix (Reactome),ENSG00000171502,COL24A1,False,False,1.47946816373602,1.46163365326985,344,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000135862,LAMC1,False,False,-0.0937428391947201,-0.0636722114748061,732,False,2,no_contact
+Extracellular matrix (Reactome),ENSG00000116962,NID1,False,True,0.37565573432331,-0.166200144973259,944,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000196878,LAMB3,False,False,-0.104787852746642,-0.547698513001338,838,True,4,other_contact
+Extracellular matrix (Reactome),ENSG00000198756,COLGALT2,False,False,-0.634814261104993,-0.350137958346877,736,False,2,no_contact
+Extracellular matrix (Reactome),ENSG00000083444,PLOD1,True,True,0.47173752025555,-0.089481366477293,47,True,8,young_contact
+Extracellular matrix (Reactome),ENSG00000158859,ADAMTS4,False,False,1.86984869370205,1.37887959204184,644,False,20,no_contact
+Extracellular matrix (Reactome),ENSG00000049089,COL9A2,True,False,1.26719319515018,-0.240990933924844,161,True,5,young_contact
+Extracellular matrix (Reactome),ENSG00000117122,MFAP2,True,True,0.541607722400573,0.602467456827392,67,True,1,young_contact
+Extracellular matrix (Reactome),ENSG00000117385,P3H1,True,False,0.686127257616968,0.364068075510067,171,True,8,young_contact
+Extracellular matrix (Reactome),ENSG00000143387,CTSK,True,False,-1.55077772890641,-0.897618831309916,603,True,7,young_contact
+Extracellular matrix (Reactome),ENSG00000188157,AGRN,True,False,1.04214103839435,0.0035098769690372,4,True,11,young_contact
+Extracellular matrix (Reactome),ENSG00000142798,HSPG2,True,False,1.41795614342703,0.152689328198675,87,True,4,young_contact
+Extracellular matrix (Reactome),ENSG00000171812,COL8A2,True,True,1.95214608700234,1.46651421671199,144,True,6,young_contact
+Extracellular matrix (Reactome),ENSG00000143537,ADAM15,True,False,0.647522083122831,-0.365658064062197,620,True,17,young_contact
+Extracellular matrix (Reactome),ENSG00000143127,ITGA10,False,False,-0.381679162419878,-0.494029103130015,583,False,14,no_contact
+Extracellular matrix (Reactome),ENSG00000084636,COL16A1,False,True,1.23654514072326,0.370526983810626,126,True,4,other_contact
+Extracellular matrix (Reactome),ENSG00000162733,DDR2,False,False,-0.352752799834063,0.0748059024567699,650,False,2,no_contact
+Extracellular matrix (Reactome),ENSG00000162909,CAPN2,False,False,-0.558427679322479,-0.367986526361198,894,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000162736,NCSTN,False,False,0.271572998039367,-0.10941311575959,641,False,7,no_contact
+Extracellular matrix (Reactome),ENSG00000122176,FMOD,True,True,0.012607798376983,0.0999145064095963,813,True,5,young_contact
+Extracellular matrix (Reactome),ENSG00000060718,COL11A1,False,False,1.72660296428272,1.76951138845626,412,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000162512,SDC3,False,True,0.74746286695251,-0.0387968552855472,123,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000132031,MATN3,False,False,0.109299291666342,1.46956288553148,1076,True,3,other_contact
+Extracellular matrix (Reactome),ENSG00000162949,CAPN13,False,False,1.78409338379578,-0.125846875516319,1119,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000049323,LTBP1,False,False,-0.0508464240922935,0.470992558690931,1127,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000115380,EFEMP1,False,False,-0.897825297837728,0.0751390129224856,1219,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000142330,CAPN10,False,True,0.587311128009023,-0.203639046339064,1958,True,7,other_contact
+Extracellular matrix (Reactome),ENSG00000115884,SDC1,False,False,3.25195422336948,3.25779843217727,1076,True,3,other_contact
+Extracellular matrix (Reactome),ENSG00000115414,FN1,False,False,0.995078307317212,0.996336621396575,1857,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000115318,LOXL3,False,False,0.387921291046295,0.415574553716138,1294,True,10,other_contact
+Extracellular matrix (Reactome),ENSG00000115232,ITGA4,False,False,-2.04083764067573,-1.12267531502578,1721,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000163359,COL6A3,False,True,0.576986495510152,0.134213526571799,1945,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000138080,EMILIN1,True,True,1.01460452964377,0.301166878567571,1104,True,13,young_contact
+Extracellular matrix (Reactome),ENSG00000138448,ITGAV,False,False,-0.827484053396679,0.416859740638528,1742,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000151694,ADAM17,False,False,-0.73073217896748,-0.0174403142562497,1034,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000130508,PXDN,False,False,1.23726028792534,1.07197006673977,1002,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000168542,COL3A1,False,False,0.547099084154246,0.197403015559957,1751,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000204262,COL5A2,False,False,0.768210449358311,0.632083587950968,1752,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000091409,ITGA6,False,False,-2.34683683460714,-1.15291434157029,1685,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000172037,LAMB2,True,False,0.484086296599445,-0.158119347007149,2161,True,13,young_contact
+Extracellular matrix (Reactome),ENSG00000131375,CAPN7,True,False,-0.816843176742891,0.0892472020243761,2025,True,3,young_contact
+Extracellular matrix (Reactome),ENSG00000114270,COL7A1,True,False,2.75389898245445,1.28259719167039,2159,True,10,young_contact
+Extracellular matrix (Reactome),ENSG00000163710,PCOLCE2,False,False,-0.958986082686338,-0.397053801251428,2536,False,3,no_contact
+Extracellular matrix (Reactome),ENSG00000082781,ITGB5,True,True,0.632736778012732,0.368933557539445,2464,True,2,young_contact
+Extracellular matrix (Reactome),ENSG00000206384,COL6A6,False,False,1.38183743039983,-0.115891907931922,2487,False,2,no_contact
+Extracellular matrix (Reactome),ENSG00000163520,FBLN2,True,False,0.425637147673318,-0.21420126361106,2019,True,1,young_contact
+Extracellular matrix (Reactome),ENSG00000173402,DAG1,True,False,0.087919297058322,-0.317106942418285,2162,True,10,young_contact
+Extracellular matrix (Reactome),ENSG00000196776,CD47,False,False,-1.52115052479342,-0.476445224216126,2397,False,2,no_contact
+Extracellular matrix (Reactome),ENSG00000152952,PLOD2,False,False,0.0778420278169113,0.951190608092564,2549,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000170275,CRTAP,False,False,-0.7069485120626,-0.440712949670793,2097,False,4,no_contact
+Extracellular matrix (Reactome),ENSG00000144810,COL8A1,False,False,-0.0841178683923598,-0.0589703461896053,2363,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000164305,CASP3,False,True,-0.780136842095163,0.323643758374667,3497,True,3,other_contact
+Extracellular matrix (Reactome),ENSG00000138685,FGF2,False,False,-0.405077110755916,0.711294472706147,3250,False,3,no_contact
+Extracellular matrix (Reactome),ENSG00000156140,ADAMTS3,False,False,-0.67357715903847,-0.324640351681746,3049,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000213949,ITGA1,False,False,-0.188237072234432,0.324904657029805,3731,False,3,no_contact
+Extracellular matrix (Reactome),ENSG00000145681,HAPLN1,False,False,1.81240510302125,2.24312688771889,3854,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000038427,VCAN,False,False,0.555924073284121,0.858240981074356,3853,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000164171,ITGA2,False,False,-0.644404552197447,0.359685282968049,3731,False,3,no_contact
+Extracellular matrix (Reactome),ENSG00000135074,ADAM19,False,True,2.22595619887193,1.3420629378973,4150,True,5,other_contact
+Extracellular matrix (Reactome),ENSG00000153113,CAST,False,False,-0.731121040477101,-0.295541116474311,3906,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000113083,LOX,False,False,0.0390034224449956,0.546256622160678,4008,True,3,other_contact
+Extracellular matrix (Reactome),ENSG00000072682,P4HA2,False,False,0.391004755488349,0.59535912397137,4049,True,5,other_contact
+Extracellular matrix (Reactome),ENSG00000050767,COL23A1,False,False,1.48712677524498,-0.248810041563218,4234,True,5,other_contact
+Extracellular matrix (Reactome),ENSG00000037749,MFAP3,False,False,-0.456376369759459,0.153226884114488,4136,True,3,other_contact
+Extracellular matrix (Reactome),ENSG00000175309,PHYKPL,False,False,0.0876574003888947,-0.154312670946956,4232,True,6,other_contact
+Extracellular matrix (Reactome),ENSG00000087116,ADAMTS2,False,False,1.03320201283034,0.455129273109318,4237,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000113140,SPARC,False,False,0.855464536402644,0.924133018261499,4126,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000138829,FBN2,False,False,-0.127836255631259,-0.126647937145607,4034,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000123500,COL10A1,False,False,3.43450968449084,2.98905853120478,4711,False,3,no_contact
+Extracellular matrix (Reactome),ENSG00000112769,LAMA4,False,False,-1.51184786957087,-0.97264017286961,4696,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000111799,COL12A1,False,False,0.0476846052787749,0.175551839364523,4547,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000146197,SCUBE3,True,False,0.571317403668429,0.329733212624867,4387,True,2,young_contact
+Extracellular matrix (Reactome),ENSG00000204580,DDR1,True,False,0.168708449990188,-0.327174398741002,4370,True,6,young_contact
+Extracellular matrix (Reactome),ENSG00000196569,LAMA2,False,False,-0.0448392849688839,-0.119713283711689,4762,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000151914,DST,False,False,-0.753685664004857,-0.201832956747487,4474,False,2,no_contact
+Extracellular matrix (Reactome),ENSG00000168477,TNXB,True,False,-0.467303804598274,-0.969554487021674,4375,True,16,young_contact
+Extracellular matrix (Reactome),ENSG00000124749,COL21A1,False,False,-1.59630769963086,-1.66707700938586,4472,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000105855,ITGB8,False,False,-1.94836967787235,-1.49977004288569,5012,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000106366,SERPINE1,True,True,2.17597981365496,2.30297806777381,5335,True,10,young_contact
+Extracellular matrix (Reactome),ENSG00000106397,PLOD3,True,True,0.594226374810643,-0.067295389054116,5335,True,10,young_contact
+Extracellular matrix (Reactome),ENSG00000091136,LAMB1,False,False,-0.491141279278161,-0.291460064070795,5363,False,2,no_contact
+Extracellular matrix (Reactome),ENSG00000106333,PCOLCE,True,True,0.525403877554431,-0.230577620889398,5333,True,13,young_contact
+Extracellular matrix (Reactome),ENSG00000049540,ELN,False,False,4.37531864214949,3.16590139450707,5227,False,4,no_contact
+Extracellular matrix (Reactome),ENSG00000164692,COL1A2,False,False,1.0130720830588,0.287104066021858,5308,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000197461,PDGFA,True,False,1.2413884069378,0.535319660279214,4933,True,3,young_contact
+Extracellular matrix (Reactome),ENSG00000134013,LOXL2,False,True,1.46225756828214,-0.012673905928457,5662,True,3,other_contact
+Extracellular matrix (Reactome),ENSG00000156103,MMP16,False,False,-0.669831175479306,-0.0326171198767384,5922,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000169439,SDC2,True,False,-1.55207254212668,-0.164411235271708,5954,True,3,young_contact
+Extracellular matrix (Reactome),ENSG00000168615,ADAM9,False,False,-1.28217789746001,-0.327735572577599,5724,False,4,no_contact
+Extracellular matrix (Reactome),ENSG00000168487,BMP1,False,True,0.589042283975297,0.224351321771187,5657,True,13,other_contact
+Extracellular matrix (Reactome),ENSG00000187955,COL14A1,False,False,-0.644464041099079,-1.38769961696174,6049,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000178209,PLEC,True,True,0.997736061989979,-0.206720911797547,6144,True,6,young_contact
+Extracellular matrix (Reactome),ENSG00000164733,CTSB,False,False,-0.240080569012479,-0.449878938869885,5616,False,5,no_contact
+Extracellular matrix (Reactome),ENSG00000196739,COL27A1,False,True,1.25352622310806,-0.0270763732876752,6606,True,3,other_contact
+Extracellular matrix (Reactome),ENSG00000106819,ASPN,False,False,0.369631466048824,2.76714393142431,6519,False,6,no_contact
+Extracellular matrix (Reactome),ENSG00000135047,CTSL,False,False,-1.2792368950576,-0.355596832214564,6500,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000041982,TNC,False,True,1.1586545298648,0.419258083119065,6610,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000130635,COL5A1,False,True,2.74498633348638,1.05118019338405,6688,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000204291,COL15A1,False,False,0.555657881972743,0.0746241158235971,6545,False,3,no_contact
+Extracellular matrix (Reactome),ENSG00000149380,P4HA3,True,True,0.440661332429534,0.643091356454638,7537,True,5,young_contact
+Extracellular matrix (Reactome),ENSG00000149257,SERPINH1,True,True,1.07937096588281,0.730273714712153,7542,True,4,young_contact
+Extracellular matrix (Reactome),ENSG00000177697,CD151,True,False,0.20388571094628,-0.333110797472443,7243,True,13,young_contact
+Extracellular matrix (Reactome),ENSG00000172638,EFEMP2,True,True,0.280904608559094,-0.0528596563818492,7503,True,14,young_contact
+Extracellular matrix (Reactome),ENSG00000117984,CTSD,True,False,0.414546721506993,-0.423695980636969,7247,True,9,young_contact
+Extracellular matrix (Reactome),ENSG00000196611,MMP1,False,False,-1.31859878435116,-1.29666614459004,7651,False,5,no_contact
+Extracellular matrix (Reactome),ENSG00000149260,CAPN5,True,False,0.16305880734445,-0.692075648323321,7548,True,4,young_contact
+Extracellular matrix (Reactome),ENSG00000196655,TRAPPC4,True,True,-0.167439871696415,0.199905695325439,7716,True,15,young_contact
+Extracellular matrix (Reactome),ENSG00000149968,MMP3,False,False,-0.867638622259242,-0.446966144355134,7651,False,5,no_contact
+Extracellular matrix (Reactome),ENSG00000262406,MMP12,False,False,-1.95419597623379,-0.759965506916531,7651,False,5,no_contact
+Extracellular matrix (Reactome),ENSG00000168056,LTBP3,True,False,1.11577901897147,0.0276341273730833,7502,True,12,young_contact
+Extracellular matrix (Reactome),ENSG00000137745,MMP13,False,False,1.49934221836529,-0.4345482346911,7651,False,5,no_contact
+Extracellular matrix (Reactome),ENSG00000026508,CD44,False,False,-0.225049670828246,-0.565692765966197,7380,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000166086,JAM3,False,False,-0.323112322082489,-0.0280671121270313,7776,True,3,other_contact
+Extracellular matrix (Reactome),ENSG00000014216,CAPN1,True,False,0.244330798362218,-0.239080744725195,7500,True,16,young_contact
+Extracellular matrix (Reactome),ENSG00000134569,LRP4,True,True,0.398507484939322,0.0880594816596455,7427,True,3,young_contact
+Extracellular matrix (Reactome),ENSG00000149294,NCAM1,False,False,0.108877741990239,0.481555062617915,7691,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000077943,ITGA8,False,False,-0.81639267515808,-0.734058132875222,6766,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000166033,HTRA1,False,False,-0.0063114737837418,0.237168655790243,7193,True,4,other_contact
+Extracellular matrix (Reactome),ENSG00000138131,LOXL4,False,False,0.615589036538172,0.526179279084324,7097,False,4,no_contact
+Extracellular matrix (Reactome),ENSG00000148848,ADAM12,False,True,2.45977745854797,2.88000594713836,7209,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000138316,ADAMTS14,True,True,1.09377119369698,-0.404707841449564,6986,True,2,young_contact
+Extracellular matrix (Reactome),ENSG00000107957,SH3PXD2A,True,False,1.80889088807919,1.02778247044947,7119,True,3,young_contact
+Extracellular matrix (Reactome),ENSG00000197467,COL13A1,True,True,0.0346771331814826,-0.585850345003831,6983,True,1,young_contact
+Extracellular matrix (Reactome),ENSG00000150093,ITGB1,False,True,-0.475078872244849,0.792718351869596,6836,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000122884,P4HA1,True,True,-0.719224081318309,0.0996273095949254,6996,True,5,young_contact
+Extracellular matrix (Reactome),ENSG00000197614,MFAP5,False,False,-0.841371018829025,0.333870984121666,7815,True,5,other_contact
+Extracellular matrix (Reactome),ENSG00000161638,ITGA5,True,False,0.648114776477396,0.256329037544918,7998,True,9,young_contact
+Extracellular matrix (Reactome),ENSG00000074527,NTN4,False,False,-2.21662485930683,-1.16195075354681,8164,False,5,no_contact
+Extracellular matrix (Reactome),ENSG00000175899,A2M,False,False,0.805531183726766,-0.273539479356,7817,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000139329,LUM,False,False,-1.30602404767702,-0.374173728215882,8145,False,4,no_contact
+Extracellular matrix (Reactome),ENSG00000011465,DCN,False,False,-1.29009464878072,-0.78772958472875,8145,False,4,no_contact
+Extracellular matrix (Reactome),ENSG00000110811,P3H3,False,True,0.824081237357021,-0.120155349248102,7808,True,20,other_contact
+Extracellular matrix (Reactome),ENSG00000123342,MMP19,False,False,0.416903979847697,-0.0057102318721873,8004,True,11,other_contact
+Extracellular matrix (Reactome),ENSG00000198598,MMP17,False,False,0.919301340338951,-0.138126640952419,8308,True,4,other_contact
+Extracellular matrix (Reactome),ENSG00000187498,COL4A1,False,True,1.01604040170646,1.45431054627942,8756,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000134871,COL4A2,False,True,1.16229441287886,0.844305017428014,8756,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000119681,LTBP2,True,False,1.72479893692229,0.687858250681151,9071,True,3,young_contact
+Extracellular matrix (Reactome),ENSG00000100448,CTSG,False,False,0.772461742490563,-0.0569486998949132,8871,True,4,other_contact
+Extracellular matrix (Reactome),ENSG00000157227,MMP14,False,True,0.9592605873643,0.31935772079199,8864,True,11,other_contact
+Extracellular matrix (Reactome),ENSG00000072110,ACTN1,True,False,1.49116095520581,0.858167907402403,9048,True,2,young_contact
+Extracellular matrix (Reactome),ENSG00000087303,NID2,False,True,0.0420486931483356,-0.814677518127254,8981,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000080815,PSEN1,True,False,-0.5925277951207,-0.0303981528029119,9065,True,4,young_contact
+Extracellular matrix (Reactome),ENSG00000140092,FBLN5,False,True,0.464272233351262,0.409849002812301,9140,True,3,other_contact
+Extracellular matrix (Reactome),ENSG00000137809,ITGA11,True,False,1.87705155211896,1.30804910208869,9475,True,3,young_contact
+Extracellular matrix (Reactome),ENSG00000129038,LOXL1,True,False,0.0350953970855678,-0.100179270641057,9497,True,5,young_contact
+Extracellular matrix (Reactome),ENSG00000137845,ADAM10,False,False,-0.956780278276758,-0.129114741887504,9436,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000157766,ACAN,False,True,-0.104126141026026,-0.355598613104887,9557,True,3,other_contact
+Extracellular matrix (Reactome),ENSG00000140564,FURIN,False,False,1.25091418202397,0.457549972921273,9565,True,7,other_contact
+Extracellular matrix (Reactome),ENSG00000166794,PPIB,True,False,-0.140050283576405,0.359860197732857,9458,True,5,young_contact
+Extracellular matrix (Reactome),ENSG00000137801,THBS1,True,True,1.19811945466575,0.552530713706796,9360,True,1,young_contact
+Extracellular matrix (Reactome),ENSG00000166147,FBN1,False,False,0.42490629478622,1.10853025907532,9396,False,1,no_contact
+Extracellular matrix (Reactome),ENSG00000087245,MMP2,False,True,1.17944800724373,0.302253984716774,9831,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000103326,CAPN15,True,True,1.34589877148894,0.140431859296923,9612,True,20,young_contact
+Extracellular matrix (Reactome),ENSG00000154229,PRKCA,True,False,0.611055015387017,0.151714897966843,10237,True,2,young_contact
+Extracellular matrix (Reactome),ENSG00000166482,MFAP4,True,True,1.56904681129625,0.723711436365249,10049,True,5,young_contact
+Extracellular matrix (Reactome),ENSG00000185624,P4HB,True,True,0.635803317091296,0.183024740671899,10299,True,15,young_contact
+Extracellular matrix (Reactome),ENSG00000108821,COL1A1,True,False,3.13551302607631,0.900202010429302,10172,True,6,young_contact
+Extracellular matrix (Reactome),ENSG00000259207,ITGB3,True,True,0.163519990786688,0.970829919095176,10161,True,3,young_contact
+Extracellular matrix (Reactome),ENSG00000083457,ITGAE,False,False,-0.205789020699717,0.194758743453028,9987,True,5,other_contact
+Extracellular matrix (Reactome),ENSG00000035862,TIMP2,True,True,0.294450600605942,-0.134919516401364,10287,True,5,young_contact
+Extracellular matrix (Reactome),ENSG00000005884,ITGA3,True,False,0.303020229141149,-0.122930617631258,10172,True,6,young_contact
+Extracellular matrix (Reactome),ENSG00000132205,EMILIN2,False,False,-0.398671225378042,-0.485640608950751,10317,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000101680,LAMA1,False,False,0.482746128983657,0.952582257871213,10334,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000125845,BMP2,False,True,-2.02396095361497,-1.41382787324007,10890,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000130702,LAMA5,True,False,0.996366461664992,-0.605872469791208,11112,True,6,young_contact
+Extracellular matrix (Reactome),ENSG00000124145,SDC4,False,True,-0.325424825489799,-0.343745524173957,11044,True,10,other_contact
+Extracellular matrix (Reactome),ENSG00000125965,GDF5,True,True,-1.39516274010407,-2.09531739752109,11004,True,7,young_contact
+Extracellular matrix (Reactome),ENSG00000092758,COL9A3,True,True,0.904585822053199,-0.0681590063878314,11114,True,7,young_contact
+Extracellular matrix (Reactome),ENSG00000080573,COL5A3,True,False,0.993482069608518,0.0794574860943799,10668,True,10,young_contact
+Extracellular matrix (Reactome),ENSG00000090339,ICAM1,True,False,1.65849405813429,-0.403483269078783,10669,True,13,young_contact
+Extracellular matrix (Reactome),ENSG00000090006,LTBP4,True,True,1.09357782843055,-0.160538535897512,10790,True,5,young_contact
+Extracellular matrix (Reactome),ENSG00000105329,TGFB1,True,True,1.71354361833168,0.553907468211755,10793,True,11,young_contact
+Extracellular matrix (Reactome),ENSG00000172270,BSG,False,True,0.144028390059964,-0.267836106834789,10630,True,11,other_contact
+Extracellular matrix (Reactome),ENSG00000126247,CAPNS1,True,False,-0.683662468022643,-0.170277874432137,10772,True,12,young_contact
+Extracellular matrix (Reactome),ENSG00000130309,COLGALT1,True,False,0.607293205442108,0.122673806385221,10698,True,6,young_contact
+Extracellular matrix (Reactome),ENSG00000105664,COMP,True,False,1.50789505375619,0.677578524386172,10703,True,8,young_contact
+Extracellular matrix (Reactome),ENSG00000105376,ICAM5,True,False,1.66609194372344,0.593298081387074,10669,True,13,young_contact
+Extracellular matrix (Reactome),ENSG00000105426,PTPRS,False,True,0.857069772933601,-0.300781011363044,10649,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000159307,SCUBE1,False,True,1.14578073716786,-0.0210951596146132,11481,True,2,other_contact
+Extracellular matrix (Reactome),ENSG00000099953,MMP11,True,True,0.476186297135076,-0.469779832167806,11403,True,14,young_contact
+Extracellular matrix (Reactome),ENSG00000077942,FBLN1,True,False,0.102577827456903,-0.71257611640854,11490,True,2,young_contact
+Extracellular matrix (Reactome),ENSG00000154736,ADAMTS5,True,True,-0.845343818413099,-0.369413170956921,11228,True,2,young_contact
+Extracellular matrix (Reactome),ENSG00000182871,COL18A1,True,False,0.853040067587022,-0.137999902532601,11302,True,2,young_contact
+Extracellular matrix (Reactome),ENSG00000154734,ADAMTS1,True,True,-1.50623788045754,-0.249565875277347,11228,True,2,young_contact
+Extracellular matrix (Reactome),ENSG00000142156,COL6A1,True,False,0.402381555416381,-0.213813270268186,11304,True,1,young_contact
+Extracellular matrix (Reactome),ENSG00000160255,ITGB2,True,False,1.20207899293804,-0.383135401880049,11300,True,5,young_contact
+Extracellular matrix (Reactome),ENSG00000142192,APP,False,True,-0.150887599764914,-0.0955109865853968,11225,True,1,other_contact
+Extracellular matrix (Reactome),ENSG00000142173,COL6A2,True,False,0.678739384606356,-0.113953508478777,11305,True,4,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000069702,TGFBR3,False,False,-2.00136423480777,-1.53701229905387,367,False,2,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000117318,ID3,True,False,1.83032615030349,1.96539919120858,94,True,4,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000169231,THBS3,True,False,0.0322056522096738,-0.18866955058817,620,True,17,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000065978,YBX1,True,False,-0.898204433972409,0.0405732931314186,170,True,3,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000116478,HDAC1,False,True,-0.465966590180857,-0.124515275196662,129,True,8,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000143799,PARP1,False,True,-0.130394900335939,-0.0694715498384675,905,True,2,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000116750,UCHL5,False,False,-1.2172554703178,0.0093684287631289,772,True,5,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000157077,ZFYVE9,False,False,-0.413860793293938,-0.0724598231604161,208,False,5,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000157933,SKI,True,False,1.76975876121535,0.153812012754571,8,True,5,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000197323,TRIM33,False,False,-0.52651787462425,-0.009007399333413,458,False,5,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000049323,LTBP1,False,False,-0.0508464240922935,0.470992558690931,1127,False,1,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000163083,INHBB,False,False,-0.814350011459662,-1.60984001977692,1477,False,1,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000121989,ACVR2A,False,False,-0.791778679126768,-0.218861745379103,1587,False,1,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000143947,RPS27A,False,False,-0.724999259321898,-0.0228148660028583,1216,False,3,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000115170,ACVR1,False,False,0.0858823360852773,-0.163057302038266,1627,False,2,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000115738,ID2,False,False,0.129198533324915,0.994289580191945,1030,True,1,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000204217,BMPR2,False,True,0.168539179542441,0.226150563578578,1805,True,3,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000138448,ITGAV,False,False,-0.827484053396679,0.416859740638528,1742,True,2,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000115415,STAT1,False,False,-0.727984081695131,-0.13467045889788,1760,True,3,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000213639,PPP1CB,True,True,-1.23729764602142,-0.124066334057381,1111,True,5,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000082258,CCNT2,False,False,-0.765475762713426,0.101314967146412,1535,False,2,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000134318,ROCK2,False,False,-1.00235876347318,-0.230152608523829,1041,True,3,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000082898,XPO1,False,False,-0.971954180691478,0.0017773757566779,1242,False,1,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000114739,ACVR2B,False,False,-0.182930961538173,-0.176771789638206,2118,False,5,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000114126,TFDP2,False,False,-0.129096257280175,-0.242381547961539,2533,False,2,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000018408,WWTR1,False,False,-0.199240221810913,0.121022726140116,2563,False,1,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000067560,RHOA,True,False,-0.621560823098039,0.115522329545588,2162,True,10,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000082781,ITGB5,True,True,0.632736778012732,0.368933557539445,2464,True,2,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000136603,SKIL,False,True,0.16079172427443,0.987979521131395,2646,True,3,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000163513,TGFBR2,False,False,-0.400570428845344,-0.214009311178673,2087,False,1,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000170365,SMAD1,False,False,-0.615053712814543,0.138068276837441,3340,True,1,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000109332,UBE2D3,False,False,-1.15468774089002,0.102385450355925,3170,False,3,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000164093,PITX2,False,False,0.0755331135075874,1.01438001444842,3201,False,1,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000138696,BMPR1B,False,False,1.27575650835753,1.37771634717596,3138,False,1,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000134363,FST,False,False,-0.781657919638716,0.0028685706219575,3733,False,1,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000039319,ZFYVE16,False,False,-0.791785494018069,0.0594472618025659,3841,False,4,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000113558,SKP1,False,False,-0.188034961509041,-0.0793973866536773,4056,True,5,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000113575,PPP2CA,False,False,-0.889139930680409,0.100866388766164,4056,True,5,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000113658,SMAD5,False,False,-1.28220229448699,-0.111167209061137,4064,True,3,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000172201,ID4,False,False,-0.756363004878001,1.65908509863413,4326,False,1,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000112237,CCNC,False,False,-1.8326293872821,-0.0034472296970333,4645,False,4,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000186340,THBS2,False,True,0.306461950914555,-0.0496298426990151,4924,True,1,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000105855,ITGB8,False,False,-1.94836967787235,-1.49977004288569,5012,False,1,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000106366,SERPINE1,True,False,2.17597981365496,2.30297806777381,5335,True,10,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000122641,INHBA,False,True,1.54354479620321,1.38379051892175,5097,True,1,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000198742,SMURF1,True,False,0.338312341562261,0.472314607604776,5327,True,1,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000055130,CUL1,False,False,-0.0565539673783019,-0.0331381844492519,5525,True,2,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000164692,COL1A2,False,False,1.0130720830588,0.287104066021858,5308,False,1,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000104695,PPP2CB,False,True,-0.291872283271677,0.0590610553170134,5692,True,2,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000136997,MYC,False,True,0.371432559816902,0.301990239474714,6079,True,1,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000136807,CDK9,False,True,0.842076683440301,-0.115477366099556,6661,True,11,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000147883,CDKN2B,False,False,1.72112824738158,2.06936077614036,6238,False,1,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000106799,TGFBR1,False,False,-0.536589131278255,0.236621039977102,6546,False,3,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000137713,PPP2R1B,False,False,-0.116478082560144,-0.165598252645119,7687,True,10,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000172531,PPP1CA,True,True,0.330143941602286,0.176836991412953,7509,True,17,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000175634,RPS6KB2,True,True,-0.0036271489796693,0.118158759806613,7509,True,17,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000168056,LTBP3,True,False,1.11577901897147,0.0276341273730833,7502,True,12,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000110395,CBL,True,False,0.564810875674755,0.0115282764851894,7716,True,15,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000133895,MEN1,True,False,0.899340316650586,-0.0023461064588864,7499,True,11,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000077943,ITGA8,False,False,-0.81639267515808,-0.734058132875222,6766,False,1,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000072401,UBE2D1,False,False,-0.813740102027722,0.0228040652288217,6937,False,4,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000148498,PARD3,False,False,-0.682999823198264,-0.416296056250786,6843,True,1,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000150093,ITGB1,False,False,-0.475078872244849,0.792718351869596,6836,True,1,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000107779,BMPR1A,False,False,-1.24507614795759,-0.171196563469761,7051,False,4,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000023734,STRAP,False,False,-0.525875017449845,0.308042985921964,7844,True,3,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000135655,USP15,False,False,-1.02863977678287,0.118637658586961,8030,False,3,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000011465,DCN,False,False,-1.29009464878072,-0.78772958472875,8145,False,4,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000185591,SP1,True,True,-0.190279019130808,0.13703487291838,7994,True,10,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000186298,PPP1CC,True,True,-1.46148735397683,-0.378353092410542,8223,True,6,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000150991,UBC,True,True,-0.386526029591319,-0.054228993243314,8280,True,4,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000196498,NCOR2,True,True,2.20032814929223,0.0007092913934537,8279,True,1,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000129315,CCNT1,False,False,-0.670474491806985,-0.0356183353781894,7975,True,6,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000139567,ACVRL1,True,True,-0.484474027918561,-0.614330719467528,7988,True,5,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000198176,TFDP1,True,False,0.0629155986488804,-0.11654074369788,8769,True,3,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000132964,CDK8,False,False,-0.704768463455497,0.037358467384761,8420,True,1,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000120693,SMAD9,False,False,-0.343035830043922,-0.126512570592302,8462,False,3,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000100614,PPM1A,False,False,-0.665110139256121,0.0034448543161962,9013,False,3,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000119681,LTBP2,True,False,1.72479893692229,0.687858250681151,9071,True,3,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000100603,SNW1,False,False,-0.859365983303735,-0.0393821575639337,9084,True,2,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000129559,NEDD8,False,False,-0.686512822033843,0.0282263169339574,8869,True,25,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000137834,SMAD6,True,True,0.470512578414505,-0.249920151009375,9468,True,4,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000157450,RNF111,False,False,0.106363355428053,0.0375464954339819,9437,False,3,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000140564,FURIN,False,False,1.25091418202397,0.457549972921273,9565,True,7,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000137801,THBS1,True,True,1.19811945466575,0.552530713706796,9360,True,1,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000166147,FBN1,False,False,0.42490629478622,1.10853025907532,9396,False,1,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000166949,SMAD3,True,True,-0.10575901648762,-0.595036465246187,9470,True,1,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000005339,CREBBP,True,False,1.10508804660777,0.0045074046821527,9625,True,1,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000102882,MAPK3,True,False,-0.106778462245263,-0.416481185056436,9730,True,14,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000205250,E2F4,True,False,0.336851817306694,0.185836789636463,9878,True,15,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000103479,RBL2,False,True,-0.652073120944038,-0.189343217651037,9823,True,1,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000103266,STUB1,True,False,0.193970703930946,-0.0788240532435571,9612,True,20,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000108854,SMURF2,True,False,-0.578394194491428,0.440313775163117,10230,True,3,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000108389,MTMR4,False,False,-0.191269134639666,-0.115575125397873,10206,False,5,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000170315,UBB,True,True,-1.05927232739735,0.0366295184082855,10037,True,4,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000259207,ITGB3,True,True,0.163519990786688,0.970829919095176,10161,True,3,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000141027,NCOR1,True,True,0.291500327500363,0.105985054866808,10036,True,2,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000108443,RPS6KB1,True,False,-0.820393944722314,0.270298935024375,10211,True,4,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000175387,SMAD2,True,False,-0.753773327755616,-0.0884432139430879,10497,True,1,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000177426,TGIF1,False,False,-0.427123066436048,0.178620154551705,10319,True,2,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000101665,SMAD7,True,False,1.01543248351577,0.945983069060861,10501,True,1,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000049759,NEDD4L,False,False,-0.637300446112156,-1.18918297338939,10538,True,1,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000141646,SMAD4,False,False,-0.589215154066866,-0.0648643241973032,10510,False,2,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000067900,ROCK1,False,False,-0.891936456994567,0.092430649885633,10390,False,2,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000125845,BMP2,False,True,-2.02396095361497,-1.41382787324007,10890,True,1,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000124225,PMEPA1,False,False,2.70482933811354,2.5150211236407,11093,True,4,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000080839,RBL1,True,True,-0.570251444392275,0.240183090036821,11011,True,3,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000125965,GDF5,True,True,-1.39516274010407,-2.09531739752109,11004,True,7,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000118707,TGIF2,True,True,0.537544070696104,0.306464808768701,11009,True,6,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000125968,ID1,False,False,1.10463216852967,2.68416471546143,10989,False,6,no_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000088832,FKBP1A,True,True,0.413616111426202,0.0229196243621287,10868,True,6,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000171223,JUNB,True,False,1.79245821846748,1.50443984925784,10679,True,18,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000090006,LTBP4,True,True,1.09357782843055,-0.160538535897512,10790,True,5,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000105329,TGFB1,True,True,1.71354361833168,0.553907468211755,10793,True,11,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000104880,ARHGEF18,False,False,0.204994123567692,-0.0068963382905442,10657,True,4,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000221983,UBA52,True,False,-0.444508541509073,-0.127362560985545,10702,True,9,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000130725,UBE2M,False,False,0.620401721293565,0.3402085725371,10862,True,6,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000105568,PPP2R1A,False,False,0.275299985577194,-0.172262721731938,10836,True,7,other_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000087074,PPP1R15A,True,True,-0.197440554299399,-0.116051610018382,10823,True,13,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000105664,COMP,True,False,1.50789505375619,0.677578524386172,10703,True,8,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000100030,MAPK1,True,False,-0.774413049772899,-0.104326759654858,11395,True,3,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000100387,RBX1,True,False,-1.35058880497042,0.107956966441527,11471,True,5,young_contact
+TGF-beta signaling (KEGG+Reactome),ENSG00000100393,EP300,True,False,1.03078249065883,-0.130378159992374,11472,True,3,young_contact
+Senescence inhibitors (CellAge),ENSG00000092853,CLSPN,True,False,0.837529434966442,1.05456479640595,143,True,4,young_contact
+Senescence inhibitors (CellAge),ENSG00000162607,USP1,False,False,-0.796952675804131,0.387002949684747,249,False,2,no_contact
+Senescence inhibitors (CellAge),ENSG00000117650,NEK2,False,False,-0.364895090429494,0.0749353503253743,846,True,2,other_contact
+Senescence inhibitors (CellAge),ENSG00000135829,DHX9,False,False,-0.760820245384052,0.0994456175269054,731,False,3,no_contact
+Senescence inhibitors (CellAge),ENSG00000162521,RBBP4,False,True,0.245209230538738,0.151096924984136,130,True,5,other_contact
+Senescence inhibitors (CellAge),ENSG00000142945,KIF2C,True,False,0.202432485858988,0.836439367407077,178,True,3,young_contact
+Senescence inhibitors (CellAge),ENSG00000117385,P3H1,True,False,0.686127257616968,0.364068075510067,171,True,8,young_contact
+Senescence inhibitors (CellAge),ENSG00000183814,LIN9,False,True,-0.146318006415554,0.650090537505069,905,True,2,other_contact
+Senescence inhibitors (CellAge),ENSG00000180198,RCC1,False,False,0.164237490894095,-0.104975550023206,114,True,6,other_contact
+Senescence inhibitors (CellAge),ENSG00000011007,ELOA,True,False,-0.0073687834650186,0.228592218028971,94,True,4,young_contact
+Senescence inhibitors (CellAge),ENSG00000074800,ENO1,True,False,-0.0150011211489717,0.202614085893632,35,True,3,young_contact
+Senescence inhibitors (CellAge),ENSG00000198793,MTOR,True,False,0.257575849339996,0.0937381577221089,45,True,3,young_contact
+Senescence inhibitors (CellAge),ENSG00000138032,PPM1B,False,False,-0.556282857329083,-0.359137201791334,1172,True,2,other_contact
+Senescence inhibitors (CellAge),ENSG00000153107,ANAPC1,False,False,-0.686452803035256,-0.195133271894767,1443,False,2,no_contact
+Senescence inhibitors (CellAge),ENSG00000123485,HJURP,False,True,-0.0219415461778912,0.554522968108164,1931,True,4,other_contact
+Senescence inhibitors (CellAge),ENSG00000162961,DPY30,False,False,-0.656150617914082,-0.146002696276905,1124,False,4,no_contact
+Senescence inhibitors (CellAge),ENSG00000014641,MDH1,False,False,-0.890513121319641,-0.0353104320018186,1250,False,1,no_contact
+Senescence inhibitors (CellAge),ENSG00000065911,MTHFD2,False,False,0.932585304598045,1.5883910758568,1292,True,3,other_contact
+Senescence inhibitors (CellAge),ENSG00000169679,BUB1,False,False,-0.587482640042851,0.424062240122625,1438,False,3,no_contact
+Senescence inhibitors (CellAge),ENSG00000068024,HDAC4,False,True,0.299555258682115,-0.489632210269458,1953,True,1,other_contact
+Senescence inhibitors (CellAge),ENSG00000132305,IMMT,False,False,-0.434049326086523,0.141884160207983,1340,False,4,no_contact
+Senescence inhibitors (CellAge),ENSG00000116044,NFE2L2,True,False,0.0560021103397668,0.0342883996197047,1705,True,2,young_contact
+Senescence inhibitors (CellAge),ENSG00000170144,HNRNPA3,True,False,0.52653166256115,0.294577865301098,1704,True,1,young_contact
+Senescence inhibitors (CellAge),ENSG00000138468,SENP7,False,False,-0.873383930846534,0.0685349868347708,2371,False,6,no_contact
+Senescence inhibitors (CellAge),ENSG00000172667,ZMAT3,False,True,-0.889524163693377,-0.287001871902636,2681,True,2,other_contact
+Senescence inhibitors (CellAge),ENSG00000164045,CDC25A,True,False,1.36440512696507,0.4143662985135,2157,True,4,young_contact
+Senescence inhibitors (CellAge),ENSG00000163781,TOPBP1,False,False,-0.599869824762843,0.371157925661156,2499,False,3,no_contact
+Senescence inhibitors (CellAge),ENSG00000197548,ATG7,True,False,-0.313684278277335,-0.0474237537163752,2010,True,1,young_contact
+Senescence inhibitors (CellAge),ENSG00000180914,OXTR,True,False,0.36816864934946,0.649094325118498,2000,True,2,young_contact
+Senescence inhibitors (CellAge),ENSG00000114026,OGG1,True,False,-0.161239643567138,0.0429292999546319,2003,True,5,young_contact
+Senescence inhibitors (CellAge),ENSG00000189308,LIN54,False,False,-0.427348279639615,0.153029415438037,3091,False,3,no_contact
+Senescence inhibitors (CellAge),ENSG00000164109,MAD2L1,False,False,-0.376693858311568,0.658373421229787,3239,False,1,no_contact
+Senescence inhibitors (CellAge),ENSG00000164104,HMGB2,True,True,-0.246243951469958,0.368336266078555,3452,True,3,young_contact
+Senescence inhibitors (CellAge),ENSG00000164111,ANXA5,False,False,-0.80069009798776,0.0860507301561156,3245,False,1,no_contact
+Senescence inhibitors (CellAge),ENSG00000132463,GRSF1,False,False,-0.754713203585116,0.0550112714434957,3042,False,3,no_contact
+Senescence inhibitors (CellAge),ENSG00000113368,LMNB1,False,False,-0.114674635136198,0.508619589778166,4027,True,1,other_contact
+Senescence inhibitors (CellAge),ENSG00000197451,HNRNPAB,False,False,0.235888371532997,0.729043670900421,4232,True,6,other_contact
+Senescence inhibitors (CellAge),ENSG00000145782,ATG12,False,False,-1.10126316317414,0.016494427422615,3983,False,4,no_contact
+Senescence inhibitors (CellAge),ENSG00000112081,SRSF3,True,False,-0.213724489706798,0.568905869023865,4393,True,4,young_contact
+Senescence inhibitors (CellAge),ENSG00000057663,ATG5,False,False,-0.688490392264898,0.0379634226436924,4672,True,2,other_contact
+Senescence inhibitors (CellAge),ENSG00000118689,FOXO3,False,False,0.0965983759999206,0.35991490811147,4681,True,1,other_contact
+Senescence inhibitors (CellAge),ENSG00000112312,GMNN,False,False,-0.143775928663767,0.546005076499813,4346,False,3,no_contact
+Senescence inhibitors (CellAge),ENSG00000237649,KIFC1,True,False,0.89674376148662,0.515686041032787,4380,True,16,young_contact
+Senescence inhibitors (CellAge),ENSG00000137337,MDC1,True,False,1.17249650921988,0.390584813363313,4369,True,14,young_contact
+Senescence inhibitors (CellAge),ENSG00000096384,HSP90AB1,False,True,-0.816544128502686,-0.109491416915111,4423,True,6,other_contact
+Senescence inhibitors (CellAge),ENSG00000095951,HIVEP1,False,True,0.663591137408376,0.55927284227677,4295,True,1,other_contact
+Senescence inhibitors (CellAge),ENSG00000128513,POT1,False,False,-0.806570436604827,0.115193561675104,5430,False,2,no_contact
+Senescence inhibitors (CellAge),ENSG00000105810,CDK6,False,False,-0.554500336535785,0.328591579960235,5302,False,1,no_contact
+Senescence inhibitors (CellAge),ENSG00000257923,CUX1,True,False,0.406825245899891,-0.0549832539029113,5338,True,1,young_contact
+Senescence inhibitors (CellAge),ENSG00000078399,HOXA9,False,False,-0.351474323753439,-0.182561764165326,5039,False,13,no_contact
+Senescence inhibitors (CellAge),ENSG00000105989,WNT2,False,False,0.324116626969554,1.66542766587844,5400,False,3,no_contact
+Senescence inhibitors (CellAge),ENSG00000166508,MCM7,True,False,0.951138790607334,0.692054993853981,5331,True,16,young_contact
+Senescence inhibitors (CellAge),ENSG00000165392,WRN,False,False,-0.576461490376389,0.113335354964689,5693,True,2,other_contact
+Senescence inhibitors (CellAge),ENSG00000123124,WWP1,False,False,0.133410770661489,-0.0644778442178907,5914,False,2,no_contact
+Senescence inhibitors (CellAge),ENSG00000048392,RRM2B,True,True,-1.66542562864571,-0.145084332314937,5977,True,2,young_contact
+Senescence inhibitors (CellAge),ENSG00000187840,EIF4EBP1,False,False,1.80857488977053,1.10047275193296,5721,False,6,no_contact
+Senescence inhibitors (CellAge),ENSG00000184661,CDCA2,False,True,0.528980110548264,0.204749432782058,5670,True,3,other_contact
+Senescence inhibitors (CellAge),ENSG00000164733,CTSB,False,False,-0.240080569012479,-0.449878938869885,5616,False,5,no_contact
+Senescence inhibitors (CellAge),ENSG00000119318,RAD23B,False,False,-1.03503186698425,0.0657907938131516,6579,True,2,other_contact
+Senescence inhibitors (CellAge),ENSG00000136810,TXN,False,False,-1.25769528365223,-0.131033531810597,6591,True,2,other_contact
+Senescence inhibitors (CellAge),ENSG00000110107,PRPF19,False,False,0.90527895627692,0.0960795279826474,7483,False,10,no_contact
+Senescence inhibitors (CellAge),ENSG00000142082,SIRT3,True,False,-0.0684397700150238,-0.22044716605106,7240,True,6,young_contact
+Senescence inhibitors (CellAge),ENSG00000166340,TPP1,False,False,1.16033412684072,-0.223743631918308,7266,False,6,no_contact
+Senescence inhibitors (CellAge),ENSG00000110492,MDK,True,True,0.581441997751763,-0.284478188116222,7425,True,4,young_contact
+Senescence inhibitors (CellAge),ENSG00000137693,YAP1,False,False,-0.531092603906515,-0.0109363307769243,7648,False,2,no_contact
+Senescence inhibitors (CellAge),ENSG00000149311,ATM,False,False,-0.724060767683747,0.0620355768064278,7672,True,4,other_contact
+Senescence inhibitors (CellAge),ENSG00000107614,TRDMT1,False,False,-1.0374749621617,-0.173871778761939,6772,True,3,other_contact
+Senescence inhibitors (CellAge),ENSG00000168209,DDIT4,True,True,2.09789501689207,1.61547832300208,6993,True,2,young_contact
+Senescence inhibitors (CellAge),ENSG00000096717,SIRT1,False,False,-0.905211477439216,0.145134770822198,6975,False,3,no_contact
+Senescence inhibitors (CellAge),ENSG00000168283,BMI1,False,False,-1.11474143012857,-0.0094203535625682,6793,True,4,other_contact
+Senescence inhibitors (CellAge),ENSG00000077150,NFKB2,True,False,0.66938222209857,0.0511098320750058,7113,True,6,young_contact
+Senescence inhibitors (CellAge),ENSG00000107960,STN1,True,False,1.02826087301727,-0.319601811424083,7119,True,3,young_contact
+Senescence inhibitors (CellAge),ENSG00000119969,HELLS,False,False,0.71122474434138,0.426616383767357,7082,False,3,no_contact
+Senescence inhibitors (CellAge),ENSG00000015171,ZMYND11,False,False,-0.612302187584256,0.0134257361596955,6704,False,2,no_contact
+Senescence inhibitors (CellAge),ENSG00000165609,NUDT5,False,False,-0.212204929803375,-0.0793669915419966,6752,False,5,no_contact
+Senescence inhibitors (CellAge),ENSG00000111196,MAGOHB,False,False,-0.918449928744679,0.5692614889396,7823,True,4,other_contact
+Senescence inhibitors (CellAge),ENSG00000135111,TBX3,True,False,0.0664924943199544,0.411667198198098,8239,True,1,young_contact
+Senescence inhibitors (CellAge),ENSG00000135446,CDK4,False,False,0.143803203082999,0.365993368710718,8012,True,10,other_contact
+Senescence inhibitors (CellAge),ENSG00000111424,VDR,False,False,1.81821418927351,0.838982880228198,7972,True,5,other_contact
+Senescence inhibitors (CellAge),ENSG00000185344,ATP6V0A2,True,True,0.0015878705580745,0.691054152301846,8275,True,7,young_contact
+Senescence inhibitors (CellAge),ENSG00000111328,CDK2AP1,True,True,-0.511895705590438,0.224602552439434,8274,True,5,young_contact
+Senescence inhibitors (CellAge),ENSG00000123374,CDK2,False,False,0.268880501472335,0.235878471616808,8004,True,11,other_contact
+Senescence inhibitors (CellAge),ENSG00000171681,ATF7IP,False,False,-0.20107587616239,-0.002561998677737,7838,True,1,other_contact
+Senescence inhibitors (CellAge),ENSG00000089094,KDM2B,True,True,0.239242657546204,0.0298471219161713,8267,True,4,young_contact
+Senescence inhibitors (CellAge),ENSG00000132341,RAN,False,True,-0.634830229434211,0.349960713897186,8304,True,4,other_contact
+Senescence inhibitors (CellAge),ENSG00000050405,LIMA1,True,True,-0.495862111717983,0.228360201204545,7982,True,3,young_contact
+Senescence inhibitors (CellAge),ENSG00000111602,TIMELESS,False,False,1.04340035305805,0.24733319748925,8006,True,14,other_contact
+Senescence inhibitors (CellAge),ENSG00000079387,SENP1,False,False,-0.131918388289613,0.192952410875529,7973,True,6,other_contact
+Senescence inhibitors (CellAge),ENSG00000066117,SMARCD1,True,True,0.316741816700024,0.151496040946443,7981,True,6,young_contact
+Senescence inhibitors (CellAge),ENSG00000136108,CKAP2,False,False,-0.655097549270743,0.0700890286909668,8524,False,3,no_contact
+Senescence inhibitors (CellAge),ENSG00000198176,TFDP1,True,True,0.0629155986488804,-0.11654074369788,8769,True,3,young_contact
+Senescence inhibitors (CellAge),ENSG00000126778,SIX1,False,False,-0.505755221483665,-0.516169410976253,9015,False,5,no_contact
+Senescence inhibitors (CellAge),ENSG00000170779,CDCA4,True,False,0.292041338093736,0.482896718365045,9193,True,5,young_contact
+Senescence inhibitors (CellAge),ENSG00000100823,APEX1,False,True,-0.0276735238002737,0.0676964413740466,8854,True,9,other_contact
+Senescence inhibitors (CellAge),ENSG00000080824,HSP90AA1,True,True,-0.130726122582516,0.010684479294992,9181,True,2,young_contact
+Senescence inhibitors (CellAge),ENSG00000100697,DICER1,False,False,-0.351664205585757,0.202634857552142,9153,True,1,other_contact
+Senescence inhibitors (CellAge),ENSG00000185787,MORF4L1,True,True,0.0570447552151232,0.257163169367313,9517,True,3,young_contact
+Senescence inhibitors (CellAge),ENSG00000069869,NEDD4,False,False,-0.380924983933911,0.933462354276311,9425,False,1,no_contact
+Senescence inhibitors (CellAge),ENSG00000140157,NIPA2,False,False,-0.430558984399415,0.362409407022268,9293,False,3,no_contact
+Senescence inhibitors (CellAge),ENSG00000166851,PLK1,False,False,1.2445546697535,-0.062030445877497,9704,True,8,other_contact
+Senescence inhibitors (CellAge),ENSG00000166971,AKTIP,False,False,-0.24178986015113,0.0657395153212415,9824,True,3,other_contact
+Senescence inhibitors (CellAge),ENSG00000103196,CRISPLD2,True,True,1.55089321462184,1.3869825635035,9949,True,1,young_contact
+Senescence inhibitors (CellAge),ENSG00000102898,NUTF2,True,False,-0.599317135901535,0.243825042071478,9881,True,15,young_contact
+Senescence inhibitors (CellAge),ENSG00000109046,WSB1,False,False,-0.627295274831946,-0.167872832446059,10081,False,2,no_contact
+Senescence inhibitors (CellAge),ENSG00000070540,WIPI1,False,False,0.36121563333303,0.431435380886023,10245,False,3,no_contact
+Senescence inhibitors (CellAge),ENSG00000141504,SAT2,True,True,-0.0904933566409214,-0.310669691237944,10002,True,17,young_contact
+Senescence inhibitors (CellAge),ENSG00000178999,AURKB,True,True,0.0349938759116666,0.947714979709371,10004,True,13,young_contact
+Senescence inhibitors (CellAge),ENSG00000129219,PLD2,True,False,-0.114374612730903,-0.409188474638694,9991,True,18,young_contact
+Senescence inhibitors (CellAge),ENSG00000010244,ZNF207,True,True,-0.76324309233497,0.238842494988807,10101,True,5,young_contact
+Senescence inhibitors (CellAge),ENSG00000136492,BRIP1,True,False,-0.0008287697512924,0.690995137456308,10219,True,2,young_contact
+Senescence inhibitors (CellAge),ENSG00000131473,ACLY,True,False,0.889321032150441,0.591950659740282,10139,True,9,young_contact
+Senescence inhibitors (CellAge),ENSG00000178691,SUZ12,True,True,-0.664081182585478,0.197065620775151,10099,True,3,young_contact
+Senescence inhibitors (CellAge),ENSG00000188554,NBR1,True,False,-0.67193592456763,-0.102989277318799,10144,True,6,young_contact
+Senescence inhibitors (CellAge),ENSG00000101057,MYBL2,False,True,1.47475158353275,0.908243580899232,11037,True,5,other_contact
+Senescence inhibitors (CellAge),ENSG00000131051,RBM39,True,False,-0.578496179589569,0.199247067151722,11005,True,9,young_contact
+Senescence inhibitors (CellAge),ENSG00000101191,DIDO1,True,False,0.318298753031547,0.0719275795302697,11114,True,7,young_contact
+Senescence inhibitors (CellAge),ENSG00000101266,CSNK2A1,True,True,-0.3943814881067,0.174374167645292,10865,True,5,young_contact
+Senescence inhibitors (CellAge),ENSG00000116017,ARID3A,False,False,0.901628877007473,0.180610859841302,10631,True,12,other_contact
+Senescence inhibitors (CellAge),ENSG00000104885,DOT1L,False,False,1.11049217068221,0.113989683829382,10636,True,9,other_contact
+Senescence inhibitors (CellAge),ENSG00000066044,ELAVL1,False,False,0.299097170517671,0.242357495984067,10660,True,4,other_contact
+Senescence inhibitors (CellAge),ENSG00000276043,UHRF1,False,False,1.1536534736736,0.862600897913139,10647,True,6,other_contact
+Senescence inhibitors (CellAge),ENSG00000069399,BCL3,True,True,0.94656042698373,-0.421172666419563,10806,True,7,young_contact
+Senescence inhibitors (CellAge),ENSG00000068903,SIRT2,True,False,0.251417217130547,-0.107665458617192,10783,True,15,young_contact
+Senescence inhibitors (CellAge),ENSG00000129351,ILF3,True,False,0.673770899321533,0.16646197610582,10670,True,10,young_contact
+Senescence inhibitors (CellAge),ENSG00000142453,CARM1,True,False,0.219993136639125,-0.119627204114562,10671,True,6,young_contact
+Senescence inhibitors (CellAge),ENSG00000100307,CBX7,True,True,0.457103059911903,-0.490989519083283,11464,True,8,young_contact
+Senescence inhibitors (CellAge),ENSG00000100243,CYB5R3,True,True,0.654241857573708,-0.292660179843192,11478,True,7,young_contact
+Senescence inhibitors (CellAge),ENSG00000128191,DGCR8,True,False,0.495710914825677,0.290646845782857,11388,True,7,young_contact
+Senescence inhibitors (CellAge),ENSG00000154640,BTG3,False,False,-0.686698112087289,0.176051315055268,11191,True,2,other_contact
+Senescence inhibitors (CellAge),ENSG00000142168,SOD1,False,False,-0.989001541007311,-0.230397412633094,11247,True,3,other_contact
+Senescence inhibitors (CellAge),ENSG00000160294,MCM3AP,True,False,0.477078046812609,0.189040379908897,11306,True,6,young_contact
+MYC targets v1 (H),ENSG00000126067,PSMB2,False,True,0.672154450092703,0.119409305906802,142,True,5,other_contact
+MYC targets v1 (H),ENSG00000162607,USP1,False,False,-0.796952675804131,0.387002949684747,249,False,2,no_contact
+MYC targets v1 (H),ENSG00000143621,ILF2,True,False,0.0552166338347088,0.493502340093124,614,True,14,young_contact
+MYC targets v1 (H),ENSG00000163468,CCT3,True,False,-0.359397866298487,0.147066189190846,625,True,7,young_contact
+MYC targets v1 (H),ENSG00000090621,PABPC4,True,False,-0.135057062433564,-0.141769362700339,158,True,5,young_contact
+MYC targets v1 (H),ENSG00000142864,SERBP1,False,False,-0.430041993225379,0.169011364645866,269,False,2,no_contact
+MYC targets v1 (H),ENSG00000117399,CDC20,True,False,0.940573406496749,0.242647387488034,173,True,10,young_contact
+MYC targets v1 (H),ENSG00000116649,SRM,True,False,1.59335810899573,0.541163535309456,44,True,5,young_contact
+MYC targets v1 (H),ENSG00000143436,MRPL9,True,False,0.0960248636645219,-0.19230729171279,607,True,9,young_contact
+MYC targets v1 (H),ENSG00000136628,EPRS1,False,False,-0.16031417814483,0.573640676956512,880,True,3,other_contact
+MYC targets v1 (H),ENSG00000171793,CTPS1,True,False,0.877265180653304,0.576066859851032,163,True,3,young_contact
+MYC targets v1 (H),ENSG00000120948,TARDBP,True,False,-0.130390143986637,0.0660911228553624,44,True,5,young_contact
+MYC targets v1 (H),ENSG00000153187,HNRNPU,False,False,-0.390141777959619,0.230551867691556,979,True,3,other_contact
+MYC targets v1 (H),ENSG00000116251,RPL22,False,False,-0.588094873572703,0.0159847104447742,24,True,6,other_contact
+MYC targets v1 (H),ENSG00000143321,HDGF,True,False,-0.0513591481018385,-0.0366445893210438,627,True,7,young_contact
+MYC targets v1 (H),ENSG00000125944,HNRNPR,True,False,-0.473804544267939,0.438341999018374,93,True,4,young_contact
+MYC targets v1 (H),ENSG00000115875,SRSF7,False,False,-0.405465967856094,0.618429938825039,1151,False,5,no_contact
+MYC targets v1 (H),ENSG00000088205,DDX18,False,False,-0.541076105329023,0.160054143597628,1467,False,1,no_contact
+MYC targets v1 (H),ENSG00000115233,PSMD14,False,False,-1.02580850172943,0.19321355241451,1641,False,3,no_contact
+MYC targets v1 (H),ENSG00000115241,PPM1G,True,True,-0.238869108649619,0.152980292192563,1105,True,15,young_contact
+MYC targets v1 (H),ENSG00000115541,HSPE1,False,False,-0.0811851203515618,0.0525400419742776,1786,True,6,other_contact
+MYC targets v1 (H),ENSG00000138385,SSB,False,False,-1.45013380524869,0.049772396000884,1675,False,3,no_contact
+MYC targets v1 (H),ENSG00000144381,HSPD1,False,False,-0.789474416972429,-0.0107798065861596,1786,True,6,other_contact
+MYC targets v1 (H),ENSG00000143977,SNRPG,True,True,-1.1936749953137,0.253830995571511,1277,True,3,young_contact
+MYC targets v1 (H),ENSG00000173692,PSMD1,False,False,-0.654792643782767,0.169479040965175,1920,True,4,other_contact
+MYC targets v1 (H),ENSG00000115942,ORC2,True,True,-0.297579135142229,0.0811718819148513,1799,True,5,young_contact
+MYC targets v1 (H),ENSG00000084774,CAD,True,True,1.18175585478797,0.284121364838947,1104,True,13,young_contact
+MYC targets v1 (H),ENSG00000115484,CCT4,False,False,-0.574225999850851,0.0211837513268568,1243,False,3,no_contact
+MYC targets v1 (H),ENSG00000134308,YWHAQ,False,False,-1.190124004425,-0.233193167826653,1034,True,2,other_contact
+MYC targets v1 (H),ENSG00000115758,ODC1,False,False,-0.763434403222165,0.611516179917963,1037,True,2,other_contact
+MYC targets v1 (H),ENSG00000170144,HNRNPA3,False,False,0.52653166256115,0.294577865301098,1704,True,1,other_contact
+MYC targets v1 (H),ENSG00000143727,ACP1,False,False,-0.94410394504366,0.216963916126958,997,True,3,other_contact
+MYC targets v1 (H),ENSG00000076003,MCM6,False,False,0.444786592503314,0.512005851199724,1539,False,3,no_contact
+MYC targets v1 (H),ENSG00000114942,EEF1B2,False,False,-0.579987981915267,0.317155684778571,1820,True,4,other_contact
+MYC targets v1 (H),ENSG00000135624,CCT7,False,True,-0.138256589262715,0.144254625920854,1288,True,6,other_contact
+MYC targets v1 (H),ENSG00000084090,STARD7,False,False,-0.190628284442252,-0.125525174377426,1380,False,5,no_contact
+MYC targets v1 (H),ENSG00000082898,XPO1,False,False,-0.971954180691478,0.0017773757566779,1242,False,1,no_contact
+MYC targets v1 (H),ENSG00000173473,SMARCC1,True,False,0.0208170656039606,0.458455308102709,2156,True,2,young_contact
+MYC targets v1 (H),ENSG00000154174,TOMM70,False,False,-0.701376621225092,0.103387790749226,2366,False,5,no_contact
+MYC targets v1 (H),ENSG00000169714,CNBP,True,False,-1.11676635431613,-0.125784654642352,2481,True,8,young_contact
+MYC targets v1 (H),ENSG00000114767,RRP9,False,False,1.14096509674487,0.554994542798889,2172,False,15,no_contact
+MYC targets v1 (H),ENSG00000163918,RFC4,False,True,-0.435063325360956,0.500400062899102,2712,True,4,other_contact
+MYC targets v1 (H),ENSG00000136527,TRA2B,False,True,-0.482052585888497,0.490850191701179,2708,True,2,other_contact
+MYC targets v1 (H),ENSG00000114503,NCBP2,True,True,-0.770390183602733,0.143061162499647,2752,True,4,young_contact
+MYC targets v1 (H),ENSG00000188846,RPL14,False,False,-0.64979991392344,-0.0594045820637584,2126,False,6,no_contact
+MYC targets v1 (H),ENSG00000163938,GNL3,False,False,-0.571916643119242,0.491356980785347,2175,False,6,no_contact
+MYC targets v1 (H),ENSG00000075914,EXOSC7,True,False,-0.0847738533534219,-0.152781846992341,2144,True,6,young_contact
+MYC targets v1 (H),ENSG00000170142,UBE2E1,False,False,-0.549740211515059,-0.235935856556738,2060,True,4,other_contact
+MYC targets v1 (H),ENSG00000073111,MCM2,True,True,0.833575053183871,0.420358943679498,2475,True,4,young_contact
+MYC targets v1 (H),ENSG00000109606,DHX15,False,False,-0.866130888093994,-0.0272603174847296,2857,False,1,no_contact
+MYC targets v1 (H),ENSG00000164032,H2AZ1,False,False,-0.197240074126546,0.61009094869473,3158,False,4,no_contact
+MYC targets v1 (H),ENSG00000164109,MAD2L1,False,False,-0.376693858311568,0.658373421229787,3239,False,1,no_contact
+MYC targets v1 (H),ENSG00000145386,CCNA2,False,False,-0.14170084826413,0.734187660147159,3246,False,5,no_contact
+MYC targets v1 (H),ENSG00000109475,RPL34,False,False,-0.726558397753061,-0.103286790188681,3193,False,2,no_contact
+MYC targets v1 (H),ENSG00000164163,ABCE1,False,True,-0.930856358884727,0.33076153418327,3339,True,4,other_contact
+MYC targets v1 (H),ENSG00000138668,HNRNPD,False,False,0.734104920821248,0.286870569042468,3088,False,3,no_contact
+MYC targets v1 (H),ENSG00000151247,EIF4E,False,False,-0.988535228105134,0.220550679382219,3154,False,2,no_contact
+MYC targets v1 (H),ENSG00000181163,NPM1,False,True,-1.12695866189238,0.122801303729797,4205,True,3,other_contact
+MYC targets v1 (H),ENSG00000145907,G3BP1,False,False,-0.474305179889035,0.172977301315366,4127,True,3,other_contact
+MYC targets v1 (H),ENSG00000127022,CANX,False,True,-0.39337831364264,0.223032629412879,4238,True,5,other_contact
+MYC targets v1 (H),ENSG00000204628,RACK1,False,False,-0.299745503216508,-0.11447979463154,4244,False,6,no_contact
+MYC targets v1 (H),ENSG00000048162,NOP16,False,True,0.527323702137302,0.357494448483185,4225,True,6,other_contact
+MYC targets v1 (H),ENSG00000145912,NHP2,False,True,-0.296404961904281,0.394988144977269,4232,True,6,other_contact
+MYC targets v1 (H),ENSG00000150753,CCT5,False,False,-0.558850922019003,0.298763707330511,3560,False,2,no_contact
+MYC targets v1 (H),ENSG00000213585,VDAC1,False,False,-0.608489446699341,0.224060003465218,4056,True,5,other_contact
+MYC targets v1 (H),ENSG00000120705,ETF1,True,True,-0.510669289248859,0.326662195268617,4074,True,3,young_contact
+MYC targets v1 (H),ENSG00000177879,AP3S1,False,False,-1.39688156132408,0.0423522209399671,3983,False,4,no_contact
+MYC targets v1 (H),ENSG00000124795,DEK,False,False,-1.15520091938186,0.0356419778114629,4320,False,2,no_contact
+MYC targets v1 (H),ENSG00000112081,SRSF3,True,False,-0.213724489706798,0.568905869023865,4393,True,4,young_contact
+MYC targets v1 (H),ENSG00000196591,HDAC2,False,False,-0.209318970321665,0.26050842770824,4703,False,1,no_contact
+MYC targets v1 (H),ENSG00000120438,TCP1,False,True,-0.828390941531127,0.0847547324181401,4886,True,7,other_contact
+MYC targets v1 (H),ENSG00000204392,LSM2,True,False,-0.128730002427417,-0.106282168894342,4374,True,19,young_contact
+MYC targets v1 (H),ENSG00000204568,MRPS18B,True,False,-0.714386321014389,-0.059955216376673,4369,True,14,young_contact
+MYC targets v1 (H),ENSG00000096063,SRPK1,True,False,-1.41756009802379,-0.0479498062697401,4390,True,5,young_contact
+MYC targets v1 (H),ENSG00000124767,GLO1,False,False,-0.966647666293077,-0.0619720433207301,4401,True,3,other_contact
+MYC targets v1 (H),ENSG00000135316,SYNCRIP,False,False,-0.626225141246611,0.303217767805719,4589,False,3,no_contact
+MYC targets v1 (H),ENSG00000096384,HSP90AB1,True,False,-0.816544128502686,-0.109491416915111,4423,True,6,young_contact
+MYC targets v1 (H),ENSG00000111906,HDDC2,False,False,-0.604181924961141,0.225527885683806,4748,False,1,no_contact
+MYC targets v1 (H),ENSG00000106028,SSBP1,False,True,-1.02300012475275,0.187189655075189,5497,True,4,other_contact
+MYC targets v1 (H),ENSG00000006652,IFRD1,False,False,-0.522568240041796,0.370523416909655,5380,False,4,no_contact
+MYC targets v1 (H),ENSG00000122565,CBX3,False,False,-1.12014404247678,0.26289434865131,5035,False,3,no_contact
+MYC targets v1 (H),ENSG00000196262,PPIA,False,True,-0.616838469200635,0.0126324262606455,5110,True,5,other_contact
+MYC targets v1 (H),ENSG00000106682,EIF4H,False,False,-0.0522666508130938,0.395641086794254,5227,False,4,no_contact
+MYC targets v1 (H),ENSG00000106263,EIF3B,True,False,0.173797055188644,0.152305260953812,4940,True,4,young_contact
+MYC targets v1 (H),ENSG00000055130,CUL1,False,True,-0.0565539673783019,-0.0331381844492519,5525,True,2,other_contact
+MYC targets v1 (H),ENSG00000106628,POLD2,False,True,0.112744015881633,-0.271477950921214,5107,True,8,other_contact
+MYC targets v1 (H),ENSG00000122566,HNRNPA2B1,False,False,0.231080802364166,0.427561650323849,5035,False,3,no_contact
+MYC targets v1 (H),ENSG00000106305,AIMP2,False,False,0.565282793134321,0.471519573443599,4955,False,5,no_contact
+MYC targets v1 (H),ENSG00000166508,MCM7,True,True,0.951138790607334,0.692054993853981,5331,True,16,young_contact
+MYC targets v1 (H),ENSG00000121022,COPS5,False,False,-0.700915447677304,0.153660353190865,5837,False,3,no_contact
+MYC targets v1 (H),ENSG00000179091,CYC1,True,True,0.389885761333397,0.0150631943100203,6145,True,12,young_contact
+MYC targets v1 (H),ENSG00000070756,PABPC1,True,False,0.460120419390249,-0.083227530130784,5971,True,3,young_contact
+MYC targets v1 (H),ENSG00000078668,VDAC3,False,False,-0.767488844718622,-0.0707399877251329,5738,False,4,no_contact
+MYC targets v1 (H),ENSG00000104738,MCM4,False,False,0.413811464334149,0.406524850716334,5760,False,2,no_contact
+MYC targets v1 (H),ENSG00000136997,MYC,False,False,0.371432559816902,0.301990239474714,6079,True,1,other_contact
+MYC targets v1 (H),ENSG00000119318,RAD23B,False,False,-1.03503186698425,0.0657907938131516,6579,True,2,other_contact
+MYC targets v1 (H),ENSG00000136937,NCBP1,False,False,-0.359112208880109,0.315175770066534,6540,False,4,no_contact
+MYC targets v1 (H),ENSG00000196305,IARS1,False,False,0.293680469309194,0.839651434274304,6519,False,6,no_contact
+MYC targets v1 (H),ENSG00000148229,POLE3,False,False,-0.194812770151307,0.412789588343199,6603,True,10,other_contact
+MYC targets v1 (H),ENSG00000119335,SET,False,True,-0.85676559738313,0.185048637492353,6664,True,6,other_contact
+MYC targets v1 (H),ENSG00000137154,RPS6,False,False,-0.548636436858699,0.0327493507471483,6227,False,2,no_contact
+MYC targets v1 (H),ENSG00000048828,FAM120A,False,False,-0.133349919420657,-0.118504159650289,6523,False,2,no_contact
+MYC targets v1 (H),ENSG00000074201,CLNS1A,True,True,-1.08973935092206,-0.0884979678247785,7550,True,2,young_contact
+MYC targets v1 (H),ENSG00000149273,RPS3,True,True,-0.764495692028023,-0.055653202590455,7541,True,3,young_contact
+MYC targets v1 (H),ENSG00000129084,PSMA1,False,False,-1.10616981333303,0.148780218284276,7298,False,4,no_contact
+MYC targets v1 (H),ENSG00000167325,RRM1,False,False,-0.579103609341663,0.260351676238476,7256,False,3,no_contact
+MYC targets v1 (H),ENSG00000110321,EIF4G2,False,False,0.0097716238434441,0.0423978613450287,7283,False,3,no_contact
+MYC targets v1 (H),ENSG00000134333,LDHA,False,False,-0.899951929861707,-0.557872760846348,7313,False,6,no_contact
+MYC targets v1 (H),ENSG00000154473,BUB3,False,False,-0.535148464244332,0.138493261034502,7196,True,5,other_contact
+MYC targets v1 (H),ENSG00000166197,NOLC1,True,False,0.0938323798307786,0.368075568008367,7112,True,8,young_contact
+MYC targets v1 (H),ENSG00000165732,DDX21,True,True,-0.116263912718063,0.466209295805742,6979,True,4,young_contact
+MYC targets v1 (H),ENSG00000165672,PRDX3,False,False,-0.836661866658408,-0.0205425239448147,7180,True,6,other_contact
+MYC targets v1 (H),ENSG00000166226,CCT2,False,False,-0.557815892009226,0.32280291631369,8059,False,4,no_contact
+MYC targets v1 (H),ENSG00000135446,CDK4,False,False,0.143803203082999,0.365993368710718,8012,True,10,other_contact
+MYC targets v1 (H),ENSG00000187109,NAP1L1,False,False,-1.18203553317774,-0.0969227953950939,8085,False,2,no_contact
+MYC targets v1 (H),ENSG00000110958,PTGES3,False,False,-0.614205851162687,0.159194243333176,8007,True,6,other_contact
+MYC targets v1 (H),ENSG00000215021,PHB2,False,True,-0.47680171585976,-0.0852497612122226,7808,True,20,other_contact
+MYC targets v1 (H),ENSG00000135486,HNRNPA1,False,True,-0.645007213756316,0.184836932610422,7998,True,9,other_contact
+MYC targets v1 (H),ENSG00000184575,XPOT,False,False,0.172820975394008,0.683780438649919,8038,False,3,no_contact
+MYC targets v1 (H),ENSG00000170515,PA2G4,False,False,0.0027239877415292,0.144968356134196,8005,True,14,other_contact
+MYC targets v1 (H),ENSG00000075415,SLC25A3,False,False,-0.715811938001462,-0.0479016681805199,8175,False,4,no_contact
+MYC targets v1 (H),ENSG00000123374,CDK2,False,False,0.268880501472335,0.235878471616808,8004,True,11,other_contact
+MYC targets v1 (H),ENSG00000136045,PWP1,False,False,-1.11667696943164,0.15719999726655,8211,True,1,other_contact
+MYC targets v1 (H),ENSG00000089009,RPL6,True,True,-0.527017332375943,0.0279545637370703,8230,True,3,young_contact
+MYC targets v1 (H),ENSG00000132341,RAN,False,True,-0.634830229434211,0.349960713897186,8304,True,4,other_contact
+MYC targets v1 (H),ENSG00000089157,RPLP0,True,True,-0.306732208848462,-0.0323446973355248,8261,True,3,young_contact
+MYC targets v1 (H),ENSG00000198176,TFDP1,True,True,0.0629155986488804,-0.11654074369788,8769,True,3,young_contact
+MYC targets v1 (H),ENSG00000100519,PSMC6,False,True,-1.05004171617282,0.147715881005842,8983,True,5,other_contact
+MYC targets v1 (H),ENSG00000100823,APEX1,False,True,-0.0276735238002737,0.0676964413740466,8854,True,9,other_contact
+MYC targets v1 (H),ENSG00000134001,EIF2S1,False,False,-0.879562905584072,0.173140769152363,9042,True,3,other_contact
+MYC targets v1 (H),ENSG00000092199,HNRNPC,False,True,-0.844407110444136,0.0698708798541834,8858,True,6,other_contact
+MYC targets v1 (H),ENSG00000100632,ERH,False,False,-0.736676571154941,0.237957977629583,9050,True,4,other_contact
+MYC targets v1 (H),ENSG00000041357,PSMA4,True,False,-1.01749392014844,0.145184891781648,9516,True,5,young_contact
+MYC targets v1 (H),ENSG00000104131,EIF3J,False,False,0.462967277822003,0.541145540442935,9380,False,5,no_contact
+MYC targets v1 (H),ENSG00000128951,DUT,False,False,-0.946170267288161,-0.0371656179951933,9395,False,1,no_contact
+MYC targets v1 (H),ENSG00000131876,SNRPA1,False,False,0.825579853585333,0.275650326608421,9607,True,3,other_contact
+MYC targets v1 (H),ENSG00000178741,COX5A,True,False,-0.27962214889052,-0.0696399091619365,9501,True,10,young_contact
+MYC targets v1 (H),ENSG00000178952,TUFM,True,False,0.757355331728216,0.0094043676329449,9725,True,10,young_contact
+MYC targets v1 (H),ENSG00000189091,SF3B3,True,False,-0.209599001358917,0.0132680396575351,9892,True,4,young_contact
+MYC targets v1 (H),ENSG00000065427,KARS1,False,False,-0.514394650540982,0.0749293254184589,9912,False,10,no_contact
+MYC targets v1 (H),ENSG00000004779,NDUFAB1,False,True,-0.813021876519986,0.213192365114969,9704,True,8,other_contact
+MYC targets v1 (H),ENSG00000125166,GOT2,False,False,-0.0909046257734002,0.0250206926998698,9844,False,4,no_contact
+MYC targets v1 (H),ENSG00000103035,PSMD7,False,False,-0.540699956744725,0.349301222448769,9907,False,3,no_contact
+MYC targets v1 (H),ENSG00000140988,RPS2,True,True,0.291997935236605,-0.0407518680978593,9617,True,20,young_contact
+MYC targets v1 (H),ENSG00000171490,RSL1D1,False,False,-0.226010858694003,-0.0368964267964907,9657,True,6,other_contact
+MYC targets v1 (H),ENSG00000103342,GSPT1,False,False,-0.400064420939643,0.134225136511336,9657,True,6,other_contact
+MYC targets v1 (H),ENSG00000205937,RNPS1,True,True,0.0164872522572978,0.39148003902564,9619,True,8,young_contact
+MYC targets v1 (H),ENSG00000108344,PSMD3,True,True,0.0866778561717237,0.141501365644436,10131,True,7,young_contact
+MYC targets v1 (H),ENSG00000136450,SRSF1,False,False,-0.892056036201693,0.458037570988677,10204,False,8,no_contact
+MYC targets v1 (H),ENSG00000239672,NME1,True,False,1.48675831057405,0.300416387598,10176,True,4,young_contact
+MYC targets v1 (H),ENSG00000108424,KPNB1,True,True,-0.345255478438356,0.235432297733872,10162,True,4,young_contact
+MYC targets v1 (H),ENSG00000182481,KPNA2,False,False,-0.102589365862252,0.418004043742584,10244,True,2,other_contact
+MYC targets v1 (H),ENSG00000108953,YWHAE,True,True,-0.408138211141745,0.120250879640123,9977,True,5,young_contact
+MYC targets v1 (H),ENSG00000277791,PSMB3,True,False,-0.230882705605529,0.182371295553549,10127,True,8,young_contact
+MYC targets v1 (H),ENSG00000167085,PHB1,True,True,-0.11725323375108,0.151858114033787,10169,True,3,young_contact
+MYC targets v1 (H),ENSG00000108561,C1QBP,True,True,-0.460477276099117,0.195360388095767,9993,True,7,young_contact
+MYC targets v1 (H),ENSG00000161547,SRSF2,True,True,-0.298028596460524,0.336072832876666,10278,True,12,young_contact
+MYC targets v1 (H),ENSG00000167088,SNRPD1,False,False,-1.20686624760043,0.241618392809826,10392,False,4,no_contact
+MYC targets v1 (H),ENSG00000141759,TXNL4A,False,True,0.0808865977551442,0.298793472093697,10626,True,5,other_contact
+MYC targets v1 (H),ENSG00000125870,SNRPB2,False,False,-0.607733074554288,0.220258875545028,10929,True,3,other_contact
+MYC targets v1 (H),ENSG00000101182,PSMA7,True,False,-0.0925245016052331,0.248847936471371,11111,True,7,young_contact
+MYC targets v1 (H),ENSG00000125977,EIF2S2,True,True,-0.362376122997541,0.548735482077869,10999,True,2,young_contact
+MYC targets v1 (H),ENSG00000101361,NOP56,False,True,0.0747535135438396,0.378495039732978,10873,True,6,other_contact
+MYC targets v1 (H),ENSG00000132646,PCNA,False,True,-0.524266877938731,0.353007963517659,10883,True,4,other_contact
+MYC targets v1 (H),ENSG00000126261,UBA2,False,False,-0.877247902939123,0.123898088166458,10765,True,6,other_contact
+MYC targets v1 (H),ENSG00000013275,PSMC4,False,False,-0.0127415346429195,0.326540118949064,10787,True,7,other_contact
+MYC targets v1 (H),ENSG00000063177,RPL18,True,True,0.111630260385353,-0.123307336154516,10822,True,13,young_contact
+MYC targets v1 (H),ENSG00000130332,LSM7,False,False,0.330155069847191,0.490269652667721,10637,True,11,other_contact
+MYC targets v1 (H),ENSG00000105618,PRPF31,False,False,0.477780700252618,0.1052802109488,10844,True,14,other_contact
+MYC targets v1 (H),ENSG00000125743,SNRPD2,True,True,-0.923845698694645,-0.0494170287774649,10810,True,9,young_contact
+MYC targets v1 (H),ENSG00000105202,FBL,False,False,0.435470939955181,0.0293708967652334,10787,True,7,other_contact
+MYC targets v1 (H),ENSG00000130726,TRIM28,False,False,0.719607575675633,0.0978336916422021,10862,True,6,other_contact
+MYC targets v1 (H),ENSG00000077312,SNRPA,True,False,0.319142663934907,0.210271533149978,10791,True,11,young_contact
+MYC targets v1 (H),ENSG00000099341,PSMD8,False,False,0.058416184774621,0.207589104632797,10781,True,12,other_contact
+MYC targets v1 (H),ENSG00000083845,RPS5,False,False,-0.321635173696857,-0.11514777417719,10861,True,13,other_contact
+MYC targets v1 (H),ENSG00000183207,RUVBL2,True,True,0.177225531415864,0.0910847740866811,10823,True,13,young_contact
+MYC targets v1 (H),ENSG00000100028,SNRPD3,False,False,-0.433293391753393,-0.0614482458186149,11406,True,5,other_contact
+MYC targets v1 (H),ENSG00000196419,XRCC6,True,False,-0.545944652744449,0.0637737418276867,11474,True,7,young_contact
+MYC targets v1 (H),ENSG00000093009,CDC45,True,False,0.162624070771759,1.19208481376965,11385,True,6,young_contact
+MYC targets v1 (H),ENSG00000100297,MCM5,False,False,0.891938059188888,0.475433416713036,11449,True,4,other_contact
+MYC targets v1 (H),ENSG00000099995,SF3A1,False,False,0.301655088441667,0.0383652697934372,11429,True,11,other_contact
+MYC targets v1 (H),ENSG00000100353,EIF3D,False,False,-0.512747688003115,-0.172578720552549,11454,True,3,other_contact
+MYC targets v1 (H),ENSG00000185651,UBE2L3,True,False,-0.446525156248588,-0.126000796020907,11394,True,7,young_contact
+MYC targets v1 (H),ENSG00000099901,RANBP1,True,False,0.485499648033218,0.266598413783888,11388,True,7,young_contact

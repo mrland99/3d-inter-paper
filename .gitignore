@@ -1,0 +1,9 @@
+# Jupyter / Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Too large for GitHub (1.9 GB): parsed GENCODE human GTF (one row per GTF record; columns chr, source, feature,
+# start, end, ..., gene_name, gene_type, gene_id). Used by Figure 2 (tgfb_analysis.ipynb), Figure 5
+# (psccm_expression.ipynb) and metadata/hg38/build_hg38_tss_annotation.py. Regenerate from the GENCODE human GTF.
+metadata/hg38/hg38_gtf.csv

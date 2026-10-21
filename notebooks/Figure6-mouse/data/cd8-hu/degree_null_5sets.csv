@@ -1,0 +1,6 @@
+set,pole,observed,null_mean,fold,emp_p,z
+"Effector core (Hu 2026, top-100)",T_EX_EFF,299,171.4,1.74,0.001,7.7
+"Effector-like (Giles 2022, top-100)",T_EX_EFF,288,180.3,1.6,0.001,6.5
+Effector (vs memory) (Kaech 2002),T_EX_EFF,838,496.2,1.69,0.001,11.5
+"Progenitor core (Hu 2026, top-100)",T_PEX,211,168.4,1.25,0.001,3.2
+"Stem/metabolic (Hu 2026, top-100)",T_PEX,159,134.9,1.18,0.0629,1.7

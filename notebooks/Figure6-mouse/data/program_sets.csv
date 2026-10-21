@@ -1,0 +1,6 @@
+set_id,clean,pole
+T_EX_EFF core top100 (ExpC-core),"Effector core (Hu 2026, top-100)",T_EX_EFF
+Eff-like top100 (T_EX_EFF) (Giles),"Effector-like (Giles 2022, top-100)",T_EX_EFF
+Day8-effector-vs-memory UP (Kaech) (external),Effector (vs memory) (Kaech 2002),T_EX_EFF
+T_PEX core top100 (ExpC-core),"Progenitor core (Hu 2026, top-100)",T_PEX
+ExpC4 top100 (T_PEX) (ExpC-topN),"Stem/metabolic (Hu 2026, top-100)",T_PEX

@@ -1,0 +1,4 @@
+core,pathway,k,n_genes,n_chromosomes,pairs_young,pairs_Shared,pairs_geriatric
+ifng,Interferon gamma response (H),13,37,8,9,112,323
+ifna,Interferon alpha response (H),8,30,8,4,80,179
+complement,Complement (H),8,49,13,31,371,291
